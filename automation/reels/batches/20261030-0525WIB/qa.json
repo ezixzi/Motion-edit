@@ -1,0 +1,42 @@
+{
+  "batch": "20261030-0525WIB",
+  "editorial_pass": true,
+  "slots": [
+    "tren_2026",
+    "kehidupan_sehari_hari",
+    "eksplorasi_teknologi",
+    "eksplorasi_teknologi",
+    "eksplorasi_teknologi"
+  ],
+  "frame_previews": [
+    65,
+    205,
+    465,
+    805,
+    1085
+  ],
+  "checked": [
+    "Each scene and max camera hold in scene3",
+    "Full head, hands and both shoes",
+    "No borrowed study media",
+    "Important content inside Reels guide",
+    "Lower captions broken into short phrases",
+    "Fixed literal newline in agent status label",
+    "Primary claims and original publication dates"
+  ],
+  "audio": "No narration or music.21 short original noise/tick transition cues,48kHz stereo",
+  "pending": [
+    "Immutable GitHub SHA256 match"
+  ],
+  "final_decode": "All5 passed",
+  "probe": "All5 1080x1920,30fps,H264 yuv420p,AAC,40s",
+  "audio_peak_dbfs": -24.1,
+  "extra_final_frames": [
+    119,
+    125,
+    145,
+    490,
+    835
+  ],
+  "final_frame_review": "All5 contact sheets inspected; additional transitions and max zoom checked for agent and privacy; both shoes intact, subtitles fit."
+}

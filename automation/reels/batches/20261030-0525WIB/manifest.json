@@ -1,0 +1,1545 @@
+[
+  {
+    "id": "agent",
+    "topic_id": "gemini-work-agent-oct2026",
+    "composition": "AgentWork2026",
+    "slug": "agen-ai-kerja-gemini-2026",
+    "title": "AI Kerja Mulai Mengejar Hasil, Bukan Sekadar Jawaban",
+    "editorial_slot": "tren_2026",
+    "source": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+    "sourceDate": "2026-10-08",
+    "eventDate": "2026-10-08",
+    "eventDescription": "Pengumuman Gemini agent di Gemini at Work 8 Oktober 2026; kemampuan dan akses mengikuti tahap preview, bukan ketersediaan umum.",
+    "additionalSources": [
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
+    ],
+    "trendEvidence": [
+      {
+        "url": "https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/",
+        "date": "2026-10-08",
+        "basis": "Liputan pengumuman dan persaingan agen kerja; hasil pencarian terverifikasi, halaman penuh tidak tersedia."
+      },
+      {
+        "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+        "date": "2026-10-08",
+        "basis": "Liputan independen pengumuman dan private preview; hasil pencarian, halaman penuh tidak tersedia."
+      },
+      {
+        "url": "https://venturebeat.com/ai/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage",
+        "date": "2026-10-08",
+        "basis": "Liputan peluncuran private preview menurut juru bicara Google; status terkini lebih luas tidak diklaim."
+      }
+    ],
+    "sourceLabel": "Google Cloud • 8 Okt 2026",
+    "category": "perkembangan2026",
+    "relevance": "Perkembangan agen pelaksana kerja dalam peluncuran besar Oktober 2026, dengan beberapa liputan independen. Tidak diklaim viral atau paling populer.",
+    "channel": "TREN 2026 / AI KERJA",
+    "limit": "UI ilustratif • akses dan kemampuan bergantung layanan.",
+    "accuracyNote": "Pengumuman 8 Oktober 2026, bukan tanggal lahir konsep agen. Kemampuan adalah deskripsi Google; akses baru dilaporkan private preview saat pengumuman. Bukan bukti AI bebas salah atau semua pengguna sudah mendapatkannya.",
+    "titles": [
+      "AI bukan cuma\nmenjawab chat.",
+      "01 / Satu tujuan.\nBeberapa langkah kerja.",
+      "02 / Rencana berubah\nmenjadi tindakan.",
+      "03 / Konteks bertahan.\nAkses tetap dibatasi.",
+      "Delegasikan kerja.\nTetap periksa hasil."
+    ],
+    "recap": [
+      [
+        "TUJUAN",
+        "HASIL YANG DIMINTA"
+      ],
+      [
+        "AKSES",
+        "TOOL YANG DIIZINKAN"
+      ],
+      [
+        "TINJAU",
+        "HASIL DAN JEJAK"
+      ]
+    ],
+    "closing": "Kerja apa yang\ningin kamu delegasikan?",
+    "pill": "PENGUMUMAN • 8 OKT 2026",
+    "caption": "Tren agen AI bergerak dari menjawab menuju mengerjakan tugas. Gemini agent diumumkan 8 Oktober 2026; saat pengumuman aksesnya masih private preview. Tetap periksa hasil dan izin alat. #AI #Teknologi2026",
+    "sections": [
+      {
+        "id": 0,
+        "start": 0,
+        "duration": 4,
+        "frames": 120,
+        "text": "AI kerja sekarang mengejar hasil, bukan sekadar jawaban.",
+        "speechText": "AI kerja sekarang mengejar hasil, bukan sekadar jawaban.",
+        "beats": [
+          {
+            "text": "AI kerja sekarang mengejar hasil,",
+            "at": 0.12,
+            "duration": 2.0625
+          },
+          {
+            "text": "bukan sekadar jawaban.",
+            "at": 2.1825,
+            "duration": 1.2374999999999998
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "duration": 8,
+        "frames": 240,
+        "text": "Pada Oktober, Google mengumumkan Gemini agent, yang dirancang mengerjakan tugas melalui berbagai alat dan aplikasi perusahaan.",
+        "speechText": "Pada Oktober, Google mengumumkan Gemini agent, yang dirancang mengerjakan tugas melalui berbagai alat dan aplikasi perusahaan.",
+        "beats": [
+          {
+            "text": "Pada Oktober, Google mengumumkan Gemini agent,",
+            "at": 0.25,
+            "duration": 2.7375
+          },
+          {
+            "text": "yang dirancang mengerjakan tugas",
+            "at": 2.9875,
+            "duration": 1.825
+          },
+          {
+            "text": "melalui berbagai alat dan aplikasi perusahaan.",
+            "at": 4.8125,
+            "duration": 2.7375
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "duration": 10,
+        "frames": 300,
+        "text": "Kamu memberi tujuan. Agen merencanakan langkah, memakai alat yang diizinkan, lalu membawa hasil kembali ke alur kerja.",
+        "speechText": "Kamu memberi tujuan. Agen merencanakan langkah, memakai alat yang diizinkan, lalu membawa hasil kembali ke alur kerja.",
+        "beats": [
+          {
+            "text": "Kamu memberi tujuan.",
+            "at": 0.25,
+            "duration": 1.6411764705882355
+          },
+          {
+            "text": "Agen merencanakan langkah, memakai alat yang diizinkan,",
+            "at": 1.8911764705882355,
+            "duration": 3.829411764705883
+          },
+          {
+            "text": "lalu membawa hasil kembali ke alur kerja.",
+            "at": 5.720588235294119,
+            "duration": 3.829411764705883
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "duration": 10,
+        "frames": 300,
+        "text": "Konteksnya bisa bertahan di cloud, tetapi akses tetap dibatasi. Saat diumumkan, agen ini masih pratinjau terbatas untuk pelanggan tertentu.",
+        "speechText": "Konteksnya bisa bertahan di cloud, tetapi akses tetap dibatasi. Saat diumumkan, agen ini masih pratinjau terbatas untuk pelanggan tertentu.",
+        "beats": [
+          {
+            "text": "Konteksnya bisa bertahan di cloud,",
+            "at": 0.25,
+            "duration": 2.4473684210526314
+          },
+          {
+            "text": "tetapi akses tetap dibatasi.",
+            "at": 2.6973684210526314,
+            "duration": 1.9578947368421054
+          },
+          {
+            "text": "Saat diumumkan, agen ini masih pratinjau terbatas",
+            "at": 4.655263157894737,
+            "duration": 3.426315789473685
+          },
+          {
+            "text": "untuk pelanggan tertentu.",
+            "at": 8.081578947368422,
+            "duration": 1.468421052631579
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
+        "text": "Bukan berarti hasilnya bebas salah. Kalau bisa mendelegasikan satu pekerjaan, kamu pilih apa?",
+        "speechText": "Bukan berarti hasilnya bebas salah. Kalau bisa mendelegasikan satu pekerjaan, kamu pilih apa?",
+        "beats": [
+          {
+            "text": "Bukan berarti hasilnya bebas salah.",
+            "at": 0.25,
+            "duration": 2.8076923076923075
+          },
+          {
+            "text": "Kalau bisa mendelegasikan satu pekerjaan,",
+            "at": 3.0576923076923075,
+            "duration": 2.8076923076923075
+          },
+          {
+            "text": "kamu pilih apa?",
+            "at": 5.865384615384615,
+            "duration": 1.6846153846153844
+          }
+        ]
+      }
+    ],
+    "captions": [
+      {
+        "text": "AI kerja sekarang mengejar hasil,",
+        "startMs": 120,
+        "endMs": 2182,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "bukan sekadar jawaban.",
+        "startMs": 2182,
+        "endMs": 3420,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Pada Oktober, Google mengumumkan Gemini agent,",
+        "startMs": 4250,
+        "endMs": 6988,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "yang dirancang mengerjakan tugas",
+        "startMs": 6988,
+        "endMs": 8812,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "melalui berbagai alat dan aplikasi perusahaan.",
+        "startMs": 8812,
+        "endMs": 11550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Kamu memberi tujuan.",
+        "startMs": 12250,
+        "endMs": 13891,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Agen merencanakan langkah, memakai alat yang diizinkan,",
+        "startMs": 13891,
+        "endMs": 17721,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "lalu membawa hasil kembali ke alur kerja.",
+        "startMs": 17721,
+        "endMs": 21550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Konteksnya bisa bertahan di cloud,",
+        "startMs": 22250,
+        "endMs": 24697,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "tetapi akses tetap dibatasi.",
+        "startMs": 24697,
+        "endMs": 26655,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Saat diumumkan, agen ini masih pratinjau terbatas",
+        "startMs": 26655,
+        "endMs": 30082,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "untuk pelanggan tertentu.",
+        "startMs": 30082,
+        "endMs": 31550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Bukan berarti hasilnya bebas salah.",
+        "startMs": 32250,
+        "endMs": 35058,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Kalau bisa mendelegasikan satu pekerjaan,",
+        "startMs": 35058,
+        "endMs": 37865,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "kamu pilih apa?",
+        "startMs": 37865,
+        "endMs": 39550,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "duration": 40,
+    "frames": 1200,
+    "voiceStatus": "none_user_will_dub",
+    "timing": "Script-based editorial mouth and caption cues, not recorded audio lip sync",
+    "illustration": "Original conceptual illustration; not study footage or exact CAD/data",
+    "output_path": "outputs/ai-tech/20261030-0525WIB-agen-ai-kerja-gemini-2026.mp4",
+    "sha256": "cd0950e01e7131948eb444555c47d46ff690e347e23c43f02af069ca835b262d",
+    "size": 7942836,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "30/1",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "40.000000",
+        "size": "7942836"
+      }
+    }
+  },
+  {
+    "id": "privacy",
+    "topic_id": "android-screen-share-privacy-oct2026",
+    "composition": "ScreenPrivacy2026",
+    "slug": "android-lindungi-layar-saat-sharing",
+    "title": "Berbagi Layar Bisa Membocorkan Bagian yang Kamu Lupakan",
+    "editorial_slot": "kehidupan_sehari_hari",
+    "source": "https://blog.google/security/new-android-scam-protections/",
+    "sourceDate": "2026-10-14",
+    "eventDate": "2026-10-14",
+    "eventDescription": "Pengumuman 14 Oktober 2026; perlindungan berbagi layar diperluas ke Chrome dan Android WebView, rollout bulan itu pada Android 15+.",
+    "additionalSources": [],
+    "sourceLabel": "Google Security • 14 Okt 2026",
+    "category": "perkembangan2026",
+    "relevance": "Berbagi layar untuk bantuan keluarga atau kerja adalah aktivitas harian; pembaruan Oktober memperluas perlindungan bidang sensitif pada browser.",
+    "channel": "SEHARI-HARI / PRIVASI",
+    "limit": "UI ilustratif • rollout dan dukungan perangkat berbeda.",
+    "accuracyNote": "Penyembunyian bagian sensitif berlaku pada bidang login dan layar pembayaran yang didukung saat screen sharing, bukan semua informasi rahasia otomatis tersaring. Sumber menyebut rollout Oktober pada Android 15+. Tidak menjamin semua perangkat/negara telah aktif.",
+    "titles": [
+      "Lagi berbagi layar?\nPassword ikut terlihat?",
+      "01 / Bagian sensitif\nperlu perlindungan.",
+      "02 / Chrome dan\nWebView ikut dilindungi.",
+      "03 / Android 15+.\nHadir bertahap.",
+      "Sebelum berbagi.\nCek dulu layarnya."
+    ],
+    "recap": [
+      [
+        "CEK",
+        "LAYAR YANG DIBAGI"
+      ],
+      [
+        "TUTUP",
+        "INFORMASI PRIBADI"
+      ],
+      [
+        "JAGA",
+        "PASSWORD DAN OTP"
+      ]
+    ],
+    "closing": "Kirim ke teman yang\nsering berbagi layar.",
+    "pill": "KEAMANAN DIGITAL SEHARI-HARI",
+    "caption": "Sering screen share untuk minta bantuan? Pembaruan Android Oktober 2026 memperluas penyembunyian bagian login/pembayaran ke Chrome dan WebView. Rollout bertahap pada Android 15+, bukan jaminan seluruh data pribadi otomatis tersembunyi. #Privasi #Android",
+    "sections": [
+      {
+        "id": 0,
+        "start": 0,
+        "duration": 4,
+        "frames": 120,
+        "text": "Berbagi layar? Bagian login bisa ikut dilihat orang.",
+        "speechText": "Berbagi layar? Bagian login bisa ikut dilihat orang.",
+        "beats": [
+          {
+            "text": "Berbagi layar?",
+            "at": 0.12,
+            "duration": 0.825
+          },
+          {
+            "text": "Bagian login bisa ikut dilihat orang.",
+            "at": 0.945,
+            "duration": 2.4749999999999996
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "duration": 8,
+        "frames": 240,
+        "text": "Google mengumumkan perluasan perlindungan berbagi layar agar bidang login dan layar pembayaran yang sensitif dapat disembunyikan.",
+        "speechText": "Google mengumumkan perluasan perlindungan berbagi layar agar bidang login dan layar pembayaran yang sensitif dapat disembunyikan.",
+        "beats": [
+          {
+            "text": "Google mengumumkan perluasan perlindungan berbagi layar",
+            "at": 0.25,
+            "duration": 2.7375
+          },
+          {
+            "text": "agar bidang login dan layar pembayaran",
+            "at": 2.9875,
+            "duration": 2.7375
+          },
+          {
+            "text": "yang sensitif dapat disembunyikan.",
+            "at": 5.725,
+            "duration": 1.825
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "duration": 10,
+        "frames": 300,
+        "text": "Perlindungan yang sebelumnya ada di aplikasi diperluas ke Chrome dan Android WebView, tempat halaman web tampil di aplikasi.",
+        "speechText": "Perlindungan yang sebelumnya ada di aplikasi diperluas ke Chrome dan Android WebView, tempat halaman web tampil di aplikasi.",
+        "beats": [
+          {
+            "text": "Perlindungan yang sebelumnya ada di aplikasi",
+            "at": 0.25,
+            "duration": 3.1
+          },
+          {
+            "text": "diperluas ke Chrome dan Android WebView,",
+            "at": 3.35,
+            "duration": 3.1
+          },
+          {
+            "text": "tempat halaman web tampil di aplikasi.",
+            "at": 6.45,
+            "duration": 3.1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "duration": 10,
+        "frames": 300,
+        "text": "Pembaruan Oktober ini digulirkan bertahap untuk Android lima belas ke atas. Jadi, jangan menganggap semua perangkatmu sudah terlindungi.",
+        "speechText": "Pembaruan Oktober ini digulirkan bertahap untuk Android lima belas ke atas. Jadi, jangan menganggap semua perangkatmu sudah terlindungi.",
+        "beats": [
+          {
+            "text": "Pembaruan Oktober ini digulirkan bertahap",
+            "at": 0.25,
+            "duration": 2.5833333333333335
+          },
+          {
+            "text": "untuk Android lima belas ke atas.",
+            "at": 2.8333333333333335,
+            "duration": 3.1
+          },
+          {
+            "text": "Jadi, jangan menganggap semua perangkatmu sudah terlindungi.",
+            "at": 5.933333333333334,
+            "duration": 3.616666666666667
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
+        "text": "Sebelum berbagi, tutup informasi pribadi. Dan jangan berikan password atau kode OTP kepada orang lain.",
+        "speechText": "Sebelum berbagi, tutup informasi pribadi. Dan jangan berikan password atau kode OTP kepada orang lain.",
+        "beats": [
+          {
+            "text": "Sebelum berbagi, tutup informasi pribadi.",
+            "at": 0.25,
+            "duration": 2.433333333333333
+          },
+          {
+            "text": "Dan jangan berikan password atau kode OTP",
+            "at": 2.683333333333333,
+            "duration": 3.4066666666666667
+          },
+          {
+            "text": "kepada orang lain.",
+            "at": 6.09,
+            "duration": 1.46
+          }
+        ]
+      }
+    ],
+    "captions": [
+      {
+        "text": "Berbagi layar?",
+        "startMs": 120,
+        "endMs": 945,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Bagian login bisa ikut dilihat orang.",
+        "startMs": 945,
+        "endMs": 3420,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Google mengumumkan perluasan perlindungan berbagi layar",
+        "startMs": 4250,
+        "endMs": 6988,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "agar bidang login dan layar pembayaran",
+        "startMs": 6988,
+        "endMs": 9725,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "yang sensitif dapat disembunyikan.",
+        "startMs": 9725,
+        "endMs": 11550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Perlindungan yang sebelumnya ada di aplikasi",
+        "startMs": 12250,
+        "endMs": 15350,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "diperluas ke Chrome dan Android WebView,",
+        "startMs": 15350,
+        "endMs": 18450,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "tempat halaman web tampil di aplikasi.",
+        "startMs": 18450,
+        "endMs": 21550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Pembaruan Oktober ini digulirkan bertahap",
+        "startMs": 22250,
+        "endMs": 24833,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "untuk Android lima belas ke atas.",
+        "startMs": 24833,
+        "endMs": 27933,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Jadi, jangan menganggap semua perangkatmu sudah terlindungi.",
+        "startMs": 27933,
+        "endMs": 31550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Sebelum berbagi, tutup informasi pribadi.",
+        "startMs": 32250,
+        "endMs": 34683,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Dan jangan berikan password atau kode OTP",
+        "startMs": 34683,
+        "endMs": 38090,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "kepada orang lain.",
+        "startMs": 38090,
+        "endMs": 39550,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "duration": 40,
+    "frames": 1200,
+    "voiceStatus": "none_user_will_dub",
+    "timing": "Script-based editorial mouth and caption cues, not recorded audio lip sync",
+    "illustration": "Original conceptual illustration; not study footage or exact CAD/data",
+    "output_path": "outputs/ai-tech/20261030-0525WIB-android-lindungi-layar-saat-sharing.mp4",
+    "sha256": "2f7d43d391d08f2dd2eee0369b79180590c618bdccc0df0e4c72ba589d700c9e",
+    "size": 8229626,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "30/1",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "40.000000",
+        "size": "8229626"
+      }
+    }
+  },
+  {
+    "id": "magnet",
+    "topic_id": "muse-magnetic-muscle-publication-2026",
+    "composition": "MagnetMuscle2026",
+    "slug": "magnet-kecil-baca-gerak-otot",
+    "title": "Magnet Kecil Membaca Gerak Otot dari Luar Kulit",
+    "editorial_slot": "eksplorasi_teknologi",
+    "source": "https://www.nature.com/articles/s44460-026-00157-6",
+    "sourceDate": "2026-10-29",
+    "eventDate": "2025-11-22",
+    "eventDescription": "Versi preprint diposting 22 November 2025; artikel peer-reviewed Nature Sensors terbit 29 Oktober 2026. Teknik pendahulu sudah ditunjukkan pada hewan pada 2021.",
+    "additionalSources": [
+      "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
+      "https://www.medrxiv.org/content/10.1101/2025.11.17.25340274v1.full"
+    ],
+    "sourceLabel": "Nature Sensors • 29 Okt 2026",
+    "category": "teknologi lama dengan sudut yang jarang dibahas",
+    "relevance": "Publikasi peer-reviewed hari ini memberi konteks baru untuk cara membaca mekanika otot secara nirkabel; bukan diklaim penemuan pertama 2026.",
+    "channel": "TECH / SENSOR OTOT",
+    "limit": "Ilustrasi anatomi • tugas virtual, tiga peserta.",
+    "accuracyNote": "Tiga peserta amputasi bawah lutut dengan prosedur AMI. Magnet 3 mm dibaca sensor eksternal; tugas studi menggerakkan kursor, bukan demonstrasi berjalan dengan prostesis. Riset memiliki preprint 2025 dan teknik pendahulu 2021; publikasi jurnal 29 Oktober 2026.",
+    "titles": [
+      "Magnet kecil.\nGerak otot terbaca.",
+      "01 / Dua penanda\ndi dalam otot.",
+      "02 / Jarak berubah.\nSensor membaca gerak.",
+      "03 / Tiga peserta.\nMenggerakkan kursor.",
+      "Membaca mekanika.\nBukan membaca pikiran."
+    ],
+    "recap": [
+      [
+        "3 mm",
+        "DIAMETER MAGNET"
+      ],
+      [
+        "SENSOR",
+        "DI LUAR KULIT"
+      ],
+      [
+        "3 ORANG",
+        "TUGAS VIRTUAL"
+      ]
+    ],
+    "closing": "Gerak tubuh jadi\nsinyal kendali.",
+    "pill": "PUBLIKASI JURNAL • 29 OKT 2026",
+    "caption": "Magnet 3 mm dan sensor di luar kulit mengukur mekanika otot. Studi tiga peserta memakai tugas kursor virtual. Artikel jurnal 29 Oktober 2026, dengan preprint November 2025; bukan penemuan pertama tahun ini atau prostesis siap pakai. #Sensor #Bionik",
+    "sections": [
+      {
+        "id": 0,
+        "start": 0,
+        "duration": 4,
+        "frames": 120,
+        "text": "Magnet sekecil ini bisa membantu membaca gerak otot.",
+        "speechText": "Magnet sekecil ini bisa membantu membaca gerak otot.",
+        "beats": [
+          {
+            "text": "Magnet sekecil ini",
+            "at": 0.12,
+            "duration": 1.2374999999999998
+          },
+          {
+            "text": "bisa membantu membaca gerak otot.",
+            "at": 1.3575,
+            "duration": 2.0625
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "duration": 8,
+        "frames": 240,
+        "text": "Riset yang terbit Oktober ini melacak magnet mungil di dalam otot menggunakan sensor yang dipasang di luar kulit.",
+        "speechText": "Riset yang terbit Oktober ini melacak magnet mungil di dalam otot menggunakan sensor yang dipasang di luar kulit.",
+        "beats": [
+          {
+            "text": "Riset yang terbit Oktober ini",
+            "at": 0.25,
+            "duration": 2.0277777777777777
+          },
+          {
+            "text": "melacak magnet mungil di dalam otot",
+            "at": 2.2777777777777777,
+            "duration": 2.433333333333333
+          },
+          {
+            "text": "menggunakan sensor yang dipasang di luar kulit.",
+            "at": 4.71111111111111,
+            "duration": 2.838888888888889
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "duration": 10,
+        "frames": 300,
+        "text": "Saat otot memendek atau memanjang, jarak antarmagnet berubah. Sistem mengubah pengukuran itu menjadi informasi gerakan secara nirkabel.",
+        "speechText": "Saat otot memendek atau memanjang, jarak antarmagnet berubah. Sistem mengubah pengukuran itu menjadi informasi gerakan secara nirkabel.",
+        "beats": [
+          {
+            "text": "Saat otot memendek atau memanjang,",
+            "at": 0.25,
+            "duration": 2.735294117647059
+          },
+          {
+            "text": "jarak antarmagnet berubah.",
+            "at": 2.985294117647059,
+            "duration": 1.6411764705882355
+          },
+          {
+            "text": "Sistem mengubah pengukuran itu menjadi informasi gerakan secara nirkabel.",
+            "at": 4.626470588235295,
+            "duration": 4.923529411764706
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "duration": 10,
+        "frames": 300,
+        "text": "Tiga peserta amputasi bawah lutut memakai sinyal tersebut untuk menggerakkan kursor. Ini tugas virtual, belum bukti berjalan dengan kaki robot.",
+        "speechText": "Tiga peserta amputasi bawah lutut memakai sinyal tersebut untuk menggerakkan kursor. Ini tugas virtual, belum bukti berjalan dengan kaki robot.",
+        "beats": [
+          {
+            "text": "Tiga peserta amputasi bawah lutut",
+            "at": 0.25,
+            "duration": 2.325
+          },
+          {
+            "text": "memakai sinyal tersebut untuk menggerakkan kursor.",
+            "at": 2.575,
+            "duration": 2.79
+          },
+          {
+            "text": "Ini tugas virtual, belum bukti berjalan dengan kaki robot.",
+            "at": 5.365,
+            "duration": 4.1850000000000005
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
+        "text": "Versi awal risetnya sudah ada sejak 2025. Kini publikasi jurnalnya terbit. Bukan pembaca pikiran!",
+        "speechText": "Versi awal risetnya sudah ada sejak 2025. Kini publikasi jurnalnya terbit. Bukan pembaca pikiran!",
+        "beats": [
+          {
+            "text": "Versi awal risetnya sudah ada sejak 2025.",
+            "at": 0.25,
+            "duration": 3.65
+          },
+          {
+            "text": "Kini publikasi jurnalnya terbit.",
+            "at": 3.9,
+            "duration": 2.085714285714286
+          },
+          {
+            "text": "Bukan pembaca pikiran!",
+            "at": 5.985714285714286,
+            "duration": 1.5642857142857143
+          }
+        ]
+      }
+    ],
+    "captions": [
+      {
+        "text": "Magnet sekecil ini",
+        "startMs": 120,
+        "endMs": 1358,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "bisa membantu membaca gerak otot.",
+        "startMs": 1358,
+        "endMs": 3420,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Riset yang terbit Oktober ini",
+        "startMs": 4250,
+        "endMs": 6278,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "melacak magnet mungil di dalam otot",
+        "startMs": 6278,
+        "endMs": 8711,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "menggunakan sensor yang dipasang di luar kulit.",
+        "startMs": 8711,
+        "endMs": 11550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Saat otot memendek atau memanjang,",
+        "startMs": 12250,
+        "endMs": 14985,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "jarak antarmagnet berubah.",
+        "startMs": 14985,
+        "endMs": 16626,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Sistem mengubah pengukuran itu menjadi informasi gerakan secara nirkabel.",
+        "startMs": 16626,
+        "endMs": 21550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Tiga peserta amputasi bawah lutut",
+        "startMs": 22250,
+        "endMs": 24575,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "memakai sinyal tersebut untuk menggerakkan kursor.",
+        "startMs": 24575,
+        "endMs": 27365,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Ini tugas virtual, belum bukti berjalan dengan kaki robot.",
+        "startMs": 27365,
+        "endMs": 31550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Versi awal risetnya sudah ada sejak 2025.",
+        "startMs": 32250,
+        "endMs": 35900,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Kini publikasi jurnalnya terbit.",
+        "startMs": 35900,
+        "endMs": 37986,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Bukan pembaca pikiran!",
+        "startMs": 37986,
+        "endMs": 39550,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "duration": 40,
+    "frames": 1200,
+    "voiceStatus": "none_user_will_dub",
+    "timing": "Script-based editorial mouth and caption cues, not recorded audio lip sync",
+    "illustration": "Original conceptual illustration; not study footage or exact CAD/data",
+    "output_path": "outputs/ai-tech/20261030-0525WIB-magnet-kecil-baca-gerak-otot.mp4",
+    "sha256": "7d7082eca3f253a5ca0fbdaa1c6b7e89d8be0319987553cb311a3849e134e7b3",
+    "size": 8747936,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "30/1",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "40.000000",
+        "size": "8747936"
+      }
+    }
+  },
+  {
+    "id": "glycine",
+    "topic_id": "glycine-stable-piezoelectric-2026",
+    "composition": "GlycineFilm2026",
+    "slug": "asam-amino-film-sensor-lentur",
+    "title": "Asam Amino Diubah Menjadi Film Sensor Lentur",
+    "editorial_slot": "eksplorasi_teknologi",
+    "source": "https://news.stanford.edu/stories/2026/10/engineering-amino-acid-future-sensors",
+    "sourceDate": "2026-10-06",
+    "eventDate": "2026-09-17",
+    "eventDescription": "Paper Advanced Functional Materials pertama terbit 17 September 2026; laporan Stanford 6 Oktober 2026.",
+    "additionalSources": [
+      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78513"
+    ],
+    "sourceLabel": "Stanford • 6 Okt 2026",
+    "category": "perkembangan2026",
+    "relevance": "Material lentur 2026 memperbaiki kestabilan glisin untuk calon sensor yang bisa terurai; cerita mekanisme bukan klaim alat medis sudah tersedia.",
+    "channel": "TECH / MATERIAL",
+    "limit": "Ilustrasi konsep • belum sensor klinis siap pakai.",
+    "accuracyNote": "Film komposit glisin mempertahankan sifat piezoelektrik setelah 60 hari dalam pengujian berair. Bukan masa pakai terjamin di tubuh. Pengujian suhu tubuh dan variasi pH menjadi langkah berikutnya; paper 17 September, artikel 6 Oktober.",
+    "titles": [
+      "Asam amino.\nBisa jadi sensor?",
+      "01 / Tekanan masuk.\nSinyal listrik keluar.",
+      "02 / Kristal dilindungi\ndi dalam polimer.",
+      "03 / Setelah 60 hari.\nSifatnya masih bertahan.",
+      "Lentur dan responsif.\nMasih perlu diuji."
+    ],
+    "recap": [
+      [
+        "GLISIN",
+        "ASAM AMINO"
+      ],
+      [
+        "POLIMER",
+        "PELINDUNG KRISTAL"
+      ],
+      [
+        "60 HARI",
+        "PENGUJIAN BERAIR"
+      ]
+    ],
+    "closing": "Sensor yang selesai\ntugas lalu terurai?",
+    "pill": "MATERIAL RISET • 2026",
+    "caption": "Komposit glisin-polimer menjaga sifat piezoelektrik setelah 60 hari dalam uji berair. Paper September 2026, laporan Stanford Oktober. Potensial untuk sensor terurai, tetapi kondisi tubuh belum teruji lengkap. #Material #Sensor",
+    "sections": [
+      {
+        "id": 0,
+        "start": 0,
+        "duration": 4,
+        "frames": 120,
+        "text": "Asam amino ini bisa menjadi bahan sensor lentur.",
+        "speechText": "Asam amino ini bisa menjadi bahan sensor lentur.",
+        "beats": [
+          {
+            "text": "Asam amino ini",
+            "at": 0.12,
+            "duration": 1.2374999999999998
+          },
+          {
+            "text": "bisa menjadi bahan sensor lentur.",
+            "at": 1.3575,
+            "duration": 2.0625
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "duration": 8,
+        "frames": 240,
+        "text": "Peneliti Stanford merekayasa glisin menjadi material piezoelektrik, yang menghasilkan sinyal listrik saat menerima tekanan mekanis.",
+        "speechText": "Peneliti Stanford merekayasa glisin menjadi material piezoelektrik, yang menghasilkan sinyal listrik saat menerima tekanan mekanis.",
+        "beats": [
+          {
+            "text": "Peneliti Stanford merekayasa glisin",
+            "at": 0.25,
+            "duration": 1.9466666666666665
+          },
+          {
+            "text": "menjadi material piezoelektrik,",
+            "at": 2.1966666666666663,
+            "duration": 1.46
+          },
+          {
+            "text": "yang menghasilkan sinyal listrik saat menerima tekanan mekanis.",
+            "at": 3.6566666666666663,
+            "duration": 3.893333333333333
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "duration": 10,
+        "frames": 300,
+        "text": "Masalahnya, glisin biasa cepat larut. Tim mengatur bentuk kristalnya dan menanamkannya dalam matriks polimer untuk memperlambat kerusakan.",
+        "speechText": "Masalahnya, glisin biasa cepat larut. Tim mengatur bentuk kristalnya dan menanamkannya dalam matriks polimer untuk memperlambat kerusakan.",
+        "beats": [
+          {
+            "text": "Masalahnya, glisin biasa cepat larut.",
+            "at": 0.25,
+            "duration": 2.735294117647059
+          },
+          {
+            "text": "Tim mengatur bentuk kristalnya",
+            "at": 2.985294117647059,
+            "duration": 2.1882352941176473
+          },
+          {
+            "text": "dan menanamkannya dalam matriks polimer untuk memperlambat kerusakan.",
+            "at": 5.173529411764706,
+            "duration": 4.376470588235295
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "duration": 10,
+        "frames": 300,
+        "text": "Setelah enam puluh hari dalam pengujian berair, campurannya masih mempertahankan sifat piezoelektrik. Tetapi kondisi di dalam tubuh masih perlu diuji.",
+        "speechText": "Setelah enam puluh hari dalam pengujian berair, campurannya masih mempertahankan sifat piezoelektrik. Tetapi kondisi di dalam tubuh masih perlu diuji.",
+        "beats": [
+          {
+            "text": "Setelah enam puluh hari dalam pengujian berair,",
+            "at": 0.25,
+            "duration": 3.2550000000000003
+          },
+          {
+            "text": "campurannya masih mempertahankan sifat piezoelektrik.",
+            "at": 3.5050000000000003,
+            "duration": 2.325
+          },
+          {
+            "text": "Tetapi kondisi di dalam tubuh masih perlu diuji.",
+            "at": 5.83,
+            "duration": 3.72
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
+        "text": "Arahnya menuju sensor yang bisa terurai. Bukan alat medis siap pakai, melainkan langkah material yang menarik.",
+        "speechText": "Arahnya menuju sensor yang bisa terurai. Bukan alat medis siap pakai, melainkan langkah material yang menarik.",
+        "beats": [
+          {
+            "text": "Arahnya menuju sensor yang bisa terurai.",
+            "at": 0.25,
+            "duration": 2.7375
+          },
+          {
+            "text": "Bukan alat medis siap pakai,",
+            "at": 2.9875,
+            "duration": 2.28125
+          },
+          {
+            "text": "melainkan langkah material yang menarik.",
+            "at": 5.26875,
+            "duration": 2.28125
+          }
+        ]
+      }
+    ],
+    "captions": [
+      {
+        "text": "Asam amino ini",
+        "startMs": 120,
+        "endMs": 1358,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "bisa menjadi bahan sensor lentur.",
+        "startMs": 1358,
+        "endMs": 3420,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Peneliti Stanford merekayasa glisin",
+        "startMs": 4250,
+        "endMs": 6197,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "menjadi material piezoelektrik,",
+        "startMs": 6197,
+        "endMs": 7657,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "yang menghasilkan sinyal listrik saat menerima tekanan mekanis.",
+        "startMs": 7657,
+        "endMs": 11550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Masalahnya, glisin biasa cepat larut.",
+        "startMs": 12250,
+        "endMs": 14985,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Tim mengatur bentuk kristalnya",
+        "startMs": 14985,
+        "endMs": 17174,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dan menanamkannya dalam matriks polimer untuk memperlambat kerusakan.",
+        "startMs": 17174,
+        "endMs": 21550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Setelah enam puluh hari dalam pengujian berair,",
+        "startMs": 22250,
+        "endMs": 25505,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "campurannya masih mempertahankan sifat piezoelektrik.",
+        "startMs": 25505,
+        "endMs": 27830,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Tetapi kondisi di dalam tubuh masih perlu diuji.",
+        "startMs": 27830,
+        "endMs": 31550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Arahnya menuju sensor yang bisa terurai.",
+        "startMs": 32250,
+        "endMs": 34988,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Bukan alat medis siap pakai,",
+        "startMs": 34988,
+        "endMs": 37269,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "melainkan langkah material yang menarik.",
+        "startMs": 37269,
+        "endMs": 39550,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "duration": 40,
+    "frames": 1200,
+    "voiceStatus": "none_user_will_dub",
+    "timing": "Script-based editorial mouth and caption cues, not recorded audio lip sync",
+    "illustration": "Original conceptual illustration; not study footage or exact CAD/data",
+    "output_path": "outputs/ai-tech/20261030-0525WIB-asam-amino-film-sensor-lentur.mp4",
+    "sha256": "b20e57a91b1b8b3c693c2eb45ef0070a5fd800a27b78838e202025dcc23a06be",
+    "size": 8784492,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "30/1",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "40.000000",
+        "size": "8784492"
+      }
+    }
+  },
+  {
+    "id": "lab",
+    "topic_id": "slac-spire-autonomous-lab-2026",
+    "composition": "SpireLab2026",
+    "slug": "laboratorium-ai-atur-eksperimen",
+    "title": "Laboratorium yang Dirancang Menyesuaikan Eksperimennya Sendiri",
+    "editorial_slot": "eksplorasi_teknologi",
+    "source": "https://www6.slac.stanford.edu/news/2026-10-08-slac-leads-new-project-build-self-driving-laboratory-future",
+    "sourceDate": "2026-10-08",
+    "eventDate": "2026-10-08",
+    "eventDescription": "Proyek SPIRE diumumkan 8 Oktober 2026; ini rencana pengembangan testbed, bukan laboratorium umum otonom yang selesai dibangun.",
+    "additionalSources": [],
+    "sourceLabel": "SLAC • 8 Okt 2026",
+    "category": "perkembangan2026",
+    "relevance": "Program pengembangan baru Oktober 2026 menghubungkan robot, kendali berkas dan analisis data dalam satu loop eksperimen.",
+    "channel": "TECH / LAB OTONOM",
+    "limit": "Konsep SPIRE • target pengembangan, bukan hasil akhir.",
+    "accuracyNote": "Sumber menggambarkan proyek dan target yang akan dibangun. Robot penangan sampel sudah ada, tetapi integrasi otonom end-to-end ini bukan hasil tuntas. Tidak diklaim peneliti digantikan atau penemuan ilmiah terjamin lebih cepat.",
+    "titles": [
+      "Eksperimen jalan.\nSetelannya ikut berubah.",
+      "01 / Robot menyiapkan\nsampel penelitian.",
+      "02 / Berkas disetel.\nData langsung dibaca.",
+      "03 / Hasil mengubah\nlangkah berikutnya.",
+      "Loop lebih cepat.\nPeneliti tetap menilai."
+    ],
+    "recap": [
+      [
+        "SAMPEL",
+        "DITANGANI ROBOT"
+      ],
+      [
+        "DATA",
+        "DIBACA SAAT UJI"
+      ],
+      [
+        "UMPAN BALIK",
+        "ATUR EKSPERIMEN"
+      ]
+    ],
+    "closing": "Bisa mengurangi\nkerja repetitif peneliti?",
+    "pill": "SPIRE • PROYEK DIUMUMKAN 2026",
+    "caption": "SPIRE diumumkan SLAC 8 Oktober 2026 untuk menghubungkan penanganan sampel, kendali berkas dan analisis langsung. Ini proyek pengembangan testbed, bukan laboratorium otonom lengkap yang sudah selesai. #AI #Sains",
+    "sections": [
+      {
+        "id": 0,
+        "start": 0,
+        "duration": 4,
+        "frames": 120,
+        "text": "Bagaimana kalau eksperimen bisa menyesuaikan langkahnya sendiri?",
+        "speechText": "Bagaimana kalau eksperimen bisa menyesuaikan langkahnya sendiri?",
+        "beats": [
+          {
+            "text": "Bagaimana kalau eksperimen",
+            "at": 0.12,
+            "duration": 1.4142857142857141
+          },
+          {
+            "text": "bisa menyesuaikan langkahnya sendiri?",
+            "at": 1.5342857142857143,
+            "duration": 1.8857142857142857
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "duration": 8,
+        "frames": 240,
+        "text": "SLAC mengumumkan SPIRE pada Oktober, proyek yang menghubungkan robot, alat penelitian, dan sistem AI dalam laboratorium otonom.",
+        "speechText": "SLAC mengumumkan SPIRE pada Oktober, proyek yang menghubungkan robot, alat penelitian, dan sistem AI dalam laboratorium otonom.",
+        "beats": [
+          {
+            "text": "SLAC mengumumkan SPIRE pada Oktober,",
+            "at": 0.25,
+            "duration": 2.1470588235294117
+          },
+          {
+            "text": "proyek yang menghubungkan robot,",
+            "at": 2.3970588235294117,
+            "duration": 1.7176470588235293
+          },
+          {
+            "text": "alat penelitian, dan sistem AI dalam laboratorium otonom.",
+            "at": 4.114705882352941,
+            "duration": 3.4352941176470586
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "duration": 10,
+        "frames": 300,
+        "text": "Targetnya, robot menangani sampel, berkas sinar disetel otomatis, dan data dianalisis saat eksperimen masih berjalan.",
+        "speechText": "Targetnya, robot menangani sampel, berkas sinar disetel otomatis, dan data dianalisis saat eksperimen masih berjalan.",
+        "beats": [
+          {
+            "text": "Targetnya, robot menangani sampel,",
+            "at": 0.25,
+            "duration": 2.48
+          },
+          {
+            "text": "berkas sinar disetel otomatis,",
+            "at": 2.73,
+            "duration": 2.48
+          },
+          {
+            "text": "dan data dianalisis saat eksperimen masih berjalan.",
+            "at": 5.21,
+            "duration": 4.340000000000001
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "duration": 10,
+        "frames": 300,
+        "text": "Hasil analisis kemudian membantu mengubah setelan untuk langkah berikutnya. Namun, ini proyek pengembangan, bukan laboratorium serba otomatis yang sudah selesai.",
+        "speechText": "Hasil analisis kemudian membantu mengubah setelan untuk langkah berikutnya. Namun, ini proyek pengembangan, bukan laboratorium serba otomatis yang sudah selesai.",
+        "beats": [
+          {
+            "text": "Hasil analisis kemudian membantu mengubah setelan",
+            "at": 0.25,
+            "duration": 2.79
+          },
+          {
+            "text": "untuk langkah berikutnya.",
+            "at": 3.04,
+            "duration": 1.395
+          },
+          {
+            "text": "Namun, ini proyek pengembangan,",
+            "at": 4.4350000000000005,
+            "duration": 1.86
+          },
+          {
+            "text": "bukan laboratorium serba otomatis yang sudah selesai.",
+            "at": 6.295000000000001,
+            "duration": 3.2550000000000003
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
+        "text": "Peneliti tetap mengevaluasi hasil. Yang ingin dipangkas adalah pekerjaan repetitif dan waktu menunggu analisis.",
+        "speechText": "Peneliti tetap mengevaluasi hasil. Yang ingin dipangkas adalah pekerjaan repetitif dan waktu menunggu analisis.",
+        "beats": [
+          {
+            "text": "Peneliti tetap mengevaluasi hasil.",
+            "at": 0.25,
+            "duration": 2.085714285714286
+          },
+          {
+            "text": "Yang ingin dipangkas adalah pekerjaan repetitif",
+            "at": 2.335714285714286,
+            "duration": 3.1285714285714286
+          },
+          {
+            "text": "dan waktu menunggu analisis.",
+            "at": 5.464285714285714,
+            "duration": 2.085714285714286
+          }
+        ]
+      }
+    ],
+    "captions": [
+      {
+        "text": "Bagaimana kalau eksperimen",
+        "startMs": 120,
+        "endMs": 1534,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "bisa menyesuaikan langkahnya sendiri?",
+        "startMs": 1534,
+        "endMs": 3420,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "SLAC mengumumkan SPIRE pada Oktober,",
+        "startMs": 4250,
+        "endMs": 6397,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "proyek yang menghubungkan robot,",
+        "startMs": 6397,
+        "endMs": 8115,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "alat penelitian, dan sistem AI dalam laboratorium otonom.",
+        "startMs": 8115,
+        "endMs": 11550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Targetnya, robot menangani sampel,",
+        "startMs": 12250,
+        "endMs": 14730,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "berkas sinar disetel otomatis,",
+        "startMs": 14730,
+        "endMs": 17210,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dan data dianalisis saat eksperimen masih berjalan.",
+        "startMs": 17210,
+        "endMs": 21550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Hasil analisis kemudian membantu mengubah setelan",
+        "startMs": 22250,
+        "endMs": 25040,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "untuk langkah berikutnya.",
+        "startMs": 25040,
+        "endMs": 26435,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Namun, ini proyek pengembangan,",
+        "startMs": 26435,
+        "endMs": 28295,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "bukan laboratorium serba otomatis yang sudah selesai.",
+        "startMs": 28295,
+        "endMs": 31550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Peneliti tetap mengevaluasi hasil.",
+        "startMs": 32250,
+        "endMs": 34336,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Yang ingin dipangkas adalah pekerjaan repetitif",
+        "startMs": 34336,
+        "endMs": 37464,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dan waktu menunggu analisis.",
+        "startMs": 37464,
+        "endMs": 39550,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "duration": 40,
+    "frames": 1200,
+    "voiceStatus": "none_user_will_dub",
+    "timing": "Script-based editorial mouth and caption cues, not recorded audio lip sync",
+    "illustration": "Original conceptual illustration; not study footage or exact CAD/data",
+    "output_path": "outputs/ai-tech/20261030-0525WIB-laboratorium-ai-atur-eksperimen.mp4",
+    "sha256": "258c988b726aac72e9501a1db7adfd4acfac04099578204da1457d20c5535a88",
+    "size": 9058398,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "30/1",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "40.000000",
+        "size": "9058398"
+      }
+    }
+  }
+]

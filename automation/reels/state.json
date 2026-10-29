@@ -2,7 +2,7 @@
   "version": 1,
   "active_batch": {
     "id": "20261030-0525WIB",
-    "status": "rendering",
+    "status": "uploaded_pending_remote_verification",
     "started_at": "2026-10-29T22:25:00Z",
     "topic_ids": [
       "gemini-work-agent-oct2026",
@@ -19,7 +19,14 @@
       "eksplorasi_teknologi",
       "eksplorasi_teknologi"
     ],
-    "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md"
+    "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md",
+    "output_paths": [
+      "outputs/ai-tech/20261030-0525WIB-agen-ai-kerja-gemini-2026.mp4",
+      "outputs/ai-tech/20261030-0525WIB-android-lindungi-layar-saat-sharing.mp4",
+      "outputs/ai-tech/20261030-0525WIB-magnet-kecil-baca-gerak-otot.mp4",
+      "outputs/ai-tech/20261030-0525WIB-asam-amino-film-sensor-lentur.mp4",
+      "outputs/ai-tech/20261030-0525WIB-laboratorium-ai-atur-eksperimen.mp4"
+    ]
   },
   "pending": [
     {
