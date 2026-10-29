@@ -1,36 +1,60 @@
 {
   "version": 1,
-  "active_batch": {
-    "id": "20261029-2126WIB",
-    "started_at": "2026-10-29T14:26:25Z",
-    "topic_ids": [
-      "robot-serangga-salto-2025",
-      "chip-retina-prima-2025",
-      "suara-baterai-riset-2025"
-    ],
-    "status": "verifying_uploads",
-    "checkpoint": "All three MP4s fully decoded; publication prepared. Keep topics pending until immutable raw download hashes match.",
-    "outputs": [
-      {
-        "path": "outputs/ai-tech/20261029-2126WIB-robot-serangga-salto.mp4",
-        "sha256": "9b7548d4414ced885d6085cfebaf000e1a695ee82c53bf6a41d50344f991b863"
-      },
-      {
-        "path": "outputs/ai-tech/20261029-2126WIB-chip-retina-bantu-membaca.mp4",
-        "sha256": "1a4e9e5c0a842c0cbdb35f30ff65f627d202cad293decf0b3c6f2349b7aa8ac5"
-      },
-      {
-        "path": "outputs/ai-tech/20261029-2126WIB-sinyal-suara-baterai.mp4",
-        "sha256": "6d693521ac347d81d550e6768bfb664fad22b626f03f0c1dd25fe3ab49690e8e"
-      }
-    ]
-  },
-  "pending": [
-    "robot-serangga-salto-2025",
-    "chip-retina-prima-2025",
-    "suara-baterai-riset-2025"
+  "active_batch": null,
+  "pending": [],
+  "completed": [
+    {
+      "topic_id": "robot-serangga-salto-2025",
+      "title": "Robot Serangga yang Salto 10 Kali",
+      "source_urls": [
+        "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203"
+      ],
+      "source_dates": [
+        "2025-12-03"
+      ],
+      "output_path": "outputs/ai-tech/20261029-2126WIB-robot-serangga-salto.mp4",
+      "sha256": "9b7548d4414ced885d6085cfebaf000e1a695ee82c53bf6a41d50344f991b863",
+      "published_at": "2026-10-29 14:43:41 UTC",
+      "duration": 40,
+      "size": 10576660,
+      "verified_commit": "1b2585b1ffc43fc1f91276d0c05e5e1cc710a7b2",
+      "production_notes": "automation/reels/batches/20261029-2126WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "chip-retina-prima-2025",
+      "title": "Chip Retina Membantu Orang Membaca",
+      "source_urls": [
+        "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html"
+      ],
+      "source_dates": [
+        "2025-10-20"
+      ],
+      "output_path": "outputs/ai-tech/20261029-2126WIB-chip-retina-bantu-membaca.mp4",
+      "sha256": "1a4e9e5c0a842c0cbdb35f30ff65f627d202cad293decf0b3c6f2349b7aa8ac5",
+      "published_at": "2026-10-29 14:43:41 UTC",
+      "duration": 40,
+      "size": 8825993,
+      "verified_commit": "1b2585b1ffc43fc1f91276d0c05e5e1cc710a7b2",
+      "production_notes": "automation/reels/batches/20261029-2126WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "suara-baterai-riset-2025",
+      "title": "Baterai Punya Jejak Suara Kerusakan",
+      "source_urls": [
+        "https://news.mit.edu/2025/decoding-sounds-battery-formation-degradation-0916"
+      ],
+      "source_dates": [
+        "2025-09-16"
+      ],
+      "output_path": "outputs/ai-tech/20261029-2126WIB-sinyal-suara-baterai.mp4",
+      "sha256": "6d693521ac347d81d550e6768bfb664fad22b626f03f0c1dd25fe3ab49690e8e",
+      "published_at": "2026-10-29 14:43:41 UTC",
+      "duration": 40,
+      "size": 9801817,
+      "verified_commit": "1b2585b1ffc43fc1f91276d0c05e5e1cc710a7b2",
+      "production_notes": "automation/reels/batches/20261029-2126WIB/DELIVERY.md"
+    }
   ],
-  "completed": [],
   "avoid_topics": [
     "1933 Double Eagle coin",
     "British Guiana stamp",
@@ -46,7 +70,7 @@
     "AI-assisted video editing",
     "video made with Codex"
   ],
-  "updated_at": "2026-10-29T14:26:25Z",
+  "updated_at": "2026-10-29 14:43:41 UTC",
   "model_requirement": {
     "model": "gpt-6.1-sol",
     "reasoning_effort": "medium",
@@ -54,8 +78,20 @@
     "verification": "user_confirmed_available_proceed_2026-10-29"
   },
   "last_attempt": {
-    "at": "2026-10-29T14:26:25Z",
-    "status": "in_progress",
-    "reason": "User confirmed availability and directed immediate production; no claim of runtime metadata verification."
+    "at": "2026-10-29 14:43:41 UTC",
+    "status": "completed_verified",
+    "produced": 3,
+    "remote_sha256_matched": true
+  },
+  "last_batch": {
+    "id": "20261029-2126WIB",
+    "completed_at": "2026-10-29 14:43:41 UTC",
+    "status": "completed_verified",
+    "count": 3,
+    "output_paths": [
+      "outputs/ai-tech/20261029-2126WIB-robot-serangga-salto.mp4",
+      "outputs/ai-tech/20261029-2126WIB-chip-retina-bantu-membaca.mp4",
+      "outputs/ai-tech/20261029-2126WIB-sinyal-suara-baterai.mp4"
+    ]
   }
 }

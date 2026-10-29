@@ -1,0 +1,23 @@
+[
+  {
+    "id": "robot",
+    "output_path": "outputs/ai-tech/20261029-2126WIB-robot-serangga-salto.mp4",
+    "sha256": "9b7548d4414ced885d6085cfebaf000e1a695ee82c53bf6a41d50344f991b863",
+    "remote_commit": "1b2585b1ffc43fc1f91276d0c05e5e1cc710a7b2",
+    "verified": true
+  },
+  {
+    "id": "retina",
+    "output_path": "outputs/ai-tech/20261029-2126WIB-chip-retina-bantu-membaca.mp4",
+    "sha256": "1a4e9e5c0a842c0cbdb35f30ff65f627d202cad293decf0b3c6f2349b7aa8ac5",
+    "remote_commit": "1b2585b1ffc43fc1f91276d0c05e5e1cc710a7b2",
+    "verified": true
+  },
+  {
+    "id": "battery",
+    "output_path": "outputs/ai-tech/20261029-2126WIB-sinyal-suara-baterai.mp4",
+    "sha256": "6d693521ac347d81d550e6768bfb664fad22b626f03f0c1dd25fe3ab49690e8e",
+    "remote_commit": "1b2585b1ffc43fc1f91276d0c05e5e1cc710a7b2",
+    "verified": true
+  }
+]
