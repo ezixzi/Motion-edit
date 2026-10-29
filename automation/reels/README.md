@@ -2,6 +2,12 @@
 
 Portable production inputs for the user's explicit request to produce three original AI/technology MP4s per execution and publish them to ezixzi/Motion-edit. The schedule belongs to the ChatGPT task; this repository is the durable source/template/queue, not a GitHub Actions cron.
 
+## Latest editorial priority — 29 October 2026
+
+Prioritize genuinely current AI/technology developments from2026, especially the latest weeks/months supported by primary sources. Research current sources on each run. Compare the actual event/research/product-version date against article publication date: a fresh article about old work is not a new breakthrough. The three2025 seed topics are completed history, not the default for future content.
+
+Older technology is allowed as an exception when its mechanism/fact is seldom discussed, has a strong story and remains relevant. State original year/context honestly; never relabel older research as2026 or claim latest/first without support. For each future topic record source publication date, event/research/version date when known, present relevance and whether it is a2026 development or older technology with an unusual angle. Do not invent recent news or accept weak evidence just to satisfy recency. Preserve the approved video/audio/character/QA requirements.
+
 ## Inputs and first batch
 
 Read SEED_SCRIPTS.md as source material/editorial guidance. Current direct user preference takes precedence: NO GENERATED NARRATION, NO MUSIC; user will dub independently. Timing/word-count targets in the attachment are guidance, not proof of real reading duration. No paid generation services, voice cloning or model downloads are required. Follow seed-queue.json and state.json, starting with the three seed topics. After they are used, research three relevant AI/technology stories, avoid repetitions, and verify primary sources and publication dates. Do not invent discoveries, precision or links. Bounded corrections for factual accuracy are authorized; record them in production notes.
