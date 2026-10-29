@@ -2,9 +2,15 @@
   "version": 1,
   "active_batch": {
     "id": "20261030-0525WIB",
-    "status": "researching",
+    "status": "visual_qa",
     "started_at": "2026-10-29T22:25:00Z",
-    "topic_ids": [],
+    "topic_ids": [
+      "gemini-work-agent-oct2026",
+      "android-screen-share-privacy-oct2026",
+      "muse-magnetic-muscle-publication-2026",
+      "glycine-stable-piezoelectric-2026",
+      "slac-spire-autonomous-lab-2026"
+    ],
     "target_count": 5,
     "editorial_slots": [
       "tren_2026",
@@ -14,7 +20,75 @@
       "eksplorasi_teknologi"
     ]
   },
-  "pending": [],
+  "pending": [
+    {
+      "id": "agent",
+      "topic_id": "gemini-work-agent-oct2026",
+      "title": "AI Kerja Mulai Mengejar Hasil, Bukan Sekadar Jawaban",
+      "source": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "sourceDate": "2026-10-08",
+      "eventDate": "2026-10-08",
+      "editorial_slot": "tren_2026",
+      "accuracyNote": "Pengumuman 8 Oktober 2026, bukan tanggal lahir konsep agen. Kemampuan adalah deskripsi Google; akses baru dilaporkan private preview saat pengumuman. Bukan bukti AI bebas salah atau semua pengguna sudah mendapatkannya.",
+      "trendEvidence": [
+        {
+          "url": "https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/",
+          "date": "2026-10-08",
+          "basis": "Liputan pengumuman dan persaingan agen kerja; hasil pencarian terverifikasi, halaman penuh tidak tersedia."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+          "date": "2026-10-08",
+          "basis": "Liputan independen pengumuman dan private preview; hasil pencarian, halaman penuh tidak tersedia."
+        },
+        {
+          "url": "https://venturebeat.com/ai/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage",
+          "date": "2026-10-08",
+          "basis": "Liputan peluncuran private preview menurut juru bicara Google; status terkini lebih luas tidak diklaim."
+        }
+      ]
+    },
+    {
+      "id": "privacy",
+      "topic_id": "android-screen-share-privacy-oct2026",
+      "title": "Berbagi Layar Bisa Membocorkan Bagian yang Kamu Lupakan",
+      "source": "https://blog.google/security/new-android-scam-protections/",
+      "sourceDate": "2026-10-14",
+      "eventDate": "2026-10-14",
+      "editorial_slot": "kehidupan_sehari_hari",
+      "accuracyNote": "Penyembunyian bagian sensitif berlaku pada bidang login dan layar pembayaran yang didukung saat screen sharing, bukan semua informasi rahasia otomatis tersaring. Sumber menyebut rollout Oktober pada Android 15+. Tidak menjamin semua perangkat/negara telah aktif."
+    },
+    {
+      "id": "magnet",
+      "topic_id": "muse-magnetic-muscle-publication-2026",
+      "title": "Magnet Kecil Membaca Gerak Otot dari Luar Kulit",
+      "source": "https://www.nature.com/articles/s44460-026-00157-6",
+      "sourceDate": "2026-10-29",
+      "eventDate": "2025-11-22",
+      "editorial_slot": "eksplorasi_teknologi",
+      "accuracyNote": "Tiga peserta amputasi bawah lutut dengan prosedur AMI. Magnet 3 mm dibaca sensor eksternal; tugas studi menggerakkan kursor, bukan demonstrasi berjalan dengan prostesis. Riset memiliki preprint 2025 dan teknik pendahulu 2021; publikasi jurnal 29 Oktober 2026."
+    },
+    {
+      "id": "glycine",
+      "topic_id": "glycine-stable-piezoelectric-2026",
+      "title": "Asam Amino Diubah Menjadi Film Sensor Lentur",
+      "source": "https://news.stanford.edu/stories/2026/10/engineering-amino-acid-future-sensors",
+      "sourceDate": "2026-10-06",
+      "eventDate": "2026-09-17",
+      "editorial_slot": "eksplorasi_teknologi",
+      "accuracyNote": "Film komposit glisin mempertahankan sifat piezoelektrik setelah 60 hari dalam pengujian berair. Bukan masa pakai terjamin di tubuh. Pengujian suhu tubuh dan variasi pH menjadi langkah berikutnya; paper 17 September, artikel 6 Oktober."
+    },
+    {
+      "id": "lab",
+      "topic_id": "slac-spire-autonomous-lab-2026",
+      "title": "Laboratorium yang Dirancang Menyesuaikan Eksperimennya Sendiri",
+      "source": "https://www6.slac.stanford.edu/news/2026-10-08-slac-leads-new-project-build-self-driving-laboratory-future",
+      "sourceDate": "2026-10-08",
+      "eventDate": "2026-10-08",
+      "editorial_slot": "eksplorasi_teknologi",
+      "accuracyNote": "Sumber menggambarkan proyek dan target yang akan dibangun. Robot penangan sampel sudah ada, tetapi integrasi otonom end-to-end ini bukan hasil tuntas. Tidak diklaim peneliti digantikan atau penemuan ilmiah terjamin lebih cepat."
+    }
+  ],
   "completed": [
     {
       "topic_id": "robot-serangga-salto-2025",

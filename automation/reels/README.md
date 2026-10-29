@@ -55,3 +55,8 @@ Use current tools/network policy; preserve proxy and TLS. The user's authorizati
 User authorized routine research/network, filesystem work, fixes, rendering, QA and publishing to this repository without repeated confirmation. Stay within this production scope; this does not request social posting or third-party messaging. Respect technical connection requirements and platform network policy.
 
 Large parallel base64 shell reads stalled during this batch. Successful recovery used one bounded shell read per functions.exec call, raw chunks737280bytes (base64983040characters, below the observed shell-output cap around1MiB), validating each length and accumulating chunks via session store. Do not run dozens of binary-read tools concurrently or put the entire transfer loop inside one long yielded cell. Join chunks and create one GitHub blob per MP4; verify returned blob against local git hash-object, then publish preserving base tree and expected HEAD. Finally download each immutable raw output and match SHA256 before marking complete. Keep original rendered files and checkpoint; a stalled upload does not require rerendering.
+
+
+## Required editorial mix — 30 October 2026
+
+Each batch of5 must include one verifiably current2026 trend story and one DIFFERENT everyday-technology story. Record editorial_slot (tren_2026 / kehidupan_sehari_hari / eksplorasi_teknologi), source/event dates, relevance and dated evidence of the trend. A recent article alone does not establish a trend. The other three slots follow current2026 technology and topic-diversity requirements. Do not count one video twice. Routine authorized research/render/QA/GitHub publication proceeds without repeated permission questions; platform access controls still apply.
