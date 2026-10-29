@@ -10,8 +10,8 @@
       "nasa-commercial-relay-launch-2026",
       "biohybrid-aquabot-2026"
     ],
-    "status": "writing_topic_specific_animation",
-    "checkpoint": "Five 2026 primary sources and original-work dates checked. InstructMesh preprintAug28/newsOct1; X-Hinges preprintSep10/newsOct22; SANDO newsOct7; NASA launchOct20; aquabot paper/newsSep29."
+    "status": "rendering",
+    "checkpoint": "Five topic-specific animations and 2026 source dates recorded. TypeScript passed and frames sampled across all five topics; corrected overflow and factual label wording before final renders. Local /workspace/work/reels-batches/20261030-0122WIB."
   },
   "pending": [
     "instructmesh-refinement-2026",
