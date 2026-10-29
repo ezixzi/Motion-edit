@@ -22,5 +22,17 @@
     "AI-assisted video editing",
     "video made with Codex"
   ],
-  "updated_at": null
+  "updated_at": "2026-10-29 13:40:55 UTC",
+  "model_requirement": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "medium",
+    "fallback_allowed": false,
+    "verification": "unavailable_in_task_tools"
+  },
+  "last_attempt": {
+    "at": "2026-10-29 13:40:55 UTC",
+    "status": "blocked_model_unverified",
+    "reason": "User requires GPT-6.1 Sol with Medium effort; Task tools expose neither selection nor authoritative current model/effort metadata. No quota reset telemetry or event trigger is available. Production halted without rendering or marking topics complete.",
+    "next_step": "Verify/select the required model and effort using official platform controls before production; resume pending topics from current queue."
+  }
 }
