@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "active_batch": null,
+  "pending": [
+    "robot-serangga-salto-2025",
+    "chip-retina-prima-2025",
+    "suara-baterai-riset-2025"
+  ],
+  "completed": [],
+  "avoid_topics": [
+    "1933 Double Eagle coin",
+    "British Guiana stamp",
+    "Stradivarius",
+    "lobster history",
+    "aircraft windows and black boxes",
+    "concrete energy storage",
+    "Indonesia middle class 2019-2024",
+    "rotating detonation engine",
+    "Nazca AI geoglyphs",
+    "phone battery heat and optimized charging",
+    "passive solar desalination",
+    "AI-assisted video editing",
+    "video made with Codex"
+  ],
+  "updated_at": null
+}

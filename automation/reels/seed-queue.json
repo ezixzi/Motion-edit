@@ -1,0 +1,23 @@
+[
+  {
+    "id": "robot-serangga-salto-2025",
+    "title": "Robot Serangga yang Salto 10 Kali",
+    "source": "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203",
+    "date": "2025-12-03",
+    "note": "MIT News states speed increase about 450%, not exact 447%. Use sekitar 450 persen unless exact 447 is verified in primary paper DOI10.1126/sciadv.aea8716. 10 flips in 11s is experimental footage, not operational rescue capability."
+  },
+  {
+    "id": "chip-retina-prima-2025",
+    "title": "Chip Retina Membantu Orang Membaca",
+    "source": "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html",
+    "date": "2025-10-20",
+    "note": "27 of32 one-year completers could read with device. Trial enrolled38. Advanced geographic atrophy due AMD, not all blindness, not normal vision. DOI10.1056/NEJMoa2501396."
+  },
+  {
+    "id": "suara-baterai-riset-2025",
+    "title": "Baterai Mengeluarkan Sinyal Akustik Saat Rusak",
+    "source": "https://news.mit.edu/2025/decoding-sounds-battery-formation-degradation-0916",
+    "date": "2025-09-16",
+    "note": "Special sensors record faint acoustic emissions; gas bubbles and material fractures identified. Not ordinary audible phone sound. Practical monitoring is research-stage. News datedSep16, paper reportedSep5."
+  }
+]

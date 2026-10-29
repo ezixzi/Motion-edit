@@ -1,0 +1,159 @@
+{
+  "title": "Video Ini Cuma Dibuat Pakai Codex",
+  "duration": 41,
+  "frames": 1230,
+  "voiceStatus": "none_user_will_dub",
+  "timing": "Editorial guide timing, not aligned to recorded speech",
+  "sections": [
+    {
+      "id": 0,
+      "start": 0,
+      "duration": 6,
+      "frames": 180,
+      "text": "Ini bukan rekaman layar. Video yang kamu tonton ini dibuat pakai Codex.",
+      "speechText": "Ini bukan rekaman layar. Video yang kamu tonton ini dibuat pakai Codex.",
+      "beats": [
+        {
+          "text": "Ini bukan rekaman layar.",
+          "at": 0.3,
+          "duration": 1.7667
+        },
+        {
+          "text": "Video yang kamu tonton ini",
+          "at": 2.0667,
+          "duration": 2.2083
+        },
+        {
+          "text": "dibuat pakai Codex.",
+          "at": 4.275,
+          "duration": 1.325
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "duration": 8,
+      "frames": 240,
+      "text": "Aku memberi ide, warna, dan karakter referensi. Codex menyusun kode untuk menggerakkan elemen di layar.",
+      "speechText": "Aku memberi ide, warna, dan karakter referensi. Codex menyusun kode untuk menggerakkan elemen di layar.",
+      "beats": [
+        {
+          "text": "Aku memberi ide, warna,",
+          "at": 0.3,
+          "duration": 1.9467
+        },
+        {
+          "text": "dan karakter referensi.",
+          "at": 2.2467,
+          "duration": 1.46
+        },
+        {
+          "text": "Codex menyusun kode",
+          "at": 3.7067,
+          "duration": 1.46
+        },
+        {
+          "text": "untuk menggerakkan elemen di layar.",
+          "at": 5.1667,
+          "duration": 2.4333
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "duration": 9,
+      "frames": 270,
+      "text": "Teks muncul bertahap, karakter memberi gestur, kamera mendekat, dan efek suara masuk sesuai momen. Bukan cuma gambar diam.",
+      "speechText": "Teks muncul bertahap, karakter memberi gestur, kamera mendekat, dan efek suara masuk sesuai momen. Bukan cuma gambar diam.",
+      "beats": [
+        {
+          "text": "Teks muncul bertahap,",
+          "at": 0.3,
+          "duration": 1.3833
+        },
+        {
+          "text": "karakter memberi gestur,",
+          "at": 1.6833,
+          "duration": 1.3833
+        },
+        {
+          "text": "kamera mendekat,",
+          "at": 3.0667,
+          "duration": 0.9222
+        },
+        {
+          "text": "dan efek suara masuk sesuai momen.",
+          "at": 3.9889,
+          "duration": 2.7667
+        },
+        {
+          "text": "Bukan cuma gambar diam.",
+          "at": 6.7556,
+          "duration": 1.8444
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "duration": 9,
+      "frames": 270,
+      "text": "Hasilnya tetap aku tinjau. Kalau geraknya kurang pas, aku minta revisi, lalu kode dirender menjadi MP4.",
+      "speechText": "Hasilnya tetap aku tinjau. Kalau geraknya kurang pas, aku minta revisi, lalu kode dirender menjadi MP4.",
+      "beats": [
+        {
+          "text": "Hasilnya tetap aku tinjau.",
+          "at": 0.3,
+          "duration": 2.075
+        },
+        {
+          "text": "Kalau geraknya kurang pas,",
+          "at": 2.375,
+          "duration": 2.075
+        },
+        {
+          "text": "aku minta revisi,",
+          "at": 4.45,
+          "duration": 1.5563
+        },
+        {
+          "text": "lalu kode dirender menjadi MP4.",
+          "at": 6.0063,
+          "duration": 2.5938
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 32,
+      "duration": 9,
+      "frames": 270,
+      "text": "Jadi, kamu bawa idenya. Codex membantu membangunnya. Kalau bisa bikin video seperti ini, topik apa yang akan kamu pilih?",
+      "speechText": "Jadi, kamu bawa idenya. Codex membantu membangunnya. Kalau bisa bikin video seperti ini, topik apa yang akan kamu pilih?",
+      "beats": [
+        {
+          "text": "Jadi, kamu bawa idenya.",
+          "at": 0.3,
+          "duration": 1.7474
+        },
+        {
+          "text": "Codex membantu membangunnya.",
+          "at": 2.0474,
+          "duration": 1.3105
+        },
+        {
+          "text": "Kalau bisa bikin video seperti ini,",
+          "at": 3.3579,
+          "duration": 2.6211
+        },
+        {
+          "text": "topik apa yang akan kamu pilih?",
+          "at": 5.9789,
+          "duration": 2.6211
+        }
+      ]
+    }
+  ]
+}
