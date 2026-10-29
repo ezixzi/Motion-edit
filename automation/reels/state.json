@@ -2,7 +2,7 @@
   "version": 1,
   "active_batch": {
     "id": "20261030-0525WIB",
-    "status": "visual_qa",
+    "status": "rendering",
     "started_at": "2026-10-29T22:25:00Z",
     "topic_ids": [
       "gemini-work-agent-oct2026",
@@ -18,7 +18,8 @@
       "eksplorasi_teknologi",
       "eksplorasi_teknologi",
       "eksplorasi_teknologi"
-    ]
+    ],
+    "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md"
   },
   "pending": [
     {

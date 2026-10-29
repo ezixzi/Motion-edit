@@ -1,0 +1,16 @@
+Laboratorium yang Dirancang Menyesuaikan Eksperimennya Sendiri
+
+00–04 detik
+Bagaimana kalau eksperimen bisa menyesuaikan langkahnya sendiri?
+
+04–12 detik
+SLAC mengumumkan SPIRE pada Oktober, proyek yang menghubungkan robot, alat penelitian, dan sistem AI dalam laboratorium otonom.
+
+12–22 detik
+Targetnya, robot menangani sampel, berkas sinar disetel otomatis, dan data dianalisis saat eksperimen masih berjalan.
+
+22–32 detik
+Hasil analisis kemudian membantu mengubah setelan untuk langkah berikutnya. Namun, ini proyek pengembangan, bukan laboratorium serba otomatis yang sudah selesai.
+
+32–40 detik
+Peneliti tetap mengevaluasi hasil. Yang ingin dipangkas adalah pekerjaan repetitif dan waktu menunggu analisis.

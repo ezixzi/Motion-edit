@@ -1,0 +1,59 @@
+1
+00:00:00,120 --> 00:00:02,182
+AI kerja sekarang mengejar hasil,
+
+2
+00:00:02,182 --> 00:00:03,420
+bukan sekadar jawaban.
+
+3
+00:00:04,250 --> 00:00:06,988
+Pada Oktober, Google mengumumkan Gemini agent,
+
+4
+00:00:06,988 --> 00:00:08,812
+yang dirancang mengerjakan tugas
+
+5
+00:00:08,812 --> 00:00:11,550
+melalui berbagai alat dan aplikasi perusahaan.
+
+6
+00:00:12,250 --> 00:00:13,891
+Kamu memberi tujuan.
+
+7
+00:00:13,891 --> 00:00:17,721
+Agen merencanakan langkah, memakai alat yang diizinkan,
+
+8
+00:00:17,721 --> 00:00:21,550
+lalu membawa hasil kembali ke alur kerja.
+
+9
+00:00:22,250 --> 00:00:24,697
+Konteksnya bisa bertahan di cloud,
+
+10
+00:00:24,697 --> 00:00:26,655
+tetapi akses tetap dibatasi.
+
+11
+00:00:26,655 --> 00:00:30,082
+Saat diumumkan, agen ini masih pratinjau terbatas
+
+12
+00:00:30,082 --> 00:00:31,550
+untuk pelanggan tertentu.
+
+13
+00:00:32,250 --> 00:00:35,058
+Bukan berarti hasilnya bebas salah.
+
+14
+00:00:35,058 --> 00:00:37,865
+Kalau bisa mendelegasikan satu pekerjaan,
+
+15
+00:00:37,865 --> 00:00:39,550
+kamu pilih apa?

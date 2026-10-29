@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:01,358
+Magnet sekecil ini
+
+2
+00:00:01,358 --> 00:00:03,420
+bisa membantu membaca gerak otot.
+
+3
+00:00:04,250 --> 00:00:06,278
+Riset yang terbit Oktober ini
+
+4
+00:00:06,278 --> 00:00:08,711
+melacak magnet mungil di dalam otot
+
+5
+00:00:08,711 --> 00:00:11,550
+menggunakan sensor yang dipasang di luar kulit.
+
+6
+00:00:12,250 --> 00:00:14,985
+Saat otot memendek atau memanjang,
+
+7
+00:00:14,985 --> 00:00:16,626
+jarak antarmagnet berubah.
+
+8
+00:00:16,626 --> 00:00:21,550
+Sistem mengubah pengukuran itu menjadi informasi gerakan secara nirkabel.
+
+9
+00:00:22,250 --> 00:00:24,575
+Tiga peserta amputasi bawah lutut
+
+10
+00:00:24,575 --> 00:00:27,365
+memakai sinyal tersebut untuk menggerakkan kursor.
+
+11
+00:00:27,365 --> 00:00:31,550
+Ini tugas virtual, belum bukti berjalan dengan kaki robot.
+
+12
+00:00:32,250 --> 00:00:35,900
+Versi awal risetnya sudah ada sejak 2025.
+
+13
+00:00:35,900 --> 00:00:37,986
+Kini publikasi jurnalnya terbit.
+
+14
+00:00:37,986 --> 00:00:39,550
+Bukan pembaca pikiran!

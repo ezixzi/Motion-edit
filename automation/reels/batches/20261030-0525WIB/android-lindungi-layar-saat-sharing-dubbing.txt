@@ -1,0 +1,16 @@
+Berbagi Layar Bisa Membocorkan Bagian yang Kamu Lupakan
+
+00–04 detik
+Berbagi layar? Bagian login bisa ikut dilihat orang.
+
+04–12 detik
+Google mengumumkan perluasan perlindungan berbagi layar agar bidang login dan layar pembayaran yang sensitif dapat disembunyikan.
+
+12–22 detik
+Perlindungan yang sebelumnya ada di aplikasi diperluas ke Chrome dan Android WebView, tempat halaman web tampil di aplikasi.
+
+22–32 detik
+Pembaruan Oktober ini digulirkan bertahap untuk Android lima belas ke atas. Jadi, jangan menganggap semua perangkatmu sudah terlindungi.
+
+32–40 detik
+Sebelum berbagi, tutup informasi pribadi. Dan jangan berikan password atau kode OTP kepada orang lain.

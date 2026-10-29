@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:00,945
+Berbagi layar?
+
+2
+00:00:00,945 --> 00:00:03,420
+Bagian login bisa ikut dilihat orang.
+
+3
+00:00:04,250 --> 00:00:06,988
+Google mengumumkan perluasan perlindungan berbagi layar
+
+4
+00:00:06,988 --> 00:00:09,725
+agar bidang login dan layar pembayaran
+
+5
+00:00:09,725 --> 00:00:11,550
+yang sensitif dapat disembunyikan.
+
+6
+00:00:12,250 --> 00:00:15,350
+Perlindungan yang sebelumnya ada di aplikasi
+
+7
+00:00:15,350 --> 00:00:18,450
+diperluas ke Chrome dan Android WebView,
+
+8
+00:00:18,450 --> 00:00:21,550
+tempat halaman web tampil di aplikasi.
+
+9
+00:00:22,250 --> 00:00:24,833
+Pembaruan Oktober ini digulirkan bertahap
+
+10
+00:00:24,833 --> 00:00:27,933
+untuk Android lima belas ke atas.
+
+11
+00:00:27,933 --> 00:00:31,550
+Jadi, jangan menganggap semua perangkatmu sudah terlindungi.
+
+12
+00:00:32,250 --> 00:00:34,683
+Sebelum berbagi, tutup informasi pribadi.
+
+13
+00:00:34,683 --> 00:00:38,090
+Dan jangan berikan password atau kode OTP
+
+14
+00:00:38,090 --> 00:00:39,550
+kepada orang lain.

@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:01,358
+Asam amino ini
+
+2
+00:00:01,358 --> 00:00:03,420
+bisa menjadi bahan sensor lentur.
+
+3
+00:00:04,250 --> 00:00:06,197
+Peneliti Stanford merekayasa glisin
+
+4
+00:00:06,197 --> 00:00:07,657
+menjadi material piezoelektrik,
+
+5
+00:00:07,657 --> 00:00:11,550
+yang menghasilkan sinyal listrik saat menerima tekanan mekanis.
+
+6
+00:00:12,250 --> 00:00:14,985
+Masalahnya, glisin biasa cepat larut.
+
+7
+00:00:14,985 --> 00:00:17,174
+Tim mengatur bentuk kristalnya
+
+8
+00:00:17,174 --> 00:00:21,550
+dan menanamkannya dalam matriks polimer untuk memperlambat kerusakan.
+
+9
+00:00:22,250 --> 00:00:25,505
+Setelah enam puluh hari dalam pengujian berair,
+
+10
+00:00:25,505 --> 00:00:27,830
+campurannya masih mempertahankan sifat piezoelektrik.
+
+11
+00:00:27,830 --> 00:00:31,550
+Tetapi kondisi di dalam tubuh masih perlu diuji.
+
+12
+00:00:32,250 --> 00:00:34,988
+Arahnya menuju sensor yang bisa terurai.
+
+13
+00:00:34,988 --> 00:00:37,269
+Bukan alat medis siap pakai,
+
+14
+00:00:37,269 --> 00:00:39,550
+melainkan langkah material yang menarik.
