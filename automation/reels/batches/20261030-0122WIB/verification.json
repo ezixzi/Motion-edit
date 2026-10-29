@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mesh",
+    "output_path": "outputs/ai-tech/20261030-0122WIB-ai-perbaiki-model-3d.mp4",
+    "sha256": "dbedee1a515ba2ac91e4c8065d0f1890044b23a3d9c0512021b1f8c9c5db07b5",
+    "remote_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+    "verified": true
+  },
+  {
+    "id": "hinge",
+    "output_path": "outputs/ai-tech/20261030-0122WIB-engsel-cetak-3d-bersensor.mp4",
+    "sha256": "d35c224205828af3a6e431be7359f6baa008adc8d3555fcccf6d8e88d9be519a",
+    "remote_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+    "verified": true
+  },
+  {
+    "id": "sando",
+    "output_path": "outputs/ai-tech/20261030-0122WIB-drone-jalur-aman-bergerak.mp4",
+    "sha256": "195a6f6012c570dd6e23f7c8ce10687e026d4d751f24869d7583112234a5c041",
+    "remote_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+    "verified": true
+  },
+  {
+    "id": "relay",
+    "output_path": "outputs/ai-tech/20261030-0122WIB-satelit-relay-nasa-2026.mp4",
+    "sha256": "56148869bcb1e0ddc6274dd91babb3f2688f8c7735a9bfad394ccc06effeac96",
+    "remote_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+    "verified": true
+  },
+  {
+    "id": "bio",
+    "output_path": "outputs/ai-tech/20261030-0122WIB-robot-renang-sel-otot.mp4",
+    "sha256": "7622d19bff95fbb680c6cae5a3886ead8eacb716ce210daf69c562b0e3d82432",
+    "remote_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+    "verified": true
+  }
+]

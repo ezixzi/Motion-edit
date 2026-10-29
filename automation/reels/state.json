@@ -1,47 +1,7 @@
 {
   "version": 1,
-  "active_batch": {
-    "id": "20261030-0122WIB",
-    "started_at": "2026-10-29T18:21:43Z",
-    "topic_ids": [
-      "instructmesh-refinement-2026",
-      "xhinges-self-sensing-2026",
-      "sando-dynamic-navigation-2026",
-      "nasa-commercial-relay-launch-2026",
-      "biohybrid-aquabot-2026"
-    ],
-    "status": "verifying_uploads",
-    "checkpoint": "Five final videos rendered, fully decoded and visually sampled; blob hashes match local Git blob identities. Await immutable raw download SHA256 checks.",
-    "outputs": [
-      {
-        "path": "outputs/ai-tech/20261030-0122WIB-ai-perbaiki-model-3d.mp4",
-        "sha256": "dbedee1a515ba2ac91e4c8065d0f1890044b23a3d9c0512021b1f8c9c5db07b5"
-      },
-      {
-        "path": "outputs/ai-tech/20261030-0122WIB-engsel-cetak-3d-bersensor.mp4",
-        "sha256": "d35c224205828af3a6e431be7359f6baa008adc8d3555fcccf6d8e88d9be519a"
-      },
-      {
-        "path": "outputs/ai-tech/20261030-0122WIB-drone-jalur-aman-bergerak.mp4",
-        "sha256": "195a6f6012c570dd6e23f7c8ce10687e026d4d751f24869d7583112234a5c041"
-      },
-      {
-        "path": "outputs/ai-tech/20261030-0122WIB-satelit-relay-nasa-2026.mp4",
-        "sha256": "56148869bcb1e0ddc6274dd91babb3f2688f8c7735a9bfad394ccc06effeac96"
-      },
-      {
-        "path": "outputs/ai-tech/20261030-0122WIB-robot-renang-sel-otot.mp4",
-        "sha256": "7622d19bff95fbb680c6cae5a3886ead8eacb716ce210daf69c562b0e3d82432"
-      }
-    ]
-  },
-  "pending": [
-    "instructmesh-refinement-2026",
-    "xhinges-self-sensing-2026",
-    "sando-dynamic-navigation-2026",
-    "nasa-commercial-relay-launch-2026",
-    "biohybrid-aquabot-2026"
-  ],
+  "active_batch": null,
+  "pending": [],
   "completed": [
     {
       "topic_id": "robot-serangga-salto-2025",
@@ -93,6 +53,122 @@
       "size": 9801817,
       "verified_commit": "1b2585b1ffc43fc1f91276d0c05e5e1cc710a7b2",
       "production_notes": "automation/reels/batches/20261029-2126WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "instructmesh-refinement-2026",
+      "title": "Model 3D Buatan AI Bisa Diperbaiki Sebelum Dicetak",
+      "source_urls": [
+        "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001"
+      ],
+      "additional_source_urls": [
+        "https://arxiv.org/abs/2608.28534"
+      ],
+      "source_dates": [
+        "2026-10-01"
+      ],
+      "original_work_date": "2026-08-28",
+      "source_event_context": "Preprint InstructMesh submitted28Aug2026; MIT feature1Oct2026; UIST presentation plannedNovember.",
+      "category": "perkembangan2026",
+      "present_relevance": "Recent2026 fabrication interface with targeted edits, relevant to AI-generated physical objects.",
+      "output_path": "outputs/ai-tech/20261030-0122WIB-ai-perbaiki-model-3d.mp4",
+      "sha256": "dbedee1a515ba2ac91e4c8065d0f1890044b23a3d9c0512021b1f8c9c5db07b5",
+      "published_at": "2026-10-29 20:45:52 UTC",
+      "duration": 40,
+      "size": 8072776,
+      "verified_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+      "production_notes": "automation/reels/batches/20261030-0122WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "xhinges-self-sensing-2026",
+      "title": "Engsel Cetak 3D yang Bisa Membaca Gerakan",
+      "source_urls": [
+        "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022"
+      ],
+      "additional_source_urls": [
+        "https://arxiv.org/abs/2609.11077"
+      ],
+      "source_dates": [
+        "2026-10-22"
+      ],
+      "original_work_date": "2026-09-10",
+      "source_event_context": "X-Hinges preprint submitted10Sep2026; MIT public feature22Oct2026.",
+      "category": "perkembangan2026",
+      "present_relevance": "Recent2026 multi-material printable motion sensing with concrete interactive-object demonstrations.",
+      "output_path": "outputs/ai-tech/20261030-0122WIB-engsel-cetak-3d-bersensor.mp4",
+      "sha256": "d35c224205828af3a6e431be7359f6baa008adc8d3555fcccf6d8e88d9be519a",
+      "published_at": "2026-10-29 20:45:52 UTC",
+      "duration": 40,
+      "size": 8501498,
+      "verified_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+      "production_notes": "automation/reels/batches/20261030-0122WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "sando-dynamic-navigation-2026",
+      "title": "Drone Merencanakan Jalur di Antara Penghalang Bergerak",
+      "source_urls": [
+        "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007"
+      ],
+      "additional_source_urls": [
+        "https://ieeexplore.ieee.org/document/11714300"
+      ],
+      "source_dates": [
+        "2026-10-07"
+      ],
+      "original_work_date": null,
+      "source_event_context": "MIT report7Oct2026 of SANDO research appearing in IEEE Transactions on Robotics; exact paper-first-publication date not independently resolved.",
+      "category": "perkembangan2026",
+      "present_relevance": "Current2026 trajectory-planning research addressing dynamic, previously unmapped spaces.",
+      "output_path": "outputs/ai-tech/20261030-0122WIB-drone-jalur-aman-bergerak.mp4",
+      "sha256": "195a6f6012c570dd6e23f7c8ce10687e026d4d751f24869d7583112234a5c041",
+      "published_at": "2026-10-29 20:45:52 UTC",
+      "duration": 40,
+      "size": 10493003,
+      "verified_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+      "production_notes": "automation/reels/batches/20261030-0122WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "nasa-commercial-relay-launch-2026",
+      "title": "Data Satelit Mampir ke Satelit Lain",
+      "source_urls": [
+        "https://www.nasa.gov/blogs/smallsatellites/2026/10/20/two-nasa-commercial-satellite-communication-demonstrations-launch/"
+      ],
+      "additional_source_urls": [],
+      "source_dates": [
+        "2026-10-20"
+      ],
+      "original_work_date": "2026-10-20",
+      "source_event_context": "Two NASA-funded commercial relay demonstrations launched20Oct2026; source updated21Oct. Tests described as forthcoming over coming weeks.",
+      "category": "perkembangan2026",
+      "present_relevance": "A launch this month for new commercial space-relay demonstrations, distinct from the older existence of relay communications.",
+      "output_path": "outputs/ai-tech/20261030-0122WIB-satelit-relay-nasa-2026.mp4",
+      "sha256": "56148869bcb1e0ddc6274dd91babb3f2688f8c7735a9bfad394ccc06effeac96",
+      "published_at": "2026-10-29 20:45:52 UTC",
+      "duration": 40,
+      "size": 9534732,
+      "verified_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+      "production_notes": "automation/reels/batches/20261030-0122WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "biohybrid-aquabot-2026",
+      "title": "Robot Renang Bertenaga Sel Otot Hidup",
+      "source_urls": [
+        "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929"
+      ],
+      "additional_source_urls": [],
+      "source_dates": [
+        "2026-09-29"
+      ],
+      "original_work_date": "2026-09-29",
+      "source_event_context": "News and accompanying Advanced Functional Materials paper described as appearing29Sep2026. Predecessor muscle architecture was earlier work; swimming demonstration is the2026 result.",
+      "category": "perkembangan2026",
+      "present_relevance": "New2026 biohybrid swimming demonstration, different from prior mechanical insect microrobot story.",
+      "output_path": "outputs/ai-tech/20261030-0122WIB-robot-renang-sel-otot.mp4",
+      "sha256": "7622d19bff95fbb680c6cae5a3886ead8eacb716ce210daf69c562b0e3d82432",
+      "published_at": "2026-10-29 20:45:52 UTC",
+      "duration": 40,
+      "size": 9623048,
+      "verified_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
+      "production_notes": "automation/reels/batches/20261030-0122WIB/DELIVERY.md"
     }
   ],
   "avoid_topics": [
@@ -110,7 +186,7 @@
     "AI-assisted video editing",
     "video made with Codex"
   ],
-  "updated_at": "2026-10-29T18:21:43Z",
+  "updated_at": "2026-10-29 20:45:52 UTC",
   "model_requirement": {
     "model": "gpt-6.1-sol",
     "reasoning_effort": "medium",
@@ -118,20 +194,27 @@
     "verification": "user_confirmed_available_proceed_2026-10-29"
   },
   "last_attempt": {
-    "at": "2026-10-29 14:43:41 UTC",
+    "at": "2026-10-29 20:45:52 UTC",
     "status": "completed_verified",
-    "produced": 3,
+    "produced": 5,
     "remote_sha256_matched": true
   },
   "last_batch": {
-    "id": "20261029-2126WIB",
-    "completed_at": "2026-10-29 14:43:41 UTC",
+    "id": "20261030-0122WIB",
+    "completed_at": "2026-10-29 20:45:52 UTC",
     "status": "completed_verified",
-    "count": 3,
+    "count": 5,
     "output_paths": [
-      "outputs/ai-tech/20261029-2126WIB-robot-serangga-salto.mp4",
-      "outputs/ai-tech/20261029-2126WIB-chip-retina-bantu-membaca.mp4",
-      "outputs/ai-tech/20261029-2126WIB-sinyal-suara-baterai.mp4"
+      "outputs/ai-tech/20261030-0122WIB-ai-perbaiki-model-3d.mp4",
+      "outputs/ai-tech/20261030-0122WIB-engsel-cetak-3d-bersensor.mp4",
+      "outputs/ai-tech/20261030-0122WIB-drone-jalur-aman-bergerak.mp4",
+      "outputs/ai-tech/20261030-0122WIB-satelit-relay-nasa-2026.mp4",
+      "outputs/ai-tech/20261030-0122WIB-robot-renang-sel-otot.mp4"
     ]
+  },
+  "production_config": {
+    "batch_size": 5,
+    "interval_hours": 4,
+    "target_per_day": 30
   }
 }
