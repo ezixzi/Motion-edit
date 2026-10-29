@@ -1,6 +1,19 @@
 {
   "version": 1,
-  "active_batch": null,
+  "active_batch": {
+    "id": "20261030-0525WIB",
+    "status": "researching",
+    "started_at": "2026-10-29T22:25:00Z",
+    "topic_ids": [],
+    "target_count": 5,
+    "editorial_slots": [
+      "tren_2026",
+      "kehidupan_sehari_hari",
+      "eksplorasi_teknologi",
+      "eksplorasi_teknologi",
+      "eksplorasi_teknologi"
+    ]
+  },
   "pending": [],
   "completed": [
     {
@@ -186,7 +199,7 @@
     "AI-assisted video editing",
     "video made with Codex"
   ],
-  "updated_at": "2026-10-29 20:45:52 UTC",
+  "updated_at": "2026-10-29T22:25:00Z",
   "model_requirement": {
     "model": "gpt-6.1-sol",
     "reasoning_effort": "medium",
