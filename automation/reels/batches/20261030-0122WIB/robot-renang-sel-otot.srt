@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:01,534
+Robot ini berenang
+
+2
+00:00:01,534 --> 00:00:03,420
+memakai sel otot hidup.
+
+3
+00:00:04,250 --> 00:00:06,988
+Peneliti MIT membuat rangka gel tipis
+
+4
+00:00:06,988 --> 00:00:08,356
+dengan dua sirip
+
+5
+00:00:08,356 --> 00:00:11,550
+yang dilapisi sel otot hidup hasil rekayasa.
+
+6
+00:00:12,250 --> 00:00:14,575
+Cahaya memicu kontraksi sel
+
+7
+00:00:14,575 --> 00:00:16,900
+pada salah satu sirip,
+
+8
+00:00:16,900 --> 00:00:21,550
+sehingga peneliti bisa mengatur arah dan kecepatan geraknya.
+
+9
+00:00:22,250 --> 00:00:24,985
+Robot melewati labirin air sederhana,
+
+10
+00:00:24,985 --> 00:00:27,174
+dengan kecepatan tertinggi sekitar
+
+11
+00:00:27,174 --> 00:00:31,550
+empat kali panjang tubuhnya per menit selama eksperimen.
+
+12
+00:00:32,250 --> 00:00:35,619
+Ini perpaduan mesin dan sel hidup.
+
+13
+00:00:35,619 --> 00:00:36,742
+Masih eksperimen,
+
+14
+00:00:36,742 --> 00:00:39,550
+tapi cara bergeraknya bikin penasaran.

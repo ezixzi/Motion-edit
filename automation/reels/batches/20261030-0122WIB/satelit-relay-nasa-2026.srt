@@ -1,0 +1,51 @@
+1
+00:00:00,120 --> 00:00:02,006
+Data satelit bisa mampir
+
+2
+00:00:02,006 --> 00:00:03,420
+ke satelit lain.
+
+3
+00:00:04,250 --> 00:00:06,826
+Dua demonstrasi komunikasi yang didanai NASA
+
+4
+00:00:06,826 --> 00:00:08,974
+diluncurkan pada dua puluh Oktober,
+
+5
+00:00:08,974 --> 00:00:11,550
+menguji layanan relay komersial di orbit.
+
+6
+00:00:12,250 --> 00:00:15,970
+Jalur berkecepatan tinggi membawa data besar,
+
+7
+00:00:15,970 --> 00:00:19,070
+sedangkan jalur rendah membawa perintah
+
+8
+00:00:19,070 --> 00:00:21,550
+dan informasi pelacakan wahana.
+
+9
+00:00:22,250 --> 00:00:25,350
+Dalam demonstrasi, teknologi otonom direncanakan
+
+10
+00:00:25,350 --> 00:00:28,450
+merutekan data antara wahana Maxwell,
+
+11
+00:00:28,450 --> 00:00:31,550
+satelit relay, dan stasiun Bumi.
+
+12
+00:00:32,250 --> 00:00:36,232
+Sudah diluncurkan; kemampuan itu akan diuji.
+
+13
+00:00:36,232 --> 00:00:39,550
+Jalur data antariksa ternyata berlapis-lapis.

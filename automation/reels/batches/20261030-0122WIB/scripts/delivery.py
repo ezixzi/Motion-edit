@@ -1,0 +1,17 @@
+import json
+from pathlib import Path
+items=json.loads(Path('public/batch.json').read_text());base='https://github.com/ezixzi/Motion-edit/raw/refs/heads/main/outputs/ai-tech/20261030-0122WIB-'
+notes={
+'mesh':'Sekitar90% merupakan hasil identifikasi/perbaikan dalam studi pengguna yang dinilai ahli, bukan jaminan akurasi universal. Preprint28Agustus2026, artikel MIT1Oktober2026.',
+'hinge':'Dua bahan konduktif memisahkan elemen sensor dan jalur. Respons lampu/gerak berasal dari sensing, bukan kesadaran. Preprint10September2026, artikel22Oktober2026.',
+'sando':'Jaminan matematis bergantung pada asumsi model termasuk batas kecepatan penghalang. Tanggal laporan MIT7Oktober2026 terkonfirmasi; tanggal publikasi awal paper tidak diklaim terpisah.',
+'relay':'Peluncuran20Oktober2026 terkonfirmasi. Kemampuan relay/perutean disebut sebagai rencana pengujian dalam sumber; tidak diklaim sudah tuntas atau tersedia sebagai layanan universal.',
+'bio':'Demonstrasi pada sirip gel dan sel otot hasil rekayasa, dikendalikan rangsangan cahaya. Sekitar4panjang tubuh/menit adalah kecepatan puncak eksperimen; bukan robot operasional atau perangkat medis.'}
+lines=['# Lima Video AI & Tech — batch 30 Oktober 2026, 01.22 WIB','','Lima topik berbeda dengan publikasi institusi September–Oktober2026, bukan daur ulang batch2025. Masing-masing 40 detik,1080×1920, 30 fps,H264/AAC. Tanpa narator atau musik; SFX asli singkat saja.','','## Produksi dan pemeriksaan','','Karakter pengguna aktif full body sampai kedua sepatu, kiri/kanan sesuai komposisi. Palet navy–lime–cyan, Space Grotesk + Plus Jakarta Sans. Highlight atas masuk sebagai satu blok lalu stabil; caption bawah reveal kata bertahap. Kamera pada plate visual bergerak mendekat, berhenti, dan melebar; gestur/presenter dan teks tetap terpisah agar area aman terjaga.','','Timing panduan dubbing:00–04hook;04–12fakta1;12–22fakta2;22–32fakta3;32–40rekap/CTA. Bagian fakta pertama diperlonggar agar pengucapan tidak terburu-buru. Mulut/caption berbasis naskah, bukan lip sync rekaman.','','Diagram merupakan ilustrasi konseptual orisinal, bukan rekaman penelitian, CAD persis, data sensor, skala anatomi/orbit, atau validasi simulator. Tidak memakai media riset berlisensi NC-ND. Cahaya robot biohibrida divisualisasikan sebagai sorot lembut tanpa strobo layar.','','TypeScript diperiksa; frame dari tiap adegan diperiksa untuk judul/caption/host, dan label melampaui area aman diperpendek. Final diperiksa dengan FFprobe serta decode penuh FFmpeg. Hash setiap MP4 diverifikasi lewat unduhan raw GitHub pada commit tetap sebelum antrean ditandai selesai.']
+for i in items:
+ lines += ['',f'## {i["title"]}','',f'[Download MP4]({base+i["slug"]}.mp4) • 40 detik','',f'Sumber utama: [{i["sourceLabel"]}]({i["source"]})','']
+ if i['additionalSources']:lines += ['Rujukan asli: '+' • '.join(f'[Paper {j+1}]({u})' for j,u in enumerate(i['additionalSources'])),'']
+ lines += [f'Kategori: **{i["category"]}**. Tanggal artikel:{i["sourceDate"]}. Tanggal karya/peristiwa:'+str(i['eventDate'] or 'belum dipisahkan dari tanggal laporan')+'.','',notes[i['id']],'',f'Caption posting: {i["caption"]}','','Naskah dubbing:','']
+ for s in i['sections']:lines += [f'**{s["start"]:02}–{s["start"]+s["duration"]:02} detik**',s['text'],'']
+ lines += [f'[SRT untuk dubbing]({i["slug"]}.srt)','']
+Path('out/DELIVERY.md').write_text('\n'.join(lines)+'\n');print('Delivery notes generated')

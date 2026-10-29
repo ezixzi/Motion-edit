@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:02,182
+Engsel cetak tiga dimensi ini
+
+2
+00:00:02,182 --> 00:00:03,420
+bisa membaca gerakan.
+
+3
+00:00:04,250 --> 00:00:06,683
+Perangkat lunak X-Hinges menyisipkan sensor
+
+4
+00:00:06,683 --> 00:00:09,117
+langsung ke bagian lentur benda
+
+5
+00:00:09,117 --> 00:00:11,550
+ketika desain dibuat untuk pencetakan.
+
+6
+00:00:12,250 --> 00:00:14,575
+Dua bahan konduktif dipakai
+
+7
+00:00:14,575 --> 00:00:18,062
+untuk membedakan sensor dan jalur penghubung,
+
+8
+00:00:18,062 --> 00:00:21,550
+sehingga sinyal gerak tidak mudah tercampur.
+
+9
+00:00:22,250 --> 00:00:25,350
+Peneliti mendemonstrasikan lampu yang mengubah terangnya
+
+10
+00:00:25,350 --> 00:00:27,933
+saat dijepit, serta sarung tangan
+
+11
+00:00:27,933 --> 00:00:31,550
+yang merekam gerakan jari untuk ditiru robot.
+
+12
+00:00:32,250 --> 00:00:34,336
+Bukan benda yang sadar,
+
+13
+00:00:34,336 --> 00:00:36,421
+melainkan sensor yang tertanam.
+
+14
+00:00:36,421 --> 00:00:39,550
+Kamu ingin benda apa jadi interaktif?

@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:01,770
+Drone ini merencanakan jalan
+
+2
+00:00:01,770 --> 00:00:03,420
+di antara benda bergerak.
+
+3
+00:00:04,250 --> 00:00:06,075
+Peneliti MIT mengembangkan SANDO,
+
+4
+00:00:06,075 --> 00:00:07,900
+perencana lintasan untuk drone
+
+5
+00:00:07,900 --> 00:00:11,550
+di lingkungan yang belum dipetakan dan terus berubah.
+
+6
+00:00:12,250 --> 00:00:15,156
+Sistem memperhitungkan kecepatan maksimum penghalang
+
+7
+00:00:15,156 --> 00:00:18,644
+untuk membatasi ruang yang mungkin ditempatinya,
+
+8
+00:00:18,644 --> 00:00:21,550
+lalu mencari koridor penerbangan aman.
+
+9
+00:00:22,250 --> 00:00:24,833
+Jaminan keselamatannya dibuktikan secara matematis
+
+10
+00:00:24,833 --> 00:00:26,900
+berdasarkan asumsi model tersebut,
+
+11
+00:00:26,900 --> 00:00:31,550
+bukan berarti setiap drone kebal tabrakan di dunia nyata.
+
+12
+00:00:32,250 --> 00:00:34,496
+Peta bisa belum lengkap,
+
+13
+00:00:34,496 --> 00:00:37,304
+tetapi batas gerakan tetap penting.
+
+14
+00:00:37,304 --> 00:00:39,550
+Cocok untuk misi penyelamatan?

@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:02,477
+Model gelas AI bisa cantik,
+
+2
+00:00:02,477 --> 00:00:03,420
+tapi tertutup.
+
+3
+00:00:04,250 --> 00:00:06,197
+InstructMesh membantu pengguna memperbaiki
+
+4
+00:00:06,197 --> 00:00:09,117
+bagian model tiga dimensi yang bermasalah
+
+5
+00:00:09,117 --> 00:00:11,550
+sebelum dicetak menjadi benda fisik.
+
+6
+00:00:12,250 --> 00:00:14,575
+Pengguna menyorot area tertentu,
+
+7
+00:00:14,575 --> 00:00:18,062
+lalu memakai bahasa sehari-hari atau penggeser
+
+8
+00:00:18,062 --> 00:00:21,550
+untuk mengubah geometri di lokasi tersebut.
+
+9
+00:00:22,250 --> 00:00:25,738
+Dalam studi pengguna, pemula dapat menemukan
+
+10
+00:00:25,738 --> 00:00:29,806
+dan memperbaiki masalah sekitar sembilan puluh persen,
+
+11
+00:00:29,806 --> 00:00:31,550
+menurut evaluasi ahli.
+
+12
+00:00:32,250 --> 00:00:34,075
+AI membuat bentuknya.
+
+13
+00:00:34,075 --> 00:00:36,508
+Manusia tetap memeriksa fungsinya.
+
+14
+00:00:36,508 --> 00:00:39,550
+Kamu mau memperbaiki benda apa?

@@ -66,31 +66,31 @@
       {
         "id": 1,
         "start": 4,
-        "duration": 6,
-        "frames": 180,
+        "duration": 8,
+        "frames": 240,
         "text": "InstructMesh membantu pengguna memperbaiki bagian model tiga dimensi yang bermasalah sebelum dicetak menjadi benda fisik.",
         "speechText": "InstructMesh membantu pengguna memperbaiki bagian model tiga dimensi yang bermasalah sebelum dicetak menjadi benda fisik.",
         "beats": [
           {
             "text": "InstructMesh membantu pengguna memperbaiki",
             "at": 0.25,
-            "duration": 1.4133333333333333
+            "duration": 1.9466666666666665
           },
           {
             "text": "bagian model tiga dimensi yang bermasalah",
-            "at": 1.6633333333333333,
-            "duration": 2.1199999999999997
+            "at": 2.1966666666666663,
+            "duration": 2.92
           },
           {
             "text": "sebelum dicetak menjadi benda fisik.",
-            "at": 3.783333333333333,
-            "duration": 1.7666666666666666
+            "at": 5.116666666666666,
+            "duration": 2.433333333333333
           }
         ]
       },
       {
         "id": 2,
-        "start": 10,
+        "start": 12,
         "duration": 10,
         "frames": 300,
         "text": "Pengguna menyorot area tertentu, lalu memakai bahasa sehari-hari atau penggeser untuk mengubah geometri di lokasi tersebut.",
@@ -115,7 +115,7 @@
       },
       {
         "id": 3,
-        "start": 20,
+        "start": 22,
         "duration": 10,
         "frames": 300,
         "text": "Dalam studi pengguna, pemula dapat menemukan dan memperbaiki masalah sekitar sembilan puluh persen, menurut evaluasi ahli.",
@@ -140,26 +140,26 @@
       },
       {
         "id": 4,
-        "start": 30,
-        "duration": 10,
-        "frames": 300,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
         "text": "AI membuat bentuknya. Manusia tetap memeriksa fungsinya. Kamu mau memperbaiki benda apa?",
         "speechText": "AI membuat bentuknya. Manusia tetap memeriksa fungsinya. Kamu mau memperbaiki benda apa?",
         "beats": [
           {
             "text": "AI membuat bentuknya.",
             "at": 0.25,
-            "duration": 2.325
+            "duration": 1.825
           },
           {
             "text": "Manusia tetap memeriksa fungsinya.",
-            "at": 2.575,
-            "duration": 3.1
+            "at": 2.075,
+            "duration": 2.433333333333333
           },
           {
             "text": "Kamu mau memperbaiki benda apa?",
-            "at": 5.675000000000001,
-            "duration": 3.875
+            "at": 4.508333333333333,
+            "duration": 3.0416666666666665
           }
         ]
       }
@@ -182,83 +182,83 @@
       {
         "text": "InstructMesh membantu pengguna memperbaiki",
         "startMs": 4250,
-        "endMs": 5663,
+        "endMs": 6197,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "bagian model tiga dimensi yang bermasalah",
-        "startMs": 5663,
-        "endMs": 7783,
+        "startMs": 6197,
+        "endMs": 9117,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "sebelum dicetak menjadi benda fisik.",
-        "startMs": 7783,
-        "endMs": 9550,
+        "startMs": 9117,
+        "endMs": 11550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Pengguna menyorot area tertentu,",
-        "startMs": 10250,
-        "endMs": 12575,
+        "startMs": 12250,
+        "endMs": 14575,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "lalu memakai bahasa sehari-hari atau penggeser",
-        "startMs": 12575,
-        "endMs": 16062,
+        "startMs": 14575,
+        "endMs": 18062,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "untuk mengubah geometri di lokasi tersebut.",
-        "startMs": 16062,
-        "endMs": 19550,
+        "startMs": 18062,
+        "endMs": 21550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Dalam studi pengguna, pemula dapat menemukan",
-        "startMs": 20250,
-        "endMs": 23738,
+        "startMs": 22250,
+        "endMs": 25738,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "dan memperbaiki masalah sekitar sembilan puluh persen,",
-        "startMs": 23738,
-        "endMs": 27806,
+        "startMs": 25738,
+        "endMs": 29806,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "menurut evaluasi ahli.",
-        "startMs": 27806,
-        "endMs": 29550,
+        "startMs": 29806,
+        "endMs": 31550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "AI membuat bentuknya.",
-        "startMs": 30250,
-        "endMs": 32575,
+        "startMs": 32250,
+        "endMs": 34075,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Manusia tetap memeriksa fungsinya.",
-        "startMs": 32575,
-        "endMs": 35675,
+        "startMs": 34075,
+        "endMs": 36508,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Kamu mau memperbaiki benda apa?",
-        "startMs": 35675,
+        "startMs": 36508,
         "endMs": 39550,
         "timestampMs": null,
         "confidence": null
@@ -337,31 +337,31 @@
       {
         "id": 1,
         "start": 4,
-        "duration": 6,
-        "frames": 180,
+        "duration": 8,
+        "frames": 240,
         "text": "Perangkat lunak X-Hinges menyisipkan sensor langsung ke bagian lentur benda ketika desain dibuat untuk pencetakan.",
         "speechText": "Perangkat lunak X-Hinges menyisipkan sensor langsung ke bagian lentur benda ketika desain dibuat untuk pencetakan.",
         "beats": [
           {
             "text": "Perangkat lunak X-Hinges menyisipkan sensor",
             "at": 0.25,
-            "duration": 1.7666666666666666
+            "duration": 2.433333333333333
           },
           {
             "text": "langsung ke bagian lentur benda",
-            "at": 2.0166666666666666,
-            "duration": 1.7666666666666666
+            "at": 2.683333333333333,
+            "duration": 2.433333333333333
           },
           {
             "text": "ketika desain dibuat untuk pencetakan.",
-            "at": 3.783333333333333,
-            "duration": 1.7666666666666666
+            "at": 5.116666666666666,
+            "duration": 2.433333333333333
           }
         ]
       },
       {
         "id": 2,
-        "start": 10,
+        "start": 12,
         "duration": 10,
         "frames": 300,
         "text": "Dua bahan konduktif dipakai untuk membedakan sensor dan jalur penghubung, sehingga sinyal gerak tidak mudah tercampur.",
@@ -386,7 +386,7 @@
       },
       {
         "id": 3,
-        "start": 20,
+        "start": 22,
         "duration": 10,
         "frames": 300,
         "text": "Peneliti mendemonstrasikan lampu yang mengubah terangnya saat dijepit, serta sarung tangan yang merekam gerakan jari untuk ditiru robot.",
@@ -411,26 +411,26 @@
       },
       {
         "id": 4,
-        "start": 30,
-        "duration": 10,
-        "frames": 300,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
         "text": "Bukan benda yang sadar, melainkan sensor yang tertanam. Kamu ingin benda apa jadi interaktif?",
         "speechText": "Bukan benda yang sadar, melainkan sensor yang tertanam. Kamu ingin benda apa jadi interaktif?",
         "beats": [
           {
             "text": "Bukan benda yang sadar,",
             "at": 0.25,
-            "duration": 2.6571428571428575
+            "duration": 2.085714285714286
           },
           {
             "text": "melainkan sensor yang tertanam.",
-            "at": 2.9071428571428575,
-            "duration": 2.6571428571428575
+            "at": 2.335714285714286,
+            "duration": 2.085714285714286
           },
           {
             "text": "Kamu ingin benda apa jadi interaktif?",
-            "at": 5.564285714285715,
-            "duration": 3.985714285714286
+            "at": 4.421428571428572,
+            "duration": 3.1285714285714286
           }
         ]
       }
@@ -453,83 +453,83 @@
       {
         "text": "Perangkat lunak X-Hinges menyisipkan sensor",
         "startMs": 4250,
-        "endMs": 6017,
+        "endMs": 6683,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "langsung ke bagian lentur benda",
-        "startMs": 6017,
-        "endMs": 7783,
+        "startMs": 6683,
+        "endMs": 9117,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "ketika desain dibuat untuk pencetakan.",
-        "startMs": 7783,
-        "endMs": 9550,
+        "startMs": 9117,
+        "endMs": 11550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Dua bahan konduktif dipakai",
-        "startMs": 10250,
-        "endMs": 12575,
+        "startMs": 12250,
+        "endMs": 14575,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "untuk membedakan sensor dan jalur penghubung,",
-        "startMs": 12575,
-        "endMs": 16062,
+        "startMs": 14575,
+        "endMs": 18062,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "sehingga sinyal gerak tidak mudah tercampur.",
-        "startMs": 16062,
-        "endMs": 19550,
+        "startMs": 18062,
+        "endMs": 21550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Peneliti mendemonstrasikan lampu yang mengubah terangnya",
-        "startMs": 20250,
-        "endMs": 23350,
+        "startMs": 22250,
+        "endMs": 25350,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "saat dijepit, serta sarung tangan",
-        "startMs": 23350,
-        "endMs": 25933,
+        "startMs": 25350,
+        "endMs": 27933,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "yang merekam gerakan jari untuk ditiru robot.",
-        "startMs": 25933,
-        "endMs": 29550,
+        "startMs": 27933,
+        "endMs": 31550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Bukan benda yang sadar,",
-        "startMs": 30250,
-        "endMs": 32907,
+        "startMs": 32250,
+        "endMs": 34336,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "melainkan sensor yang tertanam.",
-        "startMs": 32907,
-        "endMs": 35564,
+        "startMs": 34336,
+        "endMs": 36421,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Kamu ingin benda apa jadi interaktif?",
-        "startMs": 35564,
+        "startMs": 36421,
         "endMs": 39550,
         "timestampMs": null,
         "confidence": null
@@ -549,7 +549,7 @@
     "title": "Drone Merencanakan Jalur di Antara Penghalang Bergerak",
     "source": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
     "sourceDate": "2026-10-07",
-    "eventDate": "2026-10-07",
+    "eventDate": null,
     "eventDescription": "MIT report7Oct2026 of SANDO research appearing in IEEE Transactions on Robotics; exact paper-first-publication date not independently resolved.",
     "additionalSources": [
       "https://ieeexplore.ieee.org/document/11714300"
@@ -608,31 +608,31 @@
       {
         "id": 1,
         "start": 4,
-        "duration": 6,
-        "frames": 180,
+        "duration": 8,
+        "frames": 240,
         "text": "Peneliti MIT mengembangkan SANDO, perencana lintasan untuk drone di lingkungan yang belum dipetakan dan terus berubah.",
         "speechText": "Peneliti MIT mengembangkan SANDO, perencana lintasan untuk drone di lingkungan yang belum dipetakan dan terus berubah.",
         "beats": [
           {
             "text": "Peneliti MIT mengembangkan SANDO,",
             "at": 0.25,
-            "duration": 1.325
+            "duration": 1.825
           },
           {
             "text": "perencana lintasan untuk drone",
-            "at": 1.575,
-            "duration": 1.325
+            "at": 2.075,
+            "duration": 1.825
           },
           {
             "text": "di lingkungan yang belum dipetakan dan terus berubah.",
-            "at": 2.9,
-            "duration": 2.65
+            "at": 3.9000000000000004,
+            "duration": 3.65
           }
         ]
       },
       {
         "id": 2,
-        "start": 10,
+        "start": 12,
         "duration": 10,
         "frames": 300,
         "text": "Sistem memperhitungkan kecepatan maksimum penghalang untuk membatasi ruang yang mungkin ditempatinya, lalu mencari koridor penerbangan aman.",
@@ -657,7 +657,7 @@
       },
       {
         "id": 3,
-        "start": 20,
+        "start": 22,
         "duration": 10,
         "frames": 300,
         "text": "Jaminan keselamatannya dibuktikan secara matematis berdasarkan asumsi model tersebut, bukan berarti setiap drone kebal tabrakan di dunia nyata.",
@@ -682,26 +682,26 @@
       },
       {
         "id": 4,
-        "start": 30,
-        "duration": 10,
-        "frames": 300,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
         "text": "Peta bisa belum lengkap, tetapi batas gerakan tetap penting. Cocok untuk misi penyelamatan?",
         "speechText": "Peta bisa belum lengkap, tetapi batas gerakan tetap penting. Cocok untuk misi penyelamatan?",
         "beats": [
           {
             "text": "Peta bisa belum lengkap,",
             "at": 0.25,
-            "duration": 2.8615384615384616
+            "duration": 2.246153846153846
           },
           {
             "text": "tetapi batas gerakan tetap penting.",
-            "at": 3.1115384615384616,
-            "duration": 3.576923076923077
+            "at": 2.496153846153846,
+            "duration": 2.8076923076923075
           },
           {
             "text": "Cocok untuk misi penyelamatan?",
-            "at": 6.688461538461539,
-            "duration": 2.8615384615384616
+            "at": 5.303846153846154,
+            "duration": 2.246153846153846
           }
         ]
       }
@@ -724,83 +724,83 @@
       {
         "text": "Peneliti MIT mengembangkan SANDO,",
         "startMs": 4250,
-        "endMs": 5575,
+        "endMs": 6075,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "perencana lintasan untuk drone",
-        "startMs": 5575,
-        "endMs": 6900,
+        "startMs": 6075,
+        "endMs": 7900,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "di lingkungan yang belum dipetakan dan terus berubah.",
-        "startMs": 6900,
-        "endMs": 9550,
+        "startMs": 7900,
+        "endMs": 11550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Sistem memperhitungkan kecepatan maksimum penghalang",
-        "startMs": 10250,
-        "endMs": 13156,
+        "startMs": 12250,
+        "endMs": 15156,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "untuk membatasi ruang yang mungkin ditempatinya,",
-        "startMs": 13156,
-        "endMs": 16644,
+        "startMs": 15156,
+        "endMs": 18644,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "lalu mencari koridor penerbangan aman.",
-        "startMs": 16644,
-        "endMs": 19550,
+        "startMs": 18644,
+        "endMs": 21550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Jaminan keselamatannya dibuktikan secara matematis",
-        "startMs": 20250,
-        "endMs": 22833,
+        "startMs": 22250,
+        "endMs": 24833,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "berdasarkan asumsi model tersebut,",
-        "startMs": 22833,
-        "endMs": 24900,
+        "startMs": 24833,
+        "endMs": 26900,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "bukan berarti setiap drone kebal tabrakan di dunia nyata.",
-        "startMs": 24900,
-        "endMs": 29550,
+        "startMs": 26900,
+        "endMs": 31550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Peta bisa belum lengkap,",
-        "startMs": 30250,
-        "endMs": 33112,
+        "startMs": 32250,
+        "endMs": 34496,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "tetapi batas gerakan tetap penting.",
-        "startMs": 33112,
-        "endMs": 36688,
+        "startMs": 34496,
+        "endMs": 37304,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Cocok untuk misi penyelamatan?",
-        "startMs": 36688,
+        "startMs": 37304,
         "endMs": 39550,
         "timestampMs": null,
         "confidence": null
@@ -852,7 +852,7 @@
     ],
     "closing": "Jalur komunikasi\nternyata berlapis.",
     "pill": "DEMO KOMUNIKASI • 2026",
-    "caption": "Dua demonstrasi relay komersial yang didanai NASA diluncurkan20Oktober2026. Mereka akan menguji layanan untuk data besar, perintah, dan pelacakan wahana. Peluncuran belum sama dengan keberhasilan seluruh pengujian. #Antariksa #Satelit",
+    "caption": "Dua demonstrasi relay komersial yang didanai NASA diluncurkan 20 Oktober 2026. Mereka akan menguji layanan untuk data besar, perintah, dan pelacakan wahana. Peluncuran belum sama dengan keberhasilan seluruh pengujian. #Antariksa #Satelit",
     "sections": [
       {
         "id": 0,
@@ -877,31 +877,31 @@
       {
         "id": 1,
         "start": 4,
-        "duration": 6,
-        "frames": 180,
+        "duration": 8,
+        "frames": 240,
         "text": "Dua demonstrasi komunikasi yang didanai NASA diluncurkan pada dua puluh Oktober, menguji layanan relay komersial di orbit.",
         "speechText": "Dua demonstrasi komunikasi yang didanai NASA diluncurkan pada dua puluh Oktober, menguji layanan relay komersial di orbit.",
         "beats": [
           {
             "text": "Dua demonstrasi komunikasi yang didanai NASA",
             "at": 0.25,
-            "duration": 1.8705882352941174
+            "duration": 2.576470588235294
           },
           {
             "text": "diluncurkan pada dua puluh Oktober,",
-            "at": 2.120588235294117,
-            "duration": 1.5588235294117647
+            "at": 2.826470588235294,
+            "duration": 2.1470588235294117
           },
           {
             "text": "menguji layanan relay komersial di orbit.",
-            "at": 3.6794117647058817,
-            "duration": 1.8705882352941174
+            "at": 4.973529411764705,
+            "duration": 2.576470588235294
           }
         ]
       },
       {
         "id": 2,
-        "start": 10,
+        "start": 12,
         "duration": 10,
         "frames": 300,
         "text": "Jalur berkecepatan tinggi membawa data besar, sedangkan jalur rendah membawa perintah dan informasi pelacakan wahana.",
@@ -926,7 +926,7 @@
       },
       {
         "id": 3,
-        "start": 20,
+        "start": 22,
         "duration": 10,
         "frames": 300,
         "text": "Dalam demonstrasi, teknologi otonom direncanakan merutekan data antara wahana Maxwell, satelit relay, dan stasiun Bumi.",
@@ -951,21 +951,21 @@
       },
       {
         "id": 4,
-        "start": 30,
-        "duration": 10,
-        "frames": 300,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
         "text": "Sudah diluncurkan; kemampuan itu akan diuji. Jalur data antariksa ternyata berlapis-lapis.",
         "speechText": "Sudah diluncurkan; kemampuan itu akan diuji. Jalur data antariksa ternyata berlapis-lapis.",
         "beats": [
           {
             "text": "Sudah diluncurkan; kemampuan itu akan diuji.",
             "at": 0.25,
-            "duration": 5.072727272727273
+            "duration": 3.9818181818181815
           },
           {
             "text": "Jalur data antariksa ternyata berlapis-lapis.",
-            "at": 5.322727272727273,
-            "duration": 4.2272727272727275
+            "at": 4.2318181818181815,
+            "duration": 3.3181818181818183
           }
         ]
       }
@@ -988,76 +988,76 @@
       {
         "text": "Dua demonstrasi komunikasi yang didanai NASA",
         "startMs": 4250,
-        "endMs": 6121,
+        "endMs": 6826,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "diluncurkan pada dua puluh Oktober,",
-        "startMs": 6121,
-        "endMs": 7679,
+        "startMs": 6826,
+        "endMs": 8974,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "menguji layanan relay komersial di orbit.",
-        "startMs": 7679,
-        "endMs": 9550,
+        "startMs": 8974,
+        "endMs": 11550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Jalur berkecepatan tinggi membawa data besar,",
-        "startMs": 10250,
-        "endMs": 13970,
+        "startMs": 12250,
+        "endMs": 15970,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "sedangkan jalur rendah membawa perintah",
-        "startMs": 13970,
-        "endMs": 17070,
+        "startMs": 15970,
+        "endMs": 19070,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "dan informasi pelacakan wahana.",
-        "startMs": 17070,
-        "endMs": 19550,
+        "startMs": 19070,
+        "endMs": 21550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Dalam demonstrasi, teknologi otonom direncanakan",
-        "startMs": 20250,
-        "endMs": 23350,
+        "startMs": 22250,
+        "endMs": 25350,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "merutekan data antara wahana Maxwell,",
-        "startMs": 23350,
-        "endMs": 26450,
+        "startMs": 25350,
+        "endMs": 28450,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "satelit relay, dan stasiun Bumi.",
-        "startMs": 26450,
-        "endMs": 29550,
+        "startMs": 28450,
+        "endMs": 31550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Sudah diluncurkan; kemampuan itu akan diuji.",
-        "startMs": 30250,
-        "endMs": 35323,
+        "startMs": 32250,
+        "endMs": 36232,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Jalur data antariksa ternyata berlapis-lapis.",
-        "startMs": 35323,
+        "startMs": 36232,
         "endMs": 39550,
         "timestampMs": null,
         "confidence": null
@@ -1134,31 +1134,31 @@
       {
         "id": 1,
         "start": 4,
-        "duration": 6,
-        "frames": 180,
+        "duration": 8,
+        "frames": 240,
         "text": "Peneliti MIT membuat rangka gel tipis dengan dua sirip yang dilapisi sel otot hidup hasil rekayasa.",
         "speechText": "Peneliti MIT membuat rangka gel tipis dengan dua sirip yang dilapisi sel otot hidup hasil rekayasa.",
         "beats": [
           {
             "text": "Peneliti MIT membuat rangka gel tipis",
             "at": 0.25,
-            "duration": 1.9874999999999998
+            "duration": 2.7375
           },
           {
             "text": "dengan dua sirip",
-            "at": 2.2375,
-            "duration": 0.9937499999999999
+            "at": 2.9875,
+            "duration": 1.36875
           },
           {
             "text": "yang dilapisi sel otot hidup hasil rekayasa.",
-            "at": 3.2312499999999997,
-            "duration": 2.31875
+            "at": 4.356249999999999,
+            "duration": 3.19375
           }
         ]
       },
       {
         "id": 2,
-        "start": 10,
+        "start": 12,
         "duration": 10,
         "frames": 300,
         "text": "Cahaya memicu kontraksi sel pada salah satu sirip, sehingga peneliti bisa mengatur arah dan kecepatan geraknya.",
@@ -1183,7 +1183,7 @@
       },
       {
         "id": 3,
-        "start": 20,
+        "start": 22,
         "duration": 10,
         "frames": 300,
         "text": "Robot melewati labirin air sederhana, dengan kecepatan tertinggi sekitar empat kali panjang tubuhnya per menit selama eksperimen.",
@@ -1208,26 +1208,26 @@
       },
       {
         "id": 4,
-        "start": 30,
-        "duration": 10,
-        "frames": 300,
+        "start": 32,
+        "duration": 8,
+        "frames": 240,
         "text": "Ini perpaduan mesin dan sel hidup. Masih eksperimen, tapi cara bergeraknya bikin penasaran.",
         "speechText": "Ini perpaduan mesin dan sel hidup. Masih eksperimen, tapi cara bergeraknya bikin penasaran.",
         "beats": [
           {
             "text": "Ini perpaduan mesin dan sel hidup.",
             "at": 0.25,
-            "duration": 4.292307692307693
+            "duration": 3.369230769230769
           },
           {
             "text": "Masih eksperimen,",
-            "at": 4.542307692307693,
-            "duration": 1.4307692307692308
+            "at": 3.619230769230769,
+            "duration": 1.123076923076923
           },
           {
             "text": "tapi cara bergeraknya bikin penasaran.",
-            "at": 5.973076923076924,
-            "duration": 3.576923076923077
+            "at": 4.742307692307692,
+            "duration": 2.8076923076923075
           }
         ]
       }
@@ -1250,83 +1250,83 @@
       {
         "text": "Peneliti MIT membuat rangka gel tipis",
         "startMs": 4250,
-        "endMs": 6238,
+        "endMs": 6988,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "dengan dua sirip",
-        "startMs": 6238,
-        "endMs": 7231,
+        "startMs": 6988,
+        "endMs": 8356,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "yang dilapisi sel otot hidup hasil rekayasa.",
-        "startMs": 7231,
-        "endMs": 9550,
+        "startMs": 8356,
+        "endMs": 11550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Cahaya memicu kontraksi sel",
-        "startMs": 10250,
-        "endMs": 12575,
+        "startMs": 12250,
+        "endMs": 14575,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "pada salah satu sirip,",
-        "startMs": 12575,
-        "endMs": 14900,
+        "startMs": 14575,
+        "endMs": 16900,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "sehingga peneliti bisa mengatur arah dan kecepatan geraknya.",
-        "startMs": 14900,
-        "endMs": 19550,
+        "startMs": 16900,
+        "endMs": 21550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Robot melewati labirin air sederhana,",
-        "startMs": 20250,
-        "endMs": 22985,
+        "startMs": 22250,
+        "endMs": 24985,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "dengan kecepatan tertinggi sekitar",
-        "startMs": 22985,
-        "endMs": 25174,
+        "startMs": 24985,
+        "endMs": 27174,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "empat kali panjang tubuhnya per menit selama eksperimen.",
-        "startMs": 25174,
-        "endMs": 29550,
+        "startMs": 27174,
+        "endMs": 31550,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Ini perpaduan mesin dan sel hidup.",
-        "startMs": 30250,
-        "endMs": 34542,
+        "startMs": 32250,
+        "endMs": 35619,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "Masih eksperimen,",
-        "startMs": 34542,
-        "endMs": 35973,
+        "startMs": 35619,
+        "endMs": 36742,
         "timestampMs": null,
         "confidence": null
       },
       {
         "text": "tapi cara bergeraknya bikin penasaran.",
-        "startMs": 35973,
+        "startMs": 36742,
         "endMs": 39550,
         "timestampMs": null,
         "confidence": null
