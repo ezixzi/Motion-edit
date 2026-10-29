@@ -1,6 +1,16 @@
 {
   "version": 1,
-  "active_batch": null,
+  "active_batch": {
+    "id": "20261029-2126WIB",
+    "started_at": "2026-10-29T14:26:25Z",
+    "topic_ids": [
+      "robot-serangga-salto-2025",
+      "chip-retina-prima-2025",
+      "suara-baterai-riset-2025"
+    ],
+    "status": "research_and_production",
+    "checkpoint": "Primary sources reopened; writing topic-specific animations."
+  },
   "pending": [
     "robot-serangga-salto-2025",
     "chip-retina-prima-2025",
@@ -22,17 +32,16 @@
     "AI-assisted video editing",
     "video made with Codex"
   ],
-  "updated_at": "2026-10-29 13:40:55 UTC",
+  "updated_at": "2026-10-29T14:26:25Z",
   "model_requirement": {
     "model": "gpt-6.1-sol",
     "reasoning_effort": "medium",
     "fallback_allowed": false,
-    "verification": "unavailable_in_task_tools"
+    "verification": "user_confirmed_available_proceed_2026-10-29"
   },
   "last_attempt": {
-    "at": "2026-10-29 13:40:55 UTC",
-    "status": "blocked_model_unverified",
-    "reason": "User requires GPT-6.1 Sol with Medium effort; Task tools expose neither selection nor authoritative current model/effort metadata. No quota reset telemetry or event trigger is available. Production halted without rendering or marking topics complete.",
-    "next_step": "Verify/select the required model and effort using official platform controls before production; resume pending topics from current queue."
+    "at": "2026-10-29T14:26:25Z",
+    "status": "in_progress",
+    "reason": "User confirmed availability and directed immediate production; no claim of runtime metadata verification."
   }
 }
