@@ -1,7 +1,25 @@
 {
   "version": 1,
-  "active_batch": null,
-  "pending": [],
+  "active_batch": {
+    "id": "20261030-0122WIB",
+    "started_at": "2026-10-29T18:21:43Z",
+    "topic_ids": [
+      "instructmesh-refinement-2026",
+      "xhinges-self-sensing-2026",
+      "sando-dynamic-navigation-2026",
+      "nasa-commercial-relay-launch-2026",
+      "biohybrid-aquabot-2026"
+    ],
+    "status": "writing_topic_specific_animation",
+    "checkpoint": "Five 2026 primary sources and original-work dates checked. InstructMesh preprintAug28/newsOct1; X-Hinges preprintSep10/newsOct22; SANDO newsOct7; NASA launchOct20; aquabot paper/newsSep29."
+  },
+  "pending": [
+    "instructmesh-refinement-2026",
+    "xhinges-self-sensing-2026",
+    "sando-dynamic-navigation-2026",
+    "nasa-commercial-relay-launch-2026",
+    "biohybrid-aquabot-2026"
+  ],
   "completed": [
     {
       "topic_id": "robot-serangga-salto-2025",
@@ -70,7 +88,7 @@
     "AI-assisted video editing",
     "video made with Codex"
   ],
-  "updated_at": "2026-10-29 14:43:41 UTC",
+  "updated_at": "2026-10-29T18:21:43Z",
   "model_requirement": {
     "model": "gpt-6.1-sol",
     "reasoning_effort": "medium",
