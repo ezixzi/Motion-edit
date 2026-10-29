@@ -1,102 +1,7 @@
 {
   "version": 1,
-  "active_batch": {
-    "id": "20261030-0525WIB",
-    "status": "uploaded_pending_remote_verification",
-    "started_at": "2026-10-29T22:25:00Z",
-    "topic_ids": [
-      "gemini-work-agent-oct2026",
-      "android-screen-share-privacy-oct2026",
-      "muse-magnetic-muscle-publication-2026",
-      "glycine-stable-piezoelectric-2026",
-      "slac-spire-autonomous-lab-2026"
-    ],
-    "target_count": 5,
-    "editorial_slots": [
-      "tren_2026",
-      "kehidupan_sehari_hari",
-      "eksplorasi_teknologi",
-      "eksplorasi_teknologi",
-      "eksplorasi_teknologi"
-    ],
-    "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md",
-    "output_paths": [
-      "outputs/ai-tech/20261030-0525WIB-agen-ai-kerja-gemini-2026.mp4",
-      "outputs/ai-tech/20261030-0525WIB-android-lindungi-layar-saat-sharing.mp4",
-      "outputs/ai-tech/20261030-0525WIB-magnet-kecil-baca-gerak-otot.mp4",
-      "outputs/ai-tech/20261030-0525WIB-asam-amino-film-sensor-lentur.mp4",
-      "outputs/ai-tech/20261030-0525WIB-laboratorium-ai-atur-eksperimen.mp4"
-    ]
-  },
-  "pending": [
-    {
-      "id": "agent",
-      "topic_id": "gemini-work-agent-oct2026",
-      "title": "AI Kerja Mulai Mengejar Hasil, Bukan Sekadar Jawaban",
-      "source": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
-      "sourceDate": "2026-10-08",
-      "eventDate": "2026-10-08",
-      "editorial_slot": "tren_2026",
-      "accuracyNote": "Pengumuman 8 Oktober 2026, bukan tanggal lahir konsep agen. Kemampuan adalah deskripsi Google; akses baru dilaporkan private preview saat pengumuman. Bukan bukti AI bebas salah atau semua pengguna sudah mendapatkannya.",
-      "trendEvidence": [
-        {
-          "url": "https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/",
-          "date": "2026-10-08",
-          "basis": "Liputan pengumuman dan persaingan agen kerja; hasil pencarian terverifikasi, halaman penuh tidak tersedia."
-        },
-        {
-          "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-          "date": "2026-10-08",
-          "basis": "Liputan independen pengumuman dan private preview; hasil pencarian, halaman penuh tidak tersedia."
-        },
-        {
-          "url": "https://venturebeat.com/ai/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage",
-          "date": "2026-10-08",
-          "basis": "Liputan peluncuran private preview menurut juru bicara Google; status terkini lebih luas tidak diklaim."
-        }
-      ]
-    },
-    {
-      "id": "privacy",
-      "topic_id": "android-screen-share-privacy-oct2026",
-      "title": "Berbagi Layar Bisa Membocorkan Bagian yang Kamu Lupakan",
-      "source": "https://blog.google/security/new-android-scam-protections/",
-      "sourceDate": "2026-10-14",
-      "eventDate": "2026-10-14",
-      "editorial_slot": "kehidupan_sehari_hari",
-      "accuracyNote": "Penyembunyian bagian sensitif berlaku pada bidang login dan layar pembayaran yang didukung saat screen sharing, bukan semua informasi rahasia otomatis tersaring. Sumber menyebut rollout Oktober pada Android 15+. Tidak menjamin semua perangkat/negara telah aktif."
-    },
-    {
-      "id": "magnet",
-      "topic_id": "muse-magnetic-muscle-publication-2026",
-      "title": "Magnet Kecil Membaca Gerak Otot dari Luar Kulit",
-      "source": "https://www.nature.com/articles/s44460-026-00157-6",
-      "sourceDate": "2026-10-29",
-      "eventDate": "2025-11-22",
-      "editorial_slot": "eksplorasi_teknologi",
-      "accuracyNote": "Tiga peserta amputasi bawah lutut dengan prosedur AMI. Magnet 3 mm dibaca sensor eksternal; tugas studi menggerakkan kursor, bukan demonstrasi berjalan dengan prostesis. Riset memiliki preprint 2025 dan teknik pendahulu 2021; publikasi jurnal 29 Oktober 2026."
-    },
-    {
-      "id": "glycine",
-      "topic_id": "glycine-stable-piezoelectric-2026",
-      "title": "Asam Amino Diubah Menjadi Film Sensor Lentur",
-      "source": "https://news.stanford.edu/stories/2026/10/engineering-amino-acid-future-sensors",
-      "sourceDate": "2026-10-06",
-      "eventDate": "2026-09-17",
-      "editorial_slot": "eksplorasi_teknologi",
-      "accuracyNote": "Film komposit glisin mempertahankan sifat piezoelektrik setelah 60 hari dalam pengujian berair. Bukan masa pakai terjamin di tubuh. Pengujian suhu tubuh dan variasi pH menjadi langkah berikutnya; paper 17 September, artikel 6 Oktober."
-    },
-    {
-      "id": "lab",
-      "topic_id": "slac-spire-autonomous-lab-2026",
-      "title": "Laboratorium yang Dirancang Menyesuaikan Eksperimennya Sendiri",
-      "source": "https://www6.slac.stanford.edu/news/2026-10-08-slac-leads-new-project-build-self-driving-laboratory-future",
-      "sourceDate": "2026-10-08",
-      "eventDate": "2026-10-08",
-      "editorial_slot": "eksplorasi_teknologi",
-      "accuracyNote": "Sumber menggambarkan proyek dan target yang akan dibangun. Robot penangan sampel sudah ada, tetapi integrasi otonom end-to-end ini bukan hasil tuntas. Tidak diklaim peneliti digantikan atau penemuan ilmiah terjamin lebih cepat."
-    }
-  ],
+  "active_batch": null,
+  "pending": [],
   "completed": [
     {
       "topic_id": "robot-serangga-salto-2025",
@@ -264,6 +169,137 @@
       "size": 9623048,
       "verified_commit": "1ca35c6bfd8170021abef315fd2372531bec7593",
       "production_notes": "automation/reels/batches/20261030-0122WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "gemini-work-agent-oct2026",
+      "title": "AI Kerja Mulai Mengejar Hasil, Bukan Sekadar Jawaban",
+      "editorial_slot": "tren_2026",
+      "source_urls": [
+        "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+        "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
+      ],
+      "source_dates": [
+        "2026-10-08"
+      ],
+      "original_work_date": "2026-10-08",
+      "source_event_context": "Pengumuman Gemini agent di Gemini at Work 8 Oktober 2026; kemampuan dan akses mengikuti tahap preview, bukan ketersediaan umum.",
+      "category": "perkembangan2026",
+      "present_relevance": "Perkembangan agen pelaksana kerja dalam peluncuran besar Oktober 2026, dengan beberapa liputan independen. Tidak diklaim viral atau paling populer.",
+      "trend_evidence": [
+        {
+          "url": "https://www.reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08/",
+          "date": "2026-10-08",
+          "basis": "Liputan pengumuman dan persaingan agen kerja; hasil pencarian terverifikasi, halaman penuh tidak tersedia."
+        },
+        {
+          "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+          "date": "2026-10-08",
+          "basis": "Liputan independen pengumuman dan private preview; hasil pencarian, halaman penuh tidak tersedia."
+        },
+        {
+          "url": "https://venturebeat.com/ai/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage",
+          "date": "2026-10-08",
+          "basis": "Liputan peluncuran private preview menurut juru bicara Google; status terkini lebih luas tidak diklaim."
+        }
+      ],
+      "output_path": "outputs/ai-tech/20261030-0525WIB-agen-ai-kerja-gemini-2026.mp4",
+      "sha256": "cd0950e01e7131948eb444555c47d46ff690e347e23c43f02af069ca835b262d",
+      "published_at": "2026-10-29T23:10:12Z",
+      "duration": 40,
+      "size": 7942836,
+      "verified_commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+      "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "android-screen-share-privacy-oct2026",
+      "title": "Berbagi Layar Bisa Membocorkan Bagian yang Kamu Lupakan",
+      "editorial_slot": "kehidupan_sehari_hari",
+      "source_urls": [
+        "https://blog.google/security/new-android-scam-protections/"
+      ],
+      "source_dates": [
+        "2026-10-14"
+      ],
+      "original_work_date": "2026-10-14",
+      "source_event_context": "Pengumuman 14 Oktober 2026; perlindungan berbagi layar diperluas ke Chrome dan Android WebView, rollout bulan itu pada Android 15+.",
+      "category": "perkembangan2026",
+      "present_relevance": "Berbagi layar untuk bantuan keluarga atau kerja adalah aktivitas harian; pembaruan Oktober memperluas perlindungan bidang sensitif pada browser.",
+      "output_path": "outputs/ai-tech/20261030-0525WIB-android-lindungi-layar-saat-sharing.mp4",
+      "sha256": "2f7d43d391d08f2dd2eee0369b79180590c618bdccc0df0e4c72ba589d700c9e",
+      "published_at": "2026-10-29T23:10:12Z",
+      "duration": 40,
+      "size": 8229626,
+      "verified_commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+      "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "muse-magnetic-muscle-publication-2026",
+      "title": "Magnet Kecil Membaca Gerak Otot dari Luar Kulit",
+      "editorial_slot": "eksplorasi_teknologi",
+      "source_urls": [
+        "https://www.nature.com/articles/s44460-026-00157-6",
+        "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
+        "https://www.medrxiv.org/content/10.1101/2025.11.17.25340274v1.full"
+      ],
+      "source_dates": [
+        "2026-10-29"
+      ],
+      "original_work_date": "2025-11-22",
+      "source_event_context": "Versi preprint diposting 22 November 2025; artikel peer-reviewed Nature Sensors terbit 29 Oktober 2026. Teknik pendahulu sudah ditunjukkan pada hewan pada 2021.",
+      "category": "teknologi lama dengan sudut yang jarang dibahas",
+      "present_relevance": "Publikasi peer-reviewed hari ini memberi konteks baru untuk cara membaca mekanika otot secara nirkabel; bukan diklaim penemuan pertama 2026.",
+      "output_path": "outputs/ai-tech/20261030-0525WIB-magnet-kecil-baca-gerak-otot.mp4",
+      "sha256": "7d7082eca3f253a5ca0fbdaa1c6b7e89d8be0319987553cb311a3849e134e7b3",
+      "published_at": "2026-10-29T23:10:12Z",
+      "duration": 40,
+      "size": 8747936,
+      "verified_commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+      "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "glycine-stable-piezoelectric-2026",
+      "title": "Asam Amino Diubah Menjadi Film Sensor Lentur",
+      "editorial_slot": "eksplorasi_teknologi",
+      "source_urls": [
+        "https://news.stanford.edu/stories/2026/10/engineering-amino-acid-future-sensors",
+        "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78513"
+      ],
+      "source_dates": [
+        "2026-10-06"
+      ],
+      "original_work_date": "2026-09-17",
+      "source_event_context": "Paper Advanced Functional Materials pertama terbit 17 September 2026; laporan Stanford 6 Oktober 2026.",
+      "category": "perkembangan2026",
+      "present_relevance": "Material lentur 2026 memperbaiki kestabilan glisin untuk calon sensor yang bisa terurai; cerita mekanisme bukan klaim alat medis sudah tersedia.",
+      "output_path": "outputs/ai-tech/20261030-0525WIB-asam-amino-film-sensor-lentur.mp4",
+      "sha256": "b20e57a91b1b8b3c693c2eb45ef0070a5fd800a27b78838e202025dcc23a06be",
+      "published_at": "2026-10-29T23:10:12Z",
+      "duration": 40,
+      "size": 8784492,
+      "verified_commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+      "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "slac-spire-autonomous-lab-2026",
+      "title": "Laboratorium yang Dirancang Menyesuaikan Eksperimennya Sendiri",
+      "editorial_slot": "eksplorasi_teknologi",
+      "source_urls": [
+        "https://www6.slac.stanford.edu/news/2026-10-08-slac-leads-new-project-build-self-driving-laboratory-future"
+      ],
+      "source_dates": [
+        "2026-10-08"
+      ],
+      "original_work_date": "2026-10-08",
+      "source_event_context": "Proyek SPIRE diumumkan 8 Oktober 2026; ini rencana pengembangan testbed, bukan laboratorium umum otonom yang selesai dibangun.",
+      "category": "perkembangan2026",
+      "present_relevance": "Program pengembangan baru Oktober 2026 menghubungkan robot, kendali berkas dan analisis data dalam satu loop eksperimen.",
+      "output_path": "outputs/ai-tech/20261030-0525WIB-laboratorium-ai-atur-eksperimen.mp4",
+      "sha256": "258c988b726aac72e9501a1db7adfd4acfac04099578204da1457d20c5535a88",
+      "published_at": "2026-10-29T23:10:12Z",
+      "duration": 40,
+      "size": 9058398,
+      "verified_commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+      "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md"
     }
   ],
   "avoid_topics": [
@@ -281,7 +317,7 @@
     "AI-assisted video editing",
     "video made with Codex"
   ],
-  "updated_at": "2026-10-29T22:25:00Z",
+  "updated_at": "2026-10-29T23:10:12Z",
   "model_requirement": {
     "model": "gpt-6.1-sol",
     "reasoning_effort": "medium",
@@ -289,27 +325,38 @@
     "verification": "user_confirmed_available_proceed_2026-10-29"
   },
   "last_attempt": {
-    "at": "2026-10-29 20:45:52 UTC",
+    "at": "2026-10-29T23:10:12Z",
     "status": "completed_verified",
     "produced": 5,
     "remote_sha256_matched": true
   },
   "last_batch": {
-    "id": "20261030-0122WIB",
-    "completed_at": "2026-10-29 20:45:52 UTC",
+    "id": "20261030-0525WIB",
+    "completed_at": "2026-10-29T23:10:12Z",
     "status": "completed_verified",
     "count": 5,
     "output_paths": [
-      "outputs/ai-tech/20261030-0122WIB-ai-perbaiki-model-3d.mp4",
-      "outputs/ai-tech/20261030-0122WIB-engsel-cetak-3d-bersensor.mp4",
-      "outputs/ai-tech/20261030-0122WIB-drone-jalur-aman-bergerak.mp4",
-      "outputs/ai-tech/20261030-0122WIB-satelit-relay-nasa-2026.mp4",
-      "outputs/ai-tech/20261030-0122WIB-robot-renang-sel-otot.mp4"
+      "outputs/ai-tech/20261030-0525WIB-agen-ai-kerja-gemini-2026.mp4",
+      "outputs/ai-tech/20261030-0525WIB-android-lindungi-layar-saat-sharing.mp4",
+      "outputs/ai-tech/20261030-0525WIB-magnet-kecil-baca-gerak-otot.mp4",
+      "outputs/ai-tech/20261030-0525WIB-asam-amino-film-sensor-lentur.mp4",
+      "outputs/ai-tech/20261030-0525WIB-laboratorium-ai-atur-eksperimen.mp4"
     ]
   },
   "production_config": {
     "batch_size": 5,
     "interval_hours": 4,
     "target_per_day": 30
+  },
+  "editorial_mix": {
+    "required_trend_2026": 1,
+    "required_distinct_everyday": 1,
+    "other_slots": 3,
+    "updated_at": "2026-10-29T23:10:12Z"
+  },
+  "authorization": {
+    "routine_production_preapproved": true,
+    "scope": "Research, filesystem work, fixes, render, QA and publishing to ezixzi/Motion-edit without repeated routine confirmation; no social posting or third-party messaging",
+    "platform_controls": "Respect mandatory Connect/Reconnect and official access controls"
   }
 }

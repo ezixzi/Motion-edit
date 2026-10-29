@@ -25,9 +25,7 @@
     "Primary claims and original publication dates"
   ],
   "audio": "No narration or music.21 short original noise/tick transition cues,48kHz stereo",
-  "pending": [
-    "Immutable GitHub SHA256 match"
-  ],
+  "pending": [],
   "final_decode": "All5 passed",
   "probe": "All5 1080x1920,30fps,H264 yuv420p,AAC,40s",
   "audio_peak_dbfs": -24.1,
@@ -38,5 +36,6 @@
     490,
     835
   ],
-  "final_frame_review": "All5 contact sheets inspected; additional transitions and max zoom checked for agent and privacy; both shoes intact, subtitles fit."
+  "final_frame_review": "All5 contact sheets inspected; additional transitions and max zoom checked for agent and privacy; both shoes intact, subtitles fit.",
+  "remote_sha256_match": "All5 verified on immutable commit 2e9453bbff507d5e2226e13132cc61e8ef1d11ad"
 }

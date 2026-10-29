@@ -1,0 +1,47 @@
+[
+  {
+    "id": "agent",
+    "path": "outputs/ai-tech/20261030-0525WIB-agen-ai-kerja-gemini-2026.mp4",
+    "commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+    "sha256": "cd0950e01e7131948eb444555c47d46ff690e347e23c43f02af069ca835b262d",
+    "size": 7942836,
+    "matched": true,
+    "url": "https://raw.githubusercontent.com/ezixzi/Motion-edit/2e9453bbff507d5e2226e13132cc61e8ef1d11ad/outputs/ai-tech/20261030-0525WIB-agen-ai-kerja-gemini-2026.mp4"
+  },
+  {
+    "id": "privacy",
+    "path": "outputs/ai-tech/20261030-0525WIB-android-lindungi-layar-saat-sharing.mp4",
+    "commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+    "sha256": "2f7d43d391d08f2dd2eee0369b79180590c618bdccc0df0e4c72ba589d700c9e",
+    "size": 8229626,
+    "matched": true,
+    "url": "https://raw.githubusercontent.com/ezixzi/Motion-edit/2e9453bbff507d5e2226e13132cc61e8ef1d11ad/outputs/ai-tech/20261030-0525WIB-android-lindungi-layar-saat-sharing.mp4"
+  },
+  {
+    "id": "magnet",
+    "path": "outputs/ai-tech/20261030-0525WIB-magnet-kecil-baca-gerak-otot.mp4",
+    "commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+    "sha256": "7d7082eca3f253a5ca0fbdaa1c6b7e89d8be0319987553cb311a3849e134e7b3",
+    "size": 8747936,
+    "matched": true,
+    "url": "https://raw.githubusercontent.com/ezixzi/Motion-edit/2e9453bbff507d5e2226e13132cc61e8ef1d11ad/outputs/ai-tech/20261030-0525WIB-magnet-kecil-baca-gerak-otot.mp4"
+  },
+  {
+    "id": "glycine",
+    "path": "outputs/ai-tech/20261030-0525WIB-asam-amino-film-sensor-lentur.mp4",
+    "commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+    "sha256": "b20e57a91b1b8b3c693c2eb45ef0070a5fd800a27b78838e202025dcc23a06be",
+    "size": 8784492,
+    "matched": true,
+    "url": "https://raw.githubusercontent.com/ezixzi/Motion-edit/2e9453bbff507d5e2226e13132cc61e8ef1d11ad/outputs/ai-tech/20261030-0525WIB-asam-amino-film-sensor-lentur.mp4"
+  },
+  {
+    "id": "lab",
+    "path": "outputs/ai-tech/20261030-0525WIB-laboratorium-ai-atur-eksperimen.mp4",
+    "commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
+    "sha256": "258c988b726aac72e9501a1db7adfd4acfac04099578204da1457d20c5535a88",
+    "size": 9058398,
+    "matched": true,
+    "url": "https://raw.githubusercontent.com/ezixzi/Motion-edit/2e9453bbff507d5e2226e13132cc61e8ef1d11ad/outputs/ai-tech/20261030-0525WIB-laboratorium-ai-atur-eksperimen.mp4"
+  }
+]
