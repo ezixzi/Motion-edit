@@ -1,0 +1,755 @@
+[
+  {
+    "id": "robot",
+    "topic_id": "robot-serangga-salto-2025",
+    "composition": "RobotSeranggaSalto",
+    "slug": "robot-serangga-salto",
+    "title": "Robot Serangga yang Salto 10 Kali",
+    "source": "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203",
+    "sourceDate": "2025-12-03",
+    "sourceLabel": "MIT • 3 Des 2025",
+    "limit": "Ilustrasi gerak • belum jadi alat penyelamatan.",
+    "titles": [
+      "Robot mungil.\nSalto berkali-kali.",
+      "01 / Sayap kecil.\nPengendali AI.",
+      "02 / Kecepatan\nnaik sekitar 450%.",
+      "03 / 10 salto.\nHanya 11 detik.",
+      "Masih eksperimen.\nPotensinya besar."
+    ],
+    "caption": "Robot mungil, manuver besar. MIT menguji pengendali AI yang membantu microrobot terbang lincah dan melakukan salto beruntun. Masih eksperimen—belum menjadi alat penyelamatan operasional. #Robotika #Teknologi",
+    "sections": [
+      {
+        "id": 0,
+        "start": 0,
+        "duration": 4,
+        "frames": 120,
+        "text": "Robot sekecil serangga ini bisa salto berkali-kali.",
+        "speechText": "Robot sekecil serangga ini bisa salto berkali-kali.",
+        "beats": [
+          {
+            "text": "Robot sekecil serangga ini",
+            "at": 0.12,
+            "duration": 1.8857142857142857
+          },
+          {
+            "text": "bisa salto berkali-kali.",
+            "at": 2.005714285714286,
+            "duration": 1.4142857142857141
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "duration": 6,
+        "frames": 180,
+        "text": "Peneliti MIT mengembangkan robot terbang mungil dengan pengendali AI yang membantunya bergerak semakin lincah.",
+        "speechText": "Peneliti MIT mengembangkan robot terbang mungil dengan pengendali AI yang membantunya bergerak semakin lincah.",
+        "beats": [
+          {
+            "text": "Peneliti MIT mengembangkan robot terbang mungil",
+            "at": 0.25,
+            "duration": 2.2714285714285714
+          },
+          {
+            "text": "dengan pengendali AI",
+            "at": 2.5214285714285714,
+            "duration": 1.1357142857142857
+          },
+          {
+            "text": "yang membantunya bergerak semakin lincah.",
+            "at": 3.657142857142857,
+            "duration": 1.8928571428571428
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "duration": 10,
+        "frames": 300,
+        "text": "Setelah dilatih, kecepatan robot meningkat sekitar empat ratus lima puluh persen dibanding demonstrasi terbaik sebelumnya.",
+        "speechText": "Setelah dilatih, kecepatan robot meningkat sekitar empat ratus lima puluh persen dibanding demonstrasi terbaik sebelumnya.",
+        "beats": [
+          {
+            "text": "Setelah dilatih, kecepatan robot meningkat",
+            "at": 0.25,
+            "duration": 3.1
+          },
+          {
+            "text": "sekitar empat ratus lima puluh persen",
+            "at": 3.35,
+            "duration": 3.72
+          },
+          {
+            "text": "dibanding demonstrasi terbaik sebelumnya.",
+            "at": 7.07,
+            "duration": 2.48
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "start": 20,
+        "duration": 10,
+        "frames": 300,
+        "text": "Robot tersebut berhasil melakukan sepuluh salto beruntun hanya dalam sebelas detik selama eksperimen, bahkan menghadapi gangguan angin.",
+        "speechText": "Robot tersebut berhasil melakukan sepuluh salto beruntun hanya dalam sebelas detik selama eksperimen, bahkan menghadapi gangguan angin.",
+        "beats": [
+          {
+            "text": "Robot tersebut berhasil melakukan",
+            "at": 0.25,
+            "duration": 2.1882352941176473
+          },
+          {
+            "text": "sepuluh salto beruntun",
+            "at": 2.4382352941176473,
+            "duration": 1.6411764705882355
+          },
+          {
+            "text": "hanya dalam sebelas detik",
+            "at": 4.079411764705883,
+            "duration": 2.1882352941176473
+          },
+          {
+            "text": "selama eksperimen, bahkan menghadapi gangguan angin.",
+            "at": 6.26764705882353,
+            "duration": 3.282352941176471
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "start": 30,
+        "duration": 10,
+        "frames": 300,
+        "text": "Bayangin kalau robot sekecil ini kelak bisa membantu pencarian korban bencana.",
+        "speechText": "Bayangin kalau robot sekecil ini kelak bisa membantu pencarian korban bencana.",
+        "beats": [
+          {
+            "text": "Bayangin kalau robot sekecil ini",
+            "at": 0.25,
+            "duration": 4.2272727272727275
+          },
+          {
+            "text": "kelak bisa membantu pencarian korban bencana.",
+            "at": 4.4772727272727275,
+            "duration": 5.072727272727273
+          }
+        ]
+      }
+    ],
+    "captions": [
+      {
+        "text": "Robot sekecil serangga ini",
+        "startMs": 120,
+        "endMs": 2006,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "bisa salto berkali-kali.",
+        "startMs": 2006,
+        "endMs": 3420,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Peneliti MIT mengembangkan robot terbang mungil",
+        "startMs": 4250,
+        "endMs": 6521,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dengan pengendali AI",
+        "startMs": 6521,
+        "endMs": 7657,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "yang membantunya bergerak semakin lincah.",
+        "startMs": 7657,
+        "endMs": 9550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Setelah dilatih, kecepatan robot meningkat",
+        "startMs": 10250,
+        "endMs": 13350,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "sekitar empat ratus lima puluh persen",
+        "startMs": 13350,
+        "endMs": 17070,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dibanding demonstrasi terbaik sebelumnya.",
+        "startMs": 17070,
+        "endMs": 19550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Robot tersebut berhasil melakukan",
+        "startMs": 20250,
+        "endMs": 22438,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "sepuluh salto beruntun",
+        "startMs": 22438,
+        "endMs": 24079,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "hanya dalam sebelas detik",
+        "startMs": 24079,
+        "endMs": 26268,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "selama eksperimen, bahkan menghadapi gangguan angin.",
+        "startMs": 26268,
+        "endMs": 29550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Bayangin kalau robot sekecil ini",
+        "startMs": 30250,
+        "endMs": 34477,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "kelak bisa membantu pencarian korban bencana.",
+        "startMs": 34477,
+        "endMs": 39550,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "duration": 40,
+    "frames": 1200,
+    "voiceStatus": "none_user_will_dub",
+    "timing": "Editorial timing, script-based mouth cues; not aligned to recorded speech",
+    "illustration": "Original conceptual illustrations, not actual experimental footage",
+    "accuracyNote": "Ilustrasi gerak • belum jadi alat penyelamatan."
+  },
+  {
+    "id": "retina",
+    "topic_id": "chip-retina-prima-2025",
+    "composition": "ChipRetinaPRIMA",
+    "slug": "chip-retina-bantu-membaca",
+    "title": "Chip Retina Membantu Orang Membaca",
+    "source": "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html",
+    "sourceDate": "2025-10-20",
+    "sourceLabel": "Stanford Medicine • 20 Okt 2025",
+    "limit": "Ilustrasi konsep • AMD tertentu, belum normal.",
+    "titles": [
+      "Chip kecil.\nBisa bantu membaca.",
+      "01 / Kacamata\nbertemu chip retina.",
+      "02 / Cahaya masuk.\nSinyal diteruskan.",
+      "03 / Bisa membaca:\n27 dari 32 peserta.",
+      "Penglihatan terbantu.\nBelum kembali normal."
+    ],
+    "caption": "Chip PRIMA dan kacamata khusus membantu sebagian peserta dengan degenerasi makula lanjut membaca kembali. Hasilnya pada kelompok pasien tertentu, bukan pemulihan penglihatan normal untuk semua jenis kebutaan. #TeknologiMedis #Riset",
+    "sections": [
+      {
+        "id": 0,
+        "start": 0,
+        "duration": 4,
+        "frames": 120,
+        "text": "Bayangin, chip kecil ini membantu orang membaca lagi.",
+        "speechText": "Bayangin, chip kecil ini membantu orang membaca lagi.",
+        "beats": [
+          {
+            "text": "Bayangin, chip kecil ini",
+            "at": 0.12,
+            "duration": 1.65
+          },
+          {
+            "text": "membantu orang membaca lagi.",
+            "at": 1.77,
+            "duration": 1.65
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "duration": 6,
+        "frames": 180,
+        "text": "Peneliti mengembangkan chip retina yang bekerja bersama kacamata khusus untuk membantu penglihatan pasien tertentu.",
+        "speechText": "Peneliti mengembangkan chip retina yang bekerja bersama kacamata khusus untuk membantu penglihatan pasien tertentu.",
+        "beats": [
+          {
+            "text": "Peneliti mengembangkan chip retina",
+            "at": 0.25,
+            "duration": 1.5142857142857142
+          },
+          {
+            "text": "yang bekerja bersama kacamata khusus",
+            "at": 1.7642857142857142,
+            "duration": 1.8928571428571428
+          },
+          {
+            "text": "untuk membantu penglihatan pasien tertentu.",
+            "at": 3.657142857142857,
+            "duration": 1.8928571428571428
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "duration": 10,
+        "frames": 300,
+        "text": "Kacamata mengirim cahaya inframerah ke chip, lalu perangkat merangsang sel retina agar informasi visual bisa diteruskan.",
+        "speechText": "Kacamata mengirim cahaya inframerah ke chip, lalu perangkat merangsang sel retina agar informasi visual bisa diteruskan.",
+        "beats": [
+          {
+            "text": "Kacamata mengirim cahaya inframerah ke chip,",
+            "at": 0.25,
+            "duration": 3.4875000000000003
+          },
+          {
+            "text": "lalu perangkat merangsang sel retina",
+            "at": 3.7375000000000003,
+            "duration": 2.90625
+          },
+          {
+            "text": "agar informasi visual bisa diteruskan.",
+            "at": 6.643750000000001,
+            "duration": 2.90625
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "start": 20,
+        "duration": 10,
+        "frames": 300,
+        "text": "Dalam uji klinis, dua puluh tujuh dari tiga puluh dua peserta yang menyelesaikan pemantauan setahun mampu membaca lagi menggunakan perangkat.",
+        "speechText": "Dalam uji klinis, dua puluh tujuh dari tiga puluh dua peserta yang menyelesaikan pemantauan setahun mampu membaca lagi menggunakan perangkat.",
+        "beats": [
+          {
+            "text": "Dalam uji klinis, dua puluh tujuh",
+            "at": 0.25,
+            "duration": 2.79
+          },
+          {
+            "text": "dari tiga puluh dua peserta",
+            "at": 3.04,
+            "duration": 2.325
+          },
+          {
+            "text": "yang menyelesaikan pemantauan setahun",
+            "at": 5.365,
+            "duration": 1.86
+          },
+          {
+            "text": "mampu membaca lagi menggunakan perangkat.",
+            "at": 7.2250000000000005,
+            "duration": 2.325
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "start": 30,
+        "duration": 10,
+        "frames": 300,
+        "text": "Belum memulihkan penglihatan normal, tapi kemajuan ini besar banget. Setuju?",
+        "speechText": "Belum memulihkan penglihatan normal, tapi kemajuan ini besar banget. Setuju?",
+        "beats": [
+          {
+            "text": "Belum memulihkan penglihatan normal,",
+            "at": 0.25,
+            "duration": 3.72
+          },
+          {
+            "text": "tapi kemajuan ini besar banget.",
+            "at": 3.97,
+            "duration": 4.65
+          },
+          {
+            "text": "Setuju?",
+            "at": 8.620000000000001,
+            "duration": 0.93
+          }
+        ]
+      }
+    ],
+    "captions": [
+      {
+        "text": "Bayangin, chip kecil ini",
+        "startMs": 120,
+        "endMs": 1770,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "membantu orang membaca lagi.",
+        "startMs": 1770,
+        "endMs": 3420,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Peneliti mengembangkan chip retina",
+        "startMs": 4250,
+        "endMs": 5764,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "yang bekerja bersama kacamata khusus",
+        "startMs": 5764,
+        "endMs": 7657,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "untuk membantu penglihatan pasien tertentu.",
+        "startMs": 7657,
+        "endMs": 9550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Kacamata mengirim cahaya inframerah ke chip,",
+        "startMs": 10250,
+        "endMs": 13738,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "lalu perangkat merangsang sel retina",
+        "startMs": 13738,
+        "endMs": 16644,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "agar informasi visual bisa diteruskan.",
+        "startMs": 16644,
+        "endMs": 19550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Dalam uji klinis, dua puluh tujuh",
+        "startMs": 20250,
+        "endMs": 23040,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dari tiga puluh dua peserta",
+        "startMs": 23040,
+        "endMs": 25365,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "yang menyelesaikan pemantauan setahun",
+        "startMs": 25365,
+        "endMs": 27225,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "mampu membaca lagi menggunakan perangkat.",
+        "startMs": 27225,
+        "endMs": 29550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Belum memulihkan penglihatan normal,",
+        "startMs": 30250,
+        "endMs": 33970,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "tapi kemajuan ini besar banget.",
+        "startMs": 33970,
+        "endMs": 38620,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Setuju?",
+        "startMs": 38620,
+        "endMs": 39550,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "duration": 40,
+    "frames": 1200,
+    "voiceStatus": "none_user_will_dub",
+    "timing": "Editorial timing, script-based mouth cues; not aligned to recorded speech",
+    "illustration": "Original conceptual illustrations, not actual experimental footage",
+    "accuracyNote": "Pada AMD tertentu • belum memulihkan penglihatan normal."
+  },
+  {
+    "id": "battery",
+    "topic_id": "suara-baterai-riset-2025",
+    "composition": "SuaraBateraiRiset",
+    "slug": "sinyal-suara-baterai",
+    "title": "Baterai Punya Jejak Suara Kerusakan",
+    "source": "https://news.mit.edu/2025/decoding-sounds-battery-formation-degradation-0916",
+    "sourceDate": "2025-09-16",
+    "sourceLabel": "MIT • 16 Sep 2025",
+    "limit": "Ilustrasi konsep • sensor khusus; masih riset.",
+    "titles": [
+      "Baterai rusak\npunya jejak suara.",
+      "01 / Sinyal halus.\nPerlu sensor khusus.",
+      "02 / Gelembung gas.\nRetakan material.",
+      "03 / Membaca kondisi\nmelalui pola suara.",
+      "Masih riset.\nBukan alarm ponsel."
+    ],
+    "caption": "Baterai punya jejak akustik yang sangat halus. Peneliti menghubungkannya dengan gelembung gas dan retakan material menggunakan sensor khusus. Ini riset pemantauan, bukan suara yang bisa diandalkan telinga biasa. #Baterai #Sains",
+    "sections": [
+      {
+        "id": 0,
+        "start": 0,
+        "duration": 4,
+        "frames": 120,
+        "text": "Serius, baterai bisa mengeluarkan suara sebelum rusak.",
+        "speechText": "Serius, baterai bisa mengeluarkan suara sebelum rusak.",
+        "beats": [
+          {
+            "text": "Serius, baterai bisa mengeluarkan suara",
+            "at": 0.12,
+            "duration": 2.357142857142857
+          },
+          {
+            "text": "sebelum rusak.",
+            "at": 2.4771428571428573,
+            "duration": 0.9428571428571428
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "duration": 6,
+        "frames": 180,
+        "text": "Peneliti MIT merekam suara sangat halus dari baterai litium saat pengisian dan pemakaian berlangsung.",
+        "speechText": "Peneliti MIT merekam suara sangat halus dari baterai litium saat pengisian dan pemakaian berlangsung.",
+        "beats": [
+          {
+            "text": "Peneliti MIT merekam suara sangat halus",
+            "at": 0.25,
+            "duration": 2.2714285714285714
+          },
+          {
+            "text": "dari baterai litium",
+            "at": 2.5214285714285714,
+            "duration": 1.1357142857142857
+          },
+          {
+            "text": "saat pengisian dan pemakaian berlangsung.",
+            "at": 3.657142857142857,
+            "duration": 1.8928571428571428
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "duration": 10,
+        "frames": 300,
+        "text": "Suara itu ternyata berkaitan dengan pembentukan gelembung gas dan retakan kecil di dalam material baterai.",
+        "speechText": "Suara itu ternyata berkaitan dengan pembentukan gelembung gas dan retakan kecil di dalam material baterai.",
+        "beats": [
+          {
+            "text": "Suara itu ternyata berkaitan",
+            "at": 0.25,
+            "duration": 2.48
+          },
+          {
+            "text": "dengan pembentukan gelembung gas",
+            "at": 2.73,
+            "duration": 2.48
+          },
+          {
+            "text": "dan retakan kecil di dalam material baterai.",
+            "at": 5.21,
+            "duration": 4.340000000000001
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "start": 20,
+        "duration": 10,
+        "frames": 300,
+        "text": "Yang menarik, pola suara tersebut dapat membantu ilmuwan mendeteksi proses kerusakan tanpa perlu membongkar baterainya terlebih dahulu.",
+        "speechText": "Yang menarik, pola suara tersebut dapat membantu ilmuwan mendeteksi proses kerusakan tanpa perlu membongkar baterainya terlebih dahulu.",
+        "beats": [
+          {
+            "text": "Yang menarik, pola suara tersebut",
+            "at": 0.25,
+            "duration": 2.735294117647059
+          },
+          {
+            "text": "dapat membantu ilmuwan mendeteksi proses kerusakan",
+            "at": 2.985294117647059,
+            "duration": 3.282352941176471
+          },
+          {
+            "text": "tanpa perlu membongkar baterainya terlebih dahulu.",
+            "at": 6.267647058823529,
+            "duration": 3.282352941176471
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "start": 30,
+        "duration": 10,
+        "frames": 300,
+        "text": "Jadi bukan suara yang terdengar telinga biasa. Kamu baru tahu?",
+        "speechText": "Jadi bukan suara yang terdengar telinga biasa. Kamu baru tahu?",
+        "beats": [
+          {
+            "text": "Jadi bukan suara",
+            "at": 0.25,
+            "duration": 2.79
+          },
+          {
+            "text": "yang terdengar telinga biasa.",
+            "at": 3.04,
+            "duration": 3.72
+          },
+          {
+            "text": "Kamu baru tahu?",
+            "at": 6.76,
+            "duration": 2.79
+          }
+        ]
+      }
+    ],
+    "captions": [
+      {
+        "text": "Serius, baterai bisa mengeluarkan suara",
+        "startMs": 120,
+        "endMs": 2477,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "sebelum rusak.",
+        "startMs": 2477,
+        "endMs": 3420,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Peneliti MIT merekam suara sangat halus",
+        "startMs": 4250,
+        "endMs": 6521,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dari baterai litium",
+        "startMs": 6521,
+        "endMs": 7657,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "saat pengisian dan pemakaian berlangsung.",
+        "startMs": 7657,
+        "endMs": 9550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Suara itu ternyata berkaitan",
+        "startMs": 10250,
+        "endMs": 12730,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dengan pembentukan gelembung gas",
+        "startMs": 12730,
+        "endMs": 15210,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dan retakan kecil di dalam material baterai.",
+        "startMs": 15210,
+        "endMs": 19550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Yang menarik, pola suara tersebut",
+        "startMs": 20250,
+        "endMs": 22985,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "dapat membantu ilmuwan mendeteksi proses kerusakan",
+        "startMs": 22985,
+        "endMs": 26268,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "tanpa perlu membongkar baterainya terlebih dahulu.",
+        "startMs": 26268,
+        "endMs": 29550,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Jadi bukan suara",
+        "startMs": 30250,
+        "endMs": 33040,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "yang terdengar telinga biasa.",
+        "startMs": 33040,
+        "endMs": 36760,
+        "timestampMs": null,
+        "confidence": null
+      },
+      {
+        "text": "Kamu baru tahu?",
+        "startMs": 36760,
+        "endMs": 39550,
+        "timestampMs": null,
+        "confidence": null
+      }
+    ],
+    "duration": 40,
+    "frames": 1200,
+    "voiceStatus": "none_user_will_dub",
+    "timing": "Editorial timing, script-based mouth cues; not aligned to recorded speech",
+    "illustration": "Original conceptual illustrations, not actual experimental footage",
+    "accuracyNote": "Perlu sensor khusus • masih riset, bukan alarm ponsel."
+  }
+]

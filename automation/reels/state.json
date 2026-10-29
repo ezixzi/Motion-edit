@@ -8,8 +8,8 @@
       "chip-retina-prima-2025",
       "suara-baterai-riset-2025"
     ],
-    "status": "research_and_production",
-    "checkpoint": "Primary sources reopened; writing topic-specific animations."
+    "status": "rendering",
+    "checkpoint": "Topic-specific code complete; TypeScript and 15 sampled frames passed; rendering three 40-second MP4s sequentially. Local /workspace/work/reels-batches/20261029-2126WIB."
   },
   "pending": [
     "robot-serangga-salto-2025",
