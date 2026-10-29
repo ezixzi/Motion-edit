@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:02,477
+Serius, baterai bisa mengeluarkan suara
+
+2
+00:00:02,477 --> 00:00:03,420
+sebelum rusak.
+
+3
+00:00:04,250 --> 00:00:06,521
+Peneliti MIT merekam suara sangat halus
+
+4
+00:00:06,521 --> 00:00:07,657
+dari baterai litium
+
+5
+00:00:07,657 --> 00:00:09,550
+saat pengisian dan pemakaian berlangsung.
+
+6
+00:00:10,250 --> 00:00:12,730
+Suara itu ternyata berkaitan
+
+7
+00:00:12,730 --> 00:00:15,210
+dengan pembentukan gelembung gas
+
+8
+00:00:15,210 --> 00:00:19,550
+dan retakan kecil di dalam material baterai.
+
+9
+00:00:20,250 --> 00:00:22,985
+Yang menarik, pola suara tersebut
+
+10
+00:00:22,985 --> 00:00:26,268
+dapat membantu ilmuwan mendeteksi proses kerusakan
+
+11
+00:00:26,268 --> 00:00:29,550
+tanpa perlu membongkar baterainya terlebih dahulu.
+
+12
+00:00:30,250 --> 00:00:33,040
+Jadi bukan suara
+
+13
+00:00:33,040 --> 00:00:36,760
+yang terdengar telinga biasa.
+
+14
+00:00:36,760 --> 00:00:39,550
+Kamu baru tahu?

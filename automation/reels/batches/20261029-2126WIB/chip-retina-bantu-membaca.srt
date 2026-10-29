@@ -1,0 +1,59 @@
+1
+00:00:00,120 --> 00:00:01,770
+Bayangin, chip kecil ini
+
+2
+00:00:01,770 --> 00:00:03,420
+membantu orang membaca lagi.
+
+3
+00:00:04,250 --> 00:00:05,764
+Peneliti mengembangkan chip retina
+
+4
+00:00:05,764 --> 00:00:07,657
+yang bekerja bersama kacamata khusus
+
+5
+00:00:07,657 --> 00:00:09,550
+untuk membantu penglihatan pasien tertentu.
+
+6
+00:00:10,250 --> 00:00:13,738
+Kacamata mengirim cahaya inframerah ke chip,
+
+7
+00:00:13,738 --> 00:00:16,644
+lalu perangkat merangsang sel retina
+
+8
+00:00:16,644 --> 00:00:19,550
+agar informasi visual bisa diteruskan.
+
+9
+00:00:20,250 --> 00:00:23,040
+Dalam uji klinis, dua puluh tujuh
+
+10
+00:00:23,040 --> 00:00:25,365
+dari tiga puluh dua peserta
+
+11
+00:00:25,365 --> 00:00:27,225
+yang menyelesaikan pemantauan setahun
+
+12
+00:00:27,225 --> 00:00:29,550
+mampu membaca lagi menggunakan perangkat.
+
+13
+00:00:30,250 --> 00:00:33,970
+Belum memulihkan penglihatan normal,
+
+14
+00:00:33,970 --> 00:00:38,620
+tapi kemajuan ini besar banget.
+
+15
+00:00:38,620 --> 00:00:39,550
+Setuju?

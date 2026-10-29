@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:02,006
+Robot sekecil serangga ini
+
+2
+00:00:02,006 --> 00:00:03,420
+bisa salto berkali-kali.
+
+3
+00:00:04,250 --> 00:00:06,521
+Peneliti MIT mengembangkan robot terbang mungil
+
+4
+00:00:06,521 --> 00:00:07,657
+dengan pengendali AI
+
+5
+00:00:07,657 --> 00:00:09,550
+yang membantunya bergerak semakin lincah.
+
+6
+00:00:10,250 --> 00:00:13,350
+Setelah dilatih, kecepatan robot meningkat
+
+7
+00:00:13,350 --> 00:00:17,070
+sekitar empat ratus lima puluh persen
+
+8
+00:00:17,070 --> 00:00:19,550
+dibanding demonstrasi terbaik sebelumnya.
+
+9
+00:00:20,250 --> 00:00:22,438
+Robot tersebut berhasil melakukan
+
+10
+00:00:22,438 --> 00:00:24,079
+sepuluh salto beruntun
+
+11
+00:00:24,079 --> 00:00:26,268
+hanya dalam sebelas detik
+
+12
+00:00:26,268 --> 00:00:29,550
+selama eksperimen, bahkan menghadapi gangguan angin.
+
+13
+00:00:30,250 --> 00:00:34,477
+Bayangin kalau robot sekecil ini
+
+14
+00:00:34,477 --> 00:00:39,550
+kelak bisa membantu pencarian korban bencana.

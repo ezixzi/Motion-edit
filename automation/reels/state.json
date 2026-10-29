@@ -8,8 +8,22 @@
       "chip-retina-prima-2025",
       "suara-baterai-riset-2025"
     ],
-    "status": "rendering",
-    "checkpoint": "Topic-specific code complete; TypeScript and 15 sampled frames passed; rendering three 40-second MP4s sequentially. Local /workspace/work/reels-batches/20261029-2126WIB."
+    "status": "verifying_uploads",
+    "checkpoint": "All three MP4s fully decoded; publication prepared. Keep topics pending until immutable raw download hashes match.",
+    "outputs": [
+      {
+        "path": "outputs/ai-tech/20261029-2126WIB-robot-serangga-salto.mp4",
+        "sha256": "9b7548d4414ced885d6085cfebaf000e1a695ee82c53bf6a41d50344f991b863"
+      },
+      {
+        "path": "outputs/ai-tech/20261029-2126WIB-chip-retina-bantu-membaca.mp4",
+        "sha256": "1a4e9e5c0a842c0cbdb35f30ff65f627d202cad293decf0b3c6f2349b7aa8ac5"
+      },
+      {
+        "path": "outputs/ai-tech/20261029-2126WIB-sinyal-suara-baterai.mp4",
+        "sha256": "6d693521ac347d81d550e6768bfb664fad22b626f03f0c1dd25fe3ab49690e8e"
+      }
+    ]
   },
   "pending": [
     "robot-serangga-salto-2025",
