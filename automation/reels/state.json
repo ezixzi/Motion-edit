@@ -3,11 +3,63 @@
   "active_batch": {
     "id": "20261030-0849WIB",
     "started_at": "2026-10-30T01:49:50Z",
-    "status": "researching",
+    "status": "rendering",
     "target_count": 5,
-    "topic_ids": []
+    "topic_ids": [
+      "mistral-large4-cyber-oct2026",
+      "android-tap-to-share-2026",
+      "biosenter-preclinical-2026",
+      "autothermal-methane-pyrolysis-2026",
+      "cerberuz-lunarecycle-2026"
+    ]
   },
-  "pending": [],
+  "pending": [
+    {
+      "id": "cyber",
+      "topic_id": "mistral-large4-cyber-oct2026",
+      "title": "Siapa yang Menemukan Celah Aplikasimu Lebih Dulu?",
+      "source": "https://mistral.ai/news/mistral-large-4/",
+      "sourceDate": "2026-10-06",
+      "eventDate": "2026-10-06",
+      "editorial_slot": "tren_2026"
+    },
+    {
+      "id": "tap",
+      "topic_id": "android-tap-to-share-2026",
+      "title": "Kirim Foto Cukup Dekatkan Ponsel, Tapi Tetap Perlu Persetujuan",
+      "source": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
+      "sourceDate": "2026-08-12",
+      "eventDate": "2026-08-12",
+      "editorial_slot": "kehidupan_sehari_hari"
+    },
+    {
+      "id": "gut",
+      "topic_id": "biosenter-preclinical-2026",
+      "title": "Robot Lentur Menelusuri Belokan Usus",
+      "source": "https://www.utsouthwestern.edu/newsroom/articles/year-2026/oct-robot-improve-gastroenterologists-diagnosis.html",
+      "sourceDate": "2026-10-28",
+      "eventDate": "2026-10-28",
+      "editorial_slot": "eksplorasi_teknologi"
+    },
+    {
+      "id": "hydro",
+      "topic_id": "autothermal-methane-pyrolysis-2026",
+      "title": "Reaktor Hidrogen Dipanaskan dari Dalam",
+      "source": "https://news.stanford.edu/stories/2026/09/sustainable-hydrogen-production-heating-method",
+      "sourceDate": "2026-09-03",
+      "eventDate": "2026-09-03",
+      "editorial_slot": "eksplorasi_teknologi"
+    },
+    {
+      "id": "lunar",
+      "topic_id": "cerberuz-lunarecycle-2026",
+      "title": "Sampah Kemasan Bisa Menjadi Komponen untuk Pangkalan Bulan",
+      "source": "https://news.mit.edu/2026/mit-student-team-cerberuz-wins-nasa-lunarecycle-centennial-challenge-1020",
+      "sourceDate": "2026-10-20",
+      "eventDate": "2026-08",
+      "editorial_slot": "eksplorasi_teknologi"
+    }
+  ],
   "completed": [
     {
       "topic_id": "robot-serangga-salto-2025",

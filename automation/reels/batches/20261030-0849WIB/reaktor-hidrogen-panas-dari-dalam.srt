@@ -1,0 +1,55 @@
+1
+00:00:00,120 --> 00:00:01,358
+Kalau reaktornya besar,
+
+2
+00:00:01,358 --> 00:00:03,420
+bagaimana panas bisa mencapai tengahnya?
+
+3
+00:00:04,250 --> 00:00:07,179
+Bayangkan memanaskan panci raksasa dari luar.
+
+4
+00:00:07,179 --> 00:00:09,132
+Pada riset Stanford ini,
+
+5
+00:00:09,132 --> 00:00:12,550
+metana dipecah menjadi hidrogen dan karbon padat.
+
+6
+00:00:13,250 --> 00:00:17,045
+Lalu kita pindahkan sumber panasnya ke dalam.
+
+7
+00:00:17,045 --> 00:00:19,755
+Sebagian hidrogen yang dihasilkan dibakar
+
+8
+00:00:19,755 --> 00:00:23,550
+untuk membantu memasok panas bagi proses berikutnya.
+
+9
+00:00:24,250 --> 00:00:27,793
+Ada bonus: karbon padatnya berupa grafit berkualitas tinggi,
+
+10
+00:00:27,793 --> 00:00:30,007
+yang berpotensi berguna untuk baterai.
+
+11
+00:00:30,007 --> 00:00:33,550
+Namun, itu belum berarti seluruh proses bebas emisi.
+
+12
+00:00:34,250 --> 00:00:36,171
+Intinya, bukan energi tanpa habis.
+
+13
+00:00:36,171 --> 00:00:38,476
+Ini cara memasok panas lebih efektif.
+
+14
+00:00:38,476 --> 00:00:41,550
+Peningkatan skala dan dampak keseluruhan tetap perlu diperiksa.

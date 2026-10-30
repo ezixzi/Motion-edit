@@ -60,3 +60,8 @@ Large parallel base64 shell reads stalled during this batch. Successful recovery
 ## Required editorial mix — 30 October 2026
 
 Each batch of5 must include one verifiably current2026 trend story and one DIFFERENT everyday-technology story. Record editorial_slot (tren_2026 / kehidupan_sehari_hari / eksplorasi_teknologi), source/event dates, relevance and dated evidence of the trend. A recent article alone does not establish a trend. The other three slots follow current2026 technology and topic-diversity requirements. Do not count one video twice. Routine authorized research/render/QA/GitHub publication proceeds without repeated permission questions; platform access controls still apply.
+
+
+## Audience-led storytelling — 30 October 2026
+
+Start every new video with a concrete situation or choice the viewer can imagine, ask one clear question, then let the host guide attention through a mechanism toward an accurate answer. Connect scenes causally; camera moves, drawn callouts and before/after changes reveal information. Speak naturally to kamu/kita when appropriate; vary hooks and avoid report-like fact lists, empty engagement questions and unsupported clickbait. Close the question opened by the hook, then use a relevant CTA. Keep the approved duration range and all existing visual/audio/QA requirements. Script-based mouth cues are not audio lip sync.

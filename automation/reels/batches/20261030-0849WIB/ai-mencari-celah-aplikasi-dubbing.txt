@@ -1,0 +1,16 @@
+Siapa yang Menemukan Celah Aplikasimu Lebih Dulu?
+
+00–04 detik
+Kalau aplikasimu punya celah, siapa yang menemukannya dulu?
+
+04–13 detik
+Coba anggap kodenya seperti rumah. Mistral Large empat, diperkenalkan Oktober, antara lain ditujukan membantu menemukan dan memperbaiki celah perangkat lunak.
+
+13–24 detik
+Kita tandai bagian mencurigakan, lihat usulan perbaikannya, lalu jalankan pengujian. Ini gambaran alur kerja, bukan hasil pemindaian aplikasi sungguhan.
+
+24–34 detik
+Tapi pintu yang terlihat tertutup belum tentu terkunci. Saran AI bisa keliru, jadi tim tetap perlu memeriksa dan menguji ulang.
+
+34–42 detik
+Yang dicari bukan sekadar jawaban cepat, tetapi perbaikan yang terbukti bekerja. Simpan sebelum mengandalkan pemeriksaan otomatis.

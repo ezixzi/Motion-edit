@@ -1,0 +1,67 @@
+1
+00:00:00,120 --> 00:00:01,770
+Kalau aplikasimu punya celah,
+
+2
+00:00:01,770 --> 00:00:03,420
+siapa yang menemukannya dulu?
+
+3
+00:00:04,250 --> 00:00:06,325
+Coba anggap kodenya seperti rumah.
+
+4
+00:00:06,325 --> 00:00:08,400
+Mistral Large empat, diperkenalkan Oktober,
+
+5
+00:00:08,400 --> 00:00:10,475
+antara lain ditujukan membantu menemukan
+
+6
+00:00:10,475 --> 00:00:12,550
+dan memperbaiki celah perangkat lunak.
+
+7
+00:00:13,250 --> 00:00:15,418
+Kita tandai bagian mencurigakan,
+
+8
+00:00:15,418 --> 00:00:18,671
+lihat usulan perbaikannya, lalu jalankan pengujian.
+
+9
+00:00:18,671 --> 00:00:20,839
+Ini gambaran alur kerja,
+
+10
+00:00:20,839 --> 00:00:23,550
+bukan hasil pemindaian aplikasi sungguhan.
+
+11
+00:00:24,250 --> 00:00:26,575
+Tapi pintu yang terlihat tertutup
+
+12
+00:00:26,575 --> 00:00:27,970
+belum tentu terkunci.
+
+13
+00:00:27,970 --> 00:00:30,760
+Saran AI bisa keliru, jadi tim
+
+14
+00:00:30,760 --> 00:00:33,550
+tetap perlu memeriksa dan menguji ulang.
+
+15
+00:00:34,250 --> 00:00:36,988
+Yang dicari bukan sekadar jawaban cepat,
+
+16
+00:00:36,988 --> 00:00:39,269
+tetapi perbaikan yang terbukti bekerja.
+
+17
+00:00:39,269 --> 00:00:41,550
+Simpan sebelum mengandalkan pemeriksaan otomatis.

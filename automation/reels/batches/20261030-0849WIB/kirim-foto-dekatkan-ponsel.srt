@@ -1,0 +1,63 @@
+1
+00:00:00,120 --> 00:00:02,182
+Mau kirim foto ke teman?
+
+2
+00:00:02,182 --> 00:00:03,420
+Coba dekatkan ponselnya.
+
+3
+00:00:04,250 --> 00:00:05,495
+Bukan asal menempel.
+
+4
+00:00:05,495 --> 00:00:07,155
+Pada perangkat yang mendukung,
+
+5
+00:00:07,155 --> 00:00:09,230
+fitur tap di Quick Share
+
+6
+00:00:09,230 --> 00:00:12,550
+dimulai dengan memilih foto dan membuka menu Bagikan.
+
+7
+00:00:13,250 --> 00:00:15,212
+Sekarang dekatkan bagian atas
+
+8
+00:00:15,212 --> 00:00:18,155
+kedua ponsel yang terbuka, sampai menyala.
+
+9
+00:00:18,155 --> 00:00:20,607
+Penerima tetap perlu menerima permintaan
+
+10
+00:00:20,607 --> 00:00:23,550
+berbagi; file tidak langsung dikirim sembarangan.
+
+11
+00:00:24,250 --> 00:00:26,575
+Ada syaratnya: panduan Google menyebut
+
+12
+00:00:26,575 --> 00:00:30,295
+Pixel enam ke atas dengan Android tujuh belas.
+
+13
+00:00:30,295 --> 00:00:33,550
+Jadi, jangan berharap semua Android langsung bisa.
+
+14
+00:00:34,250 --> 00:00:35,968
+Saat bertukar foto nanti,
+
+15
+00:00:35,968 --> 00:00:38,974
+cek dukungan perangkat dan pastikan penerimanya benar.
+
+16
+00:00:38,974 --> 00:00:41,550
+Praktis, tapi tetap kamu yang menentukan.
