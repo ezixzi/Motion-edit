@@ -1,6 +1,12 @@
 {
   "version": 1,
-  "active_batch": null,
+  "active_batch": {
+    "id": "20261030-0849WIB",
+    "started_at": "2026-10-30T01:49:50Z",
+    "status": "researching",
+    "target_count": 5,
+    "topic_ids": []
+  },
   "pending": [],
   "completed": [
     {
