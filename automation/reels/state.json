@@ -3,7 +3,7 @@
   "active_batch": {
     "id": "20261030-0849WIB",
     "started_at": "2026-10-30T01:49:50Z",
-    "status": "rendering",
+    "status": "uploaded_pending_remote_verification",
     "target_count": 5,
     "topic_ids": [
       "mistral-large4-cyber-oct2026",
@@ -11,6 +11,13 @@
       "biosenter-preclinical-2026",
       "autothermal-methane-pyrolysis-2026",
       "cerberuz-lunarecycle-2026"
+    ],
+    "output_paths": [
+      "outputs/ai-tech/20261030-0849WIB-ai-mencari-celah-aplikasi.mp4",
+      "outputs/ai-tech/20261030-0849WIB-kirim-foto-dekatkan-ponsel.mp4",
+      "outputs/ai-tech/20261030-0849WIB-robot-lentur-menjelajah-usus.mp4",
+      "outputs/ai-tech/20261030-0849WIB-reaktor-hidrogen-panas-dari-dalam.mp4",
+      "outputs/ai-tech/20261030-0849WIB-sampah-kemasan-jadi-komponen-bulan.mp4"
     ]
   },
   "pending": [

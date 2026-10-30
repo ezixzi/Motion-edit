@@ -1,0 +1,57 @@
+{
+  "batch": "20261030-0849WIB",
+  "editorial_slots": {
+    "cyber": "tren_2026",
+    "tap": "kehidupan_sehari_hari",
+    "gut": "eksplorasi_teknologi",
+    "hydro": "eksplorasi_teknologi",
+    "lunar": "eksplorasi_teknologi"
+  },
+  "story_structure": "Viewer situation -> one question -> mechanism demonstration -> qualified answer -> contextual ending",
+  "frame_previews": [
+    65,
+    225,
+    555,
+    885,
+    1155
+  ],
+  "reviewed": [
+    "All5 scenes per topic",
+    "Full head,hands,two shoes",
+    "Max camera hold at scene3",
+    "Safe headings and lower captions",
+    "Distinct topic-specific original conceptual mechanisms",
+    "No third-party research images",
+    "Primary claim/date audit"
+  ],
+  "timing": "42seconds;script-based captions/mouth;user dubs",
+  "pending": [
+    "GitHub immutable download hash"
+  ],
+  "final_probe": "All5:1080x1920,30fps,H264 yuv420p,AAC,42seconds",
+  "full_decode": "All5 passed",
+  "final_frame_reviews": {
+    "all_scenes": [
+      65,
+      225,
+      555,
+      885,
+      1155
+    ],
+    "transitions_and_zooms": [
+      119,
+      125,
+      145,
+      610,
+      930
+    ],
+    "result": "All5 reviewed; heads,hands,both shoes intact; important text inside safe guide"
+  },
+  "audio_peaks_dbfs": {
+    "cyber": -23.2,
+    "tap": -23.4,
+    "gut": -22.8,
+    "hydro": -23.4,
+    "lunar": -22.1
+  }
+}
