@@ -1,72 +1,7 @@
 {
   "version": 1,
-  "active_batch": {
-    "id": "20261030-0849WIB",
-    "started_at": "2026-10-30T01:49:50Z",
-    "status": "uploaded_pending_remote_verification",
-    "target_count": 5,
-    "topic_ids": [
-      "mistral-large4-cyber-oct2026",
-      "android-tap-to-share-2026",
-      "biosenter-preclinical-2026",
-      "autothermal-methane-pyrolysis-2026",
-      "cerberuz-lunarecycle-2026"
-    ],
-    "output_paths": [
-      "outputs/ai-tech/20261030-0849WIB-ai-mencari-celah-aplikasi.mp4",
-      "outputs/ai-tech/20261030-0849WIB-kirim-foto-dekatkan-ponsel.mp4",
-      "outputs/ai-tech/20261030-0849WIB-robot-lentur-menjelajah-usus.mp4",
-      "outputs/ai-tech/20261030-0849WIB-reaktor-hidrogen-panas-dari-dalam.mp4",
-      "outputs/ai-tech/20261030-0849WIB-sampah-kemasan-jadi-komponen-bulan.mp4"
-    ]
-  },
-  "pending": [
-    {
-      "id": "cyber",
-      "topic_id": "mistral-large4-cyber-oct2026",
-      "title": "Siapa yang Menemukan Celah Aplikasimu Lebih Dulu?",
-      "source": "https://mistral.ai/news/mistral-large-4/",
-      "sourceDate": "2026-10-06",
-      "eventDate": "2026-10-06",
-      "editorial_slot": "tren_2026"
-    },
-    {
-      "id": "tap",
-      "topic_id": "android-tap-to-share-2026",
-      "title": "Kirim Foto Cukup Dekatkan Ponsel, Tapi Tetap Perlu Persetujuan",
-      "source": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
-      "sourceDate": "2026-08-12",
-      "eventDate": "2026-08-12",
-      "editorial_slot": "kehidupan_sehari_hari"
-    },
-    {
-      "id": "gut",
-      "topic_id": "biosenter-preclinical-2026",
-      "title": "Robot Lentur Menelusuri Belokan Usus",
-      "source": "https://www.utsouthwestern.edu/newsroom/articles/year-2026/oct-robot-improve-gastroenterologists-diagnosis.html",
-      "sourceDate": "2026-10-28",
-      "eventDate": "2026-10-28",
-      "editorial_slot": "eksplorasi_teknologi"
-    },
-    {
-      "id": "hydro",
-      "topic_id": "autothermal-methane-pyrolysis-2026",
-      "title": "Reaktor Hidrogen Dipanaskan dari Dalam",
-      "source": "https://news.stanford.edu/stories/2026/09/sustainable-hydrogen-production-heating-method",
-      "sourceDate": "2026-09-03",
-      "eventDate": "2026-09-03",
-      "editorial_slot": "eksplorasi_teknologi"
-    },
-    {
-      "id": "lunar",
-      "topic_id": "cerberuz-lunarecycle-2026",
-      "title": "Sampah Kemasan Bisa Menjadi Komponen untuk Pangkalan Bulan",
-      "source": "https://news.mit.edu/2026/mit-student-team-cerberuz-wins-nasa-lunarecycle-centennial-challenge-1020",
-      "sourceDate": "2026-10-20",
-      "eventDate": "2026-08",
-      "editorial_slot": "eksplorasi_teknologi"
-    }
-  ],
+  "active_batch": null,
+  "pending": [],
   "completed": [
     {
       "topic_id": "robot-serangga-salto-2025",
@@ -365,6 +300,140 @@
       "size": 9058398,
       "verified_commit": "2e9453bbff507d5e2226e13132cc61e8ef1d11ad",
       "production_notes": "automation/reels/batches/20261030-0525WIB/DELIVERY.md"
+    },
+    {
+      "topic_id": "mistral-large4-cyber-oct2026",
+      "title": "Siapa yang Menemukan Celah Aplikasimu Lebih Dulu?",
+      "editorial_slot": "tren_2026",
+      "source_urls": [
+        "https://mistral.ai/news/mistral-large-4/",
+        "https://docs.mistral.ai/models/mistral-large-4-0"
+      ],
+      "source_dates": [
+        "2026-10-06"
+      ],
+      "original_work_date": "2026-10-06",
+      "source_event_context": "Public preview Mistral Large4 diperkenalkan6Oktober2026. Liputan Reuters29Oktober melaporkan rilis publik; video hanya mengklaim pengenalan Oktober dan tujuan kemampuan, tidak mengklaim status bobot terbaru.",
+      "category": "perkembangan2026",
+      "present_relevance": "Peluncuran besar Oktober, liputan independen6dan29Oktober; sudut defensif mencari dan memperbaiki celah.",
+      "trend_evidence": [
+        {
+          "url": "https://www.reuters.com/legal/litigation/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users-2026-10-29/",
+          "date": "2026-10-29",
+          "basis": "Liputan rilis publik dan fokus keamanan siber dalam hasil pencarian."
+        },
+        {
+          "url": "https://www.lemonde.fr/en/economy/article/2026/10/06/mistral-ai-unveils-new-ai-model-aimed-at-narrowing-the-gap-with-top-chinese-competitors_6758318_19.html",
+          "date": "2026-10-06",
+          "basis": "Liputan independen pengenalan model; bukan klaim viral."
+        }
+      ],
+      "output_path": "outputs/ai-tech/20261030-0849WIB-ai-mencari-celah-aplikasi.mp4",
+      "sha256": "afb7216aaff7fb654093afceb35eef8f41730f54bfc782126c39c84d9b36c159",
+      "published_at": "2026-10-30T02:24:42Z",
+      "duration": 42.005,
+      "size": 8412489,
+      "verified_commit": "4f0248e651ad44cb777d4dd0b38a5f01802396df",
+      "production_notes": "automation/reels/batches/20261030-0849WIB/DELIVERY.md",
+      "storytelling": "Concrete viewer situation, guided mechanism and qualified answer"
+    },
+    {
+      "topic_id": "android-tap-to-share-2026",
+      "title": "Kirim Foto Cukup Dekatkan Ponsel, Tapi Tetap Perlu Persetujuan",
+      "editorial_slot": "kehidupan_sehari_hari",
+      "source_urls": [
+        "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
+        "https://support.google.com/android/answer/17161144"
+      ],
+      "source_dates": [
+        "2026-08-12"
+      ],
+      "original_work_date": "2026-08-12",
+      "source_event_context": "Tap to share diumumkan12Agustus2026 mulai Pixel. Bantuan resmi saat verifikasi menyebut Pixel6+ dengan Android17+; tidak mengklaim semua Android mendukung.",
+      "category": "perkembangan2026",
+      "present_relevance": "Masalah sehari-hari mencari kontak untuk mengirim foto; fitur tap baru2026 dengan persyaratan perangkat yang jelas.",
+      "output_path": "outputs/ai-tech/20261030-0849WIB-kirim-foto-dekatkan-ponsel.mp4",
+      "sha256": "26ac1cf9edd7abbdfed46d746b49f08db1e3be21f10e1ff1310d8f9939bf42bb",
+      "published_at": "2026-10-30T02:24:42Z",
+      "duration": 42.005,
+      "size": 8722777,
+      "verified_commit": "4f0248e651ad44cb777d4dd0b38a5f01802396df",
+      "production_notes": "automation/reels/batches/20261030-0849WIB/DELIVERY.md",
+      "storytelling": "Concrete viewer situation, guided mechanism and qualified answer"
+    },
+    {
+      "topic_id": "biosenter-preclinical-2026",
+      "title": "Robot Lentur Menelusuri Belokan Usus",
+      "editorial_slot": "eksplorasi_teknologi",
+      "source_urls": [
+        "https://www.utsouthwestern.edu/newsroom/articles/year-2026/oct-robot-improve-gastroenterologists-diagnosis.html",
+        "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
+        "https://doi.org/10.1126/scirobotics.adt2230"
+      ],
+      "source_dates": [
+        "2026-10-28"
+      ],
+      "original_work_date": "2026-10-28",
+      "source_event_context": "Laporan studi praklinis BIOSENTER dan publikasi Science Robotics28Oktober2026. Pengerjaan desain telah berlangsung sebelum2026; bukan klaim ide baru pertama.",
+      "category": "perkembangan2026",
+      "present_relevance": "Studi praklinis minggu ini menunjukkan gerak dan intervensi; dapat divisualisasikan dengan mekanisme udara dan selubung kirigami.",
+      "output_path": "outputs/ai-tech/20261030-0849WIB-robot-lentur-menjelajah-usus.mp4",
+      "sha256": "7daf47ad24b499ed6db7343743603a24e474cdae73d71f079bbe834a42804886",
+      "published_at": "2026-10-30T02:24:42Z",
+      "duration": 42.005,
+      "size": 9030197,
+      "verified_commit": "4f0248e651ad44cb777d4dd0b38a5f01802396df",
+      "production_notes": "automation/reels/batches/20261030-0849WIB/DELIVERY.md",
+      "storytelling": "Concrete viewer situation, guided mechanism and qualified answer"
+    },
+    {
+      "topic_id": "autothermal-methane-pyrolysis-2026",
+      "title": "Reaktor Hidrogen Dipanaskan dari Dalam",
+      "editorial_slot": "eksplorasi_teknologi",
+      "source_urls": [
+        "https://news.stanford.edu/stories/2026/09/sustainable-hydrogen-production-heating-method",
+        "https://pubmed.ncbi.nlm.nih.gov/42691174/",
+        "https://doi.org/10.1126/science.aed4911"
+      ],
+      "source_dates": [
+        "2026-09-03"
+      ],
+      "original_work_date": "2026-09-03",
+      "source_event_context": "Paper Science dan laporan Stanford3September2026; metode autothermal baru, bukan klaim pirolisis ditemukan2026.",
+      "category": "perkembangan2026",
+      "present_relevance": "Riset2026 mengatasi kendala pemanasan reaktor pirolisis, dengan hasil karbon padat; tetap relevan untuk tantangan peningkatan skala.",
+      "output_path": "outputs/ai-tech/20261030-0849WIB-reaktor-hidrogen-panas-dari-dalam.mp4",
+      "sha256": "31a08397d48ee1cea65ddeca44b95b4b4383d1f3a322e85b6d440060f79120c8",
+      "published_at": "2026-10-30T02:24:42Z",
+      "duration": 42.005,
+      "size": 9093195,
+      "verified_commit": "4f0248e651ad44cb777d4dd0b38a5f01802396df",
+      "production_notes": "automation/reels/batches/20261030-0849WIB/DELIVERY.md",
+      "storytelling": "Concrete viewer situation, guided mechanism and qualified answer"
+    },
+    {
+      "topic_id": "cerberuz-lunarecycle-2026",
+      "title": "Sampah Kemasan Bisa Menjadi Komponen untuk Pangkalan Bulan",
+      "editorial_slot": "eksplorasi_teknologi",
+      "source_urls": [
+        "https://news.mit.edu/2026/mit-student-team-cerberuz-wins-nasa-lunarecycle-centennial-challenge-1020",
+        "https://www.nasa.gov/prizes-challenges-and-crowdsourcing/centennial-challenges/lunarecycle/"
+      ],
+      "source_dates": [
+        "2026-10-20"
+      ],
+      "original_work_date": "2026-08",
+      "source_event_context": "Demonstrasi final LunaRecycle di Bumi padaAgustus2026 menurut NASA; laporan MIT20Oktober. Tim memenangkan fase1pada2025; tidak diklaim alat sudah beroperasi di Bulan.",
+      "category": "perkembangan2026",
+      "present_relevance": "Hasil demonstrasi kompetisi2026 dan penjelasan mekanisme terbaru Oktober; persoalan pasokan dan limbah pangkalan masa depan.",
+      "output_path": "outputs/ai-tech/20261030-0849WIB-sampah-kemasan-jadi-komponen-bulan.mp4",
+      "sha256": "594d30b1fd4e1f84c0414582008f727e330ae175b0e03ad833258e97074d70bd",
+      "published_at": "2026-10-30T02:24:42Z",
+      "duration": 42.005,
+      "size": 8851380,
+      "verified_commit": "4f0248e651ad44cb777d4dd0b38a5f01802396df",
+      "production_notes": "automation/reels/batches/20261030-0849WIB/DELIVERY.md",
+      "storytelling": "Concrete viewer situation, guided mechanism and qualified answer"
     }
   ],
   "avoid_topics": [
@@ -382,7 +451,7 @@
     "AI-assisted video editing",
     "video made with Codex"
   ],
-  "updated_at": "2026-10-29T23:10:12Z",
+  "updated_at": "2026-10-30T02:24:42Z",
   "model_requirement": {
     "model": "gpt-6.1-sol",
     "reasoning_effort": "medium",
@@ -390,22 +459,22 @@
     "verification": "user_confirmed_available_proceed_2026-10-29"
   },
   "last_attempt": {
-    "at": "2026-10-29T23:10:12Z",
+    "at": "2026-10-30T02:24:42Z",
     "status": "completed_verified",
     "produced": 5,
     "remote_sha256_matched": true
   },
   "last_batch": {
-    "id": "20261030-0525WIB",
-    "completed_at": "2026-10-29T23:10:12Z",
+    "id": "20261030-0849WIB",
+    "completed_at": "2026-10-30T02:24:42Z",
     "status": "completed_verified",
     "count": 5,
     "output_paths": [
-      "outputs/ai-tech/20261030-0525WIB-agen-ai-kerja-gemini-2026.mp4",
-      "outputs/ai-tech/20261030-0525WIB-android-lindungi-layar-saat-sharing.mp4",
-      "outputs/ai-tech/20261030-0525WIB-magnet-kecil-baca-gerak-otot.mp4",
-      "outputs/ai-tech/20261030-0525WIB-asam-amino-film-sensor-lentur.mp4",
-      "outputs/ai-tech/20261030-0525WIB-laboratorium-ai-atur-eksperimen.mp4"
+      "outputs/ai-tech/20261030-0849WIB-ai-mencari-celah-aplikasi.mp4",
+      "outputs/ai-tech/20261030-0849WIB-kirim-foto-dekatkan-ponsel.mp4",
+      "outputs/ai-tech/20261030-0849WIB-robot-lentur-menjelajah-usus.mp4",
+      "outputs/ai-tech/20261030-0849WIB-reaktor-hidrogen-panas-dari-dalam.mp4",
+      "outputs/ai-tech/20261030-0849WIB-sampah-kemasan-jadi-komponen-bulan.mp4"
     ]
   },
   "production_config": {
@@ -423,5 +492,13 @@
     "routine_production_preapproved": true,
     "scope": "Research, filesystem work, fixes, render, QA and publishing to ezixzi/Motion-edit without repeated routine confirmation; no social posting or third-party messaging",
     "platform_controls": "Respect mandatory Connect/Reconnect and official access controls"
+  },
+  "storytelling_preference": {
+    "updated_at": "2026-10-30T02:24:42Z",
+    "approach": "Viewer participates in a concrete situation and follows host through question,mechanism,answer; vary hooks; no clickbait",
+    "duration_range_seconds": [
+      35,
+      50
+    ]
   }
 }

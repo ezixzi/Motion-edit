@@ -25,9 +25,7 @@
     "Primary claim/date audit"
   ],
   "timing": "42seconds;script-based captions/mouth;user dubs",
-  "pending": [
-    "GitHub immutable download hash"
-  ],
+  "pending": [],
   "final_probe": "All5:1080x1920,30fps,H264 yuv420p,AAC,42seconds",
   "full_decode": "All5 passed",
   "final_frame_reviews": {
@@ -53,5 +51,9 @@
     "gut": -22.8,
     "hydro": -23.4,
     "lunar": -22.1
+  },
+  "remote_verification": {
+    "commit": "4f0248e651ad44cb777d4dd0b38a5f01802396df",
+    "matched": 5
   }
 }
